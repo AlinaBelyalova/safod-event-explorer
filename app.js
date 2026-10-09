@@ -558,6 +558,7 @@
     els.plotSelector.addEventListener("change", () => {
       selectPlot(Number(els.plotSelector.value));
     });
+    window.addEventListener("hashchange", openHashEvent);
   }
 
   function updateStatus() {
@@ -599,17 +600,29 @@ function resolveEventId(value) {
 
 
   function openHashEvent() {
-    if (!location.hash.startsWith("#event=")) return;
-
-    const requestedId = decodeURIComponent(
-      location.hash.slice("#event=".length)
-    );
+    const requestedId = new URLSearchParams(location.hash.slice(1)).get("event");
+    if (!requestedId) {
+      closeEventDialog();
+      return;
+    }
 
     const eventId = resolveEventId(requestedId);
+    if (!eventId) return;
 
-    if (eventId) {
-      openEventDialog(eventId);
+    const event = state.byId.get(eventId);
+    const marker = state.markers.get(eventId);
+    if (event && marker) {
+      // A direct link must reveal the marker even if current filters hide it.
+      if (!state.eventLayer.hasLayer(marker)) resetFilters();
+      state.map.setView(
+        [event.latitude, event.longitude],
+        Math.max(state.map.getZoom(), 13),
+        { animate: false }
+      );
+      marker.openPopup();
     }
+
+    openEventDialog(eventId);
   }
 
   async function boot() {
@@ -633,13 +646,17 @@ function resolveEventId(value) {
     initMap();
     updateStatus();
 
+    // Create markers before resolving links, without waiting for optional layers.
+    drawEvents();
+    openHashEvent();
+
     await Promise.allSettled([
       drawSafodGeometry(),
       drawFault(),
     ]);
 
-    drawEvents();
-    openHashEvent();
+    // Keep event markers above the geometry loaded in the background.
+    state.eventLayer.eachLayer((marker) => marker.bringToFront());
   }
 
   boot().catch((error) => {
