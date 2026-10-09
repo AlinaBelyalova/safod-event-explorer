@@ -1,6 +1,6 @@
 [
   {
-    "event_id": "75334592",
+    "event_id": "nc75334592",
     "origin_time_utc": "2026-03-28T19:44:30.590000Z",
     "latitude": 36.00967,
     "longitude": -120.571,
@@ -28,10 +28,10 @@
         "source_name": "20260328T194430_event_75334592_M0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75334592/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75334592/"
   },
   {
-    "event_id": "75334687",
+    "event_id": "nc75334687",
     "origin_time_utc": "2026-03-29T01:46:55.980000Z",
     "latitude": 36.346,
     "longitude": -120.30583,
@@ -59,10 +59,10 @@
         "source_name": "20260329T014655_event_75334687_M1.6_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75334687/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75334687/"
   },
   {
-    "event_id": "75334912",
+    "event_id": "nc75334912",
     "origin_time_utc": "2026-03-29T13:54:50.750000Z",
     "latitude": 35.82667,
     "longitude": -120.5145,
@@ -90,10 +90,10 @@
         "source_name": "20260329T135450_event_75334912_M0.6_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75334912/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75334912/"
   },
   {
-    "event_id": "75335122",
+    "event_id": "nc75335122",
     "origin_time_utc": "2026-03-29T20:12:38.750000Z",
     "latitude": 36.1225,
     "longitude": -120.249,
@@ -121,10 +121,10 @@
         "source_name": "20260329T201238_event_75335122_M1.2_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75335122/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75335122/"
   },
   {
-    "event_id": "75335152",
+    "event_id": "nc75335152",
     "origin_time_utc": "2026-03-29T21:28:15.230000Z",
     "latitude": 36.06067,
     "longitude": -120.635,
@@ -152,10 +152,10 @@
         "source_name": "20260329T212815_event_75335152_M0.7_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75335152/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75335152/"
   },
   {
-    "event_id": "75335767",
+    "event_id": "nc75335767",
     "origin_time_utc": "2026-03-30T19:29:04.780000Z",
     "latitude": 35.703,
     "longitude": -120.2355,
@@ -183,10 +183,10 @@
         "source_name": "20260330T192904_event_75335767_M1.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75335767/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75335767/"
   },
   {
-    "event_id": "75335827",
+    "event_id": "nc75335827",
     "origin_time_utc": "2026-03-30T20:36:19.600000Z",
     "latitude": 36.11133,
     "longitude": -120.54933,
@@ -214,10 +214,10 @@
         "source_name": "20260330T203619_event_75335827_M0.5_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75335827/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75335827/"
   },
   {
-    "event_id": "75336232",
+    "event_id": "nc75336232",
     "origin_time_utc": "2026-03-31T14:36:21.760000Z",
     "latitude": 35.93783,
     "longitude": -120.929,
@@ -245,10 +245,10 @@
         "source_name": "20260331T143621_event_75336232_M0.7_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75336232/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75336232/"
   },
   {
-    "event_id": "75336372",
+    "event_id": "nc75336372",
     "origin_time_utc": "2026-03-31T17:08:31.650000Z",
     "latitude": 35.9935,
     "longitude": -120.98817,
@@ -276,10 +276,10 @@
         "source_name": "20260331T170831_event_75336372_M1.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75336372/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75336372/"
   },
   {
-    "event_id": "75336682",
+    "event_id": "nc75336682",
     "origin_time_utc": "2026-04-01T01:24:18.650000Z",
     "latitude": 36.01933,
     "longitude": -120.5805,
@@ -307,10 +307,10 @@
         "source_name": "20260401T012418_event_75336682_M1.5_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75336682/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75336682/"
   },
   {
-    "event_id": "75336752",
+    "event_id": "nc75336752",
     "origin_time_utc": "2026-04-01T03:46:16.030000Z",
     "latitude": 36.0955,
     "longitude": -120.67083,
@@ -338,10 +338,10 @@
         "source_name": "20260401T034616_event_75336752_M1.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75336752/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75336752/"
   },
   {
-    "event_id": "75336802",
+    "event_id": "nc75336802",
     "origin_time_utc": "2026-04-01T04:57:57.470000Z",
     "latitude": 35.98683,
     "longitude": -120.54166,
@@ -369,10 +369,10 @@
         "source_name": "20260401T045757_event_75336802_M0.7_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75336802/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75336802/"
   },
   {
-    "event_id": "75336822",
+    "event_id": "nc75336822",
     "origin_time_utc": "2026-04-01T05:26:57.870000Z",
     "latitude": 36.16133,
     "longitude": -120.19217,
@@ -400,10 +400,10 @@
         "source_name": "20260401T052657_event_75336822_M1.3_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75336822/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75336822/"
   },
   {
-    "event_id": "75337412",
+    "event_id": "nc75337412",
     "origin_time_utc": "2026-04-02T07:23:05.980000Z",
     "latitude": 36.13633,
     "longitude": -120.24017,
@@ -431,10 +431,10 @@
         "source_name": "20260402T072305_event_75337412_M1.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75337412/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337412/"
   },
   {
-    "event_id": "75337482",
+    "event_id": "nc75337482",
     "origin_time_utc": "2026-04-02T10:33:30.470000Z",
     "latitude": 36.05,
     "longitude": -120.65067,
@@ -462,10 +462,10 @@
         "source_name": "20260402T103330_event_75337482_M0.3_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75337482/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337482/"
   },
   {
-    "event_id": "75337717",
+    "event_id": "nc75337717",
     "origin_time_utc": "2026-04-02T17:35:06.710000Z",
     "latitude": 36.03683,
     "longitude": -120.59883,
@@ -493,10 +493,10 @@
         "source_name": "20260402T173506_event_75337717_M0.9_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75337717/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337717/"
   },
   {
-    "event_id": "75337712",
+    "event_id": "nc75337712",
     "origin_time_utc": "2026-04-02T17:35:18.550000Z",
     "latitude": 36.038,
     "longitude": -120.605,
@@ -524,10 +524,10 @@
         "source_name": "20260402T173518_event_75337712_M0.3_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75337712/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337712/"
   },
   {
-    "event_id": "75337722",
+    "event_id": "nc75337722",
     "origin_time_utc": "2026-04-02T17:35:38.010000Z",
     "latitude": 36.03833,
     "longitude": -120.60033,
@@ -555,10 +555,10 @@
         "source_name": "20260402T173538_event_75337722_M0.4_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75337722/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337722/"
   },
   {
-    "event_id": "75337812",
+    "event_id": "nc75337812",
     "origin_time_utc": "2026-04-02T20:17:05.400000Z",
     "latitude": 35.79133,
     "longitude": -120.35533,
@@ -586,10 +586,10 @@
         "source_name": "20260402T201705_event_75337812_M0.7_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75337812/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337812/"
   },
   {
-    "event_id": "75338217",
+    "event_id": "nc75338217",
     "origin_time_utc": "2026-04-03T14:39:07.560000Z",
     "latitude": 36.03433,
     "longitude": -120.59566,
@@ -617,10 +617,10 @@
         "source_name": "20260403T143907_event_75338217_M0.9_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338217/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338217/"
   },
   {
-    "event_id": "75338242",
+    "event_id": "nc75338242",
     "origin_time_utc": "2026-04-03T16:01:10.890000Z",
     "latitude": 36.24434,
     "longitude": -120.32083,
@@ -648,10 +648,10 @@
         "source_name": "20260403T160110_event_75338242_M1.4_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338242/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338242/"
   },
   {
-    "event_id": "75338257",
+    "event_id": "nc75338257",
     "origin_time_utc": "2026-04-03T16:32:05.950000Z",
     "latitude": 36.2435,
     "longitude": -120.326,
@@ -679,10 +679,10 @@
         "source_name": "20260403T163205_event_75338257_M1.4_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338257/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338257/"
   },
   {
-    "event_id": "75338262",
+    "event_id": "nc75338262",
     "origin_time_utc": "2026-04-03T16:53:50.500000Z",
     "latitude": 36.24383,
     "longitude": -120.3195,
@@ -710,10 +710,10 @@
         "source_name": "20260403T165350_event_75338262_M1.7_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338262/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338262/"
   },
   {
-    "event_id": "75338277",
+    "event_id": "nc75338277",
     "origin_time_utc": "2026-04-03T17:36:06.360000Z",
     "latitude": 36.2435,
     "longitude": -120.31934,
@@ -741,10 +741,10 @@
         "source_name": "20260403T173606_event_75338277_M1.2_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338277/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338277/"
   },
   {
-    "event_id": "75338322",
+    "event_id": "nc75338322",
     "origin_time_utc": "2026-04-03T18:22:16.700000Z",
     "latitude": 36.24333,
     "longitude": -120.317,
@@ -772,10 +772,10 @@
         "source_name": "20260403T182216_event_75338322_M0.9_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338322/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338322/"
   },
   {
-    "event_id": "75338342",
+    "event_id": "nc75338342",
     "origin_time_utc": "2026-04-03T18:40:51.780000Z",
     "latitude": 36.242,
     "longitude": -120.335,
@@ -803,10 +803,10 @@
         "source_name": "20260403T184051_event_75338342_M0.7_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338342/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338342/"
   },
   {
-    "event_id": "75338417",
+    "event_id": "nc75338417",
     "origin_time_utc": "2026-04-03T20:22:08.420000Z",
     "latitude": 36.217,
     "longitude": -120.39983,
@@ -834,10 +834,10 @@
         "source_name": "20260403T202208_event_75338417_M0.6_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338417/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338417/"
   },
   {
-    "event_id": "75338432",
+    "event_id": "nc75338432",
     "origin_time_utc": "2026-04-03T20:43:00.980000Z",
     "latitude": 36.21617,
     "longitude": -120.3975,
@@ -865,10 +865,10 @@
         "source_name": "20260403T204300_event_75338432_M0.6_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338432/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338432/"
   },
   {
-    "event_id": "75338472",
+    "event_id": "nc75338472",
     "origin_time_utc": "2026-04-03T21:40:45.790000Z",
     "latitude": 36.21817,
     "longitude": -120.39516,
@@ -896,10 +896,10 @@
         "source_name": "20260403T214045_event_75338472_M0.4_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338472/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338472/"
   },
   {
-    "event_id": "75338492",
+    "event_id": "nc75338492",
     "origin_time_utc": "2026-04-03T22:01:24.110000Z",
     "latitude": 36.21617,
     "longitude": -120.396,
@@ -927,10 +927,10 @@
         "source_name": "20260403T220124_event_75338492_M0.4_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338492/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338492/"
   },
   {
-    "event_id": "75338507",
+    "event_id": "nc75338507",
     "origin_time_utc": "2026-04-03T22:27:30.630000Z",
     "latitude": 36.217,
     "longitude": -120.39133,
@@ -958,10 +958,10 @@
         "source_name": "20260403T222730_event_75338507_M0.6_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338507/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338507/"
   },
   {
-    "event_id": "75338512",
+    "event_id": "nc75338512",
     "origin_time_utc": "2026-04-03T22:45:43.060000Z",
     "latitude": 36.21567,
     "longitude": -120.39817,
@@ -989,10 +989,10 @@
         "source_name": "20260403T224543_event_75338512_M0.6_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338512/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338512/"
   },
   {
-    "event_id": "75338612",
+    "event_id": "nc75338612",
     "origin_time_utc": "2026-04-04T02:54:04.820000Z",
     "latitude": 36.19717,
     "longitude": -120.09983,
@@ -1020,10 +1020,10 @@
         "source_name": "20260404T025404_event_75338612_M2.2_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338612/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338612/"
   },
   {
-    "event_id": "75338727",
+    "event_id": "nc75338727",
     "origin_time_utc": "2026-04-04T09:44:18.400000Z",
     "latitude": 35.82967,
     "longitude": -120.3835,
@@ -1051,10 +1051,10 @@
         "source_name": "20260404T094418_event_75338727_M0.6_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338727/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338727/"
   },
   {
-    "event_id": "75338782",
+    "event_id": "nc75338782",
     "origin_time_utc": "2026-04-04T11:27:05.860000Z",
     "latitude": 36.18917,
     "longitude": -120.09817,
@@ -1082,10 +1082,10 @@
         "source_name": "20260404T112705_event_75338782_M1.7_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338782/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338782/"
   },
   {
-    "event_id": "75338817",
+    "event_id": "nc75338817",
     "origin_time_utc": "2026-04-04T13:19:26.050000Z",
     "latitude": 36.01467,
     "longitude": -120.57433,
@@ -1113,10 +1113,10 @@
         "source_name": "20260404T131926_event_75338817_M0.8_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338817/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338817/"
   },
   {
-    "event_id": "75338982",
+    "event_id": "nc75338982",
     "origin_time_utc": "2026-04-04T20:40:06.820000Z",
     "latitude": 36.197,
     "longitude": -120.1,
@@ -1144,10 +1144,10 @@
         "source_name": "20260404T204006_event_75338982_M1.5_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338982/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338982/"
   },
   {
-    "event_id": "75338992",
+    "event_id": "nc75338992",
     "origin_time_utc": "2026-04-04T20:44:25.780000Z",
     "latitude": 36.195,
     "longitude": -120.104,
@@ -1175,10 +1175,10 @@
         "source_name": "20260404T204425_event_75338992_M1.5_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75338992/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338992/"
   },
   {
-    "event_id": "75339007",
+    "event_id": "nc75339007",
     "origin_time_utc": "2026-04-04T20:56:28.340000Z",
     "latitude": 36.00267,
     "longitude": -120.56583,
@@ -1206,10 +1206,10 @@
         "source_name": "20260404T205628_event_75339007_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75339007/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75339007/"
   },
   {
-    "event_id": "75339712",
+    "event_id": "nc75339712",
     "origin_time_utc": "2026-04-06T07:34:37.870000Z",
     "latitude": 36.04417,
     "longitude": -120.619,
@@ -1237,10 +1237,10 @@
         "source_name": "20260406T073437_event_75339712_M0.2_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75339712/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75339712/"
   },
   {
-    "event_id": "75339747",
+    "event_id": "nc75339747",
     "origin_time_utc": "2026-04-06T08:48:22.440000Z",
     "latitude": 35.9745,
     "longitude": -120.52866,
@@ -1268,10 +1268,10 @@
         "source_name": "20260406T084822_event_75339747_M1.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75339747/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75339747/"
   },
   {
-    "event_id": "75339872",
+    "event_id": "nc75339872",
     "origin_time_utc": "2026-04-06T14:49:28.270000Z",
     "latitude": 36.11683,
     "longitude": -120.245,
@@ -1299,10 +1299,10 @@
         "source_name": "20260406T144928_event_75339872_M1.4_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75339872/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75339872/"
   },
   {
-    "event_id": "75340727",
+    "event_id": "nc75340727",
     "origin_time_utc": "2026-04-07T21:41:38.270000Z",
     "latitude": 36.0145,
     "longitude": -120.56966,
@@ -1330,10 +1330,10 @@
         "source_name": "20260407T214138_event_75340727_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75340727/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75340727/"
   },
   {
-    "event_id": "75341067",
+    "event_id": "nc75341067",
     "origin_time_utc": "2026-04-08T15:29:19.560000Z",
     "latitude": 35.95633,
     "longitude": -120.508,
@@ -1361,10 +1361,10 @@
         "source_name": "20260408T152919_event_75341067_M1.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75341067/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341067/"
   },
   {
-    "event_id": "75341507",
+    "event_id": "nc75341507",
     "origin_time_utc": "2026-04-09T08:48:43.010000Z",
     "latitude": 36.20617,
     "longitude": -120.08884,
@@ -1392,10 +1392,10 @@
         "source_name": "20260409T084843_event_75341507_M1.7_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75341507/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341507/"
   },
   {
-    "event_id": "75341552",
+    "event_id": "nc75341552",
     "origin_time_utc": "2026-04-09T10:51:19.740000Z",
     "latitude": 35.9935,
     "longitude": -121.02966,
@@ -1423,10 +1423,10 @@
         "source_name": "20260409T105119_event_75341552_M1.7_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75341552/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341552/"
   },
   {
-    "event_id": "75341597",
+    "event_id": "nc75341597",
     "origin_time_utc": "2026-04-09T13:13:10.770000Z",
     "latitude": 36.01383,
     "longitude": -120.5705,
@@ -1454,10 +1454,10 @@
         "source_name": "20260409T131310_event_75341597_M0.8_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75341597/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341597/"
   },
   {
-    "event_id": "75341617",
+    "event_id": "nc75341617",
     "origin_time_utc": "2026-04-09T14:00:02.080000Z",
     "latitude": 36.02183,
     "longitude": -121.053,
@@ -1485,10 +1485,10 @@
         "source_name": "20260409T140002_event_75341617_M1.2_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75341617/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341617/"
   },
   {
-    "event_id": "75341742",
+    "event_id": "nc75341742",
     "origin_time_utc": "2026-04-09T18:37:48.810000Z",
     "latitude": 36.04383,
     "longitude": -120.99617,
@@ -1516,10 +1516,10 @@
         "source_name": "20260409T183748_event_75341742_M1.2_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75341742/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341742/"
   },
   {
-    "event_id": "75341877",
+    "event_id": "nc75341877",
     "origin_time_utc": "2026-04-09T21:54:40.590000Z",
     "latitude": 35.994,
     "longitude": -120.3925,
@@ -1547,10 +1547,10 @@
         "source_name": "20260409T215440_event_75341877_M0.3_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75341877/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341877/"
   },
   {
-    "event_id": "75341887",
+    "event_id": "nc75341887",
     "origin_time_utc": "2026-04-09T22:15:12.180000Z",
     "latitude": 36.01266,
     "longitude": -120.57883,
@@ -1578,10 +1578,10 @@
         "source_name": "20260409T221512_event_75341887_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75341887/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341887/"
   },
   {
-    "event_id": "75342097",
+    "event_id": "nc75342097",
     "origin_time_utc": "2026-04-10T11:41:55.990000Z",
     "latitude": 35.95183,
     "longitude": -120.512,
@@ -1609,10 +1609,10 @@
         "source_name": "20260410T114155_event_75342097_M0.3_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75342097/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75342097/"
   },
   {
-    "event_id": "75342187",
+    "event_id": "nc75342187",
     "origin_time_utc": "2026-04-10T16:35:19.060000Z",
     "latitude": 36.0605,
     "longitude": -120.63383,
@@ -1640,10 +1640,10 @@
         "source_name": "20260410T163519_event_75342187_M0.3_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75342187/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75342187/"
   },
   {
-    "event_id": "75342507",
+    "event_id": "nc75342507",
     "origin_time_utc": "2026-04-11T05:55:40.880000Z",
     "latitude": 36.049,
     "longitude": -120.614,
@@ -1671,10 +1671,10 @@
         "source_name": "20260411T055540_event_75342507_M1.3_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75342507/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75342507/"
   },
   {
-    "event_id": "75343002",
+    "event_id": "nc75343002",
     "origin_time_utc": "2026-04-12T13:51:27.420000Z",
     "latitude": 35.979,
     "longitude": -120.5365,
@@ -1702,10 +1702,10 @@
         "source_name": "20260412T135127_event_75343002_M0.1_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75343002/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75343002/"
   },
   {
-    "event_id": "75343042",
+    "event_id": "nc75343042",
     "origin_time_utc": "2026-04-12T16:12:16.900000Z",
     "latitude": 35.98067,
     "longitude": -120.533,
@@ -1733,10 +1733,10 @@
         "source_name": "20260412T161216_event_75343042_M0.4_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75343042/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75343042/"
   },
   {
-    "event_id": "75343147",
+    "event_id": "nc75343147",
     "origin_time_utc": "2026-04-12T22:24:09.400000Z",
     "latitude": 35.9465,
     "longitude": -120.45834,
@@ -1764,10 +1764,10 @@
         "source_name": "20260412T222409_event_75343147_M0.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75343147/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75343147/"
   },
   {
-    "event_id": "75343197",
+    "event_id": "nc75343197",
     "origin_time_utc": "2026-04-13T00:11:09.040000Z",
     "latitude": 35.94833,
     "longitude": -120.46017,
@@ -1795,10 +1795,10 @@
         "source_name": "20260413T001109_event_75343197_M0.1_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75343197/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75343197/"
   },
   {
-    "event_id": "75343242",
+    "event_id": "nc75343242",
     "origin_time_utc": "2026-04-13T02:42:58.720000Z",
     "latitude": 36.282,
     "longitude": -120.85017,
@@ -1826,10 +1826,10 @@
         "source_name": "20260413T024258_event_75343242_M0.4_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75343242/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75343242/"
   },
   {
-    "event_id": "75343317",
+    "event_id": "nc75343317",
     "origin_time_utc": "2026-04-13T06:35:49.710000Z",
     "latitude": 36.019,
     "longitude": -120.58334,
@@ -1857,10 +1857,10 @@
         "source_name": "20260413T063549_event_75343317_M1.5_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75343317/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75343317/"
   },
   {
-    "event_id": "75346092",
+    "event_id": "nc75346092",
     "origin_time_utc": "2026-04-16T23:12:03.790000Z",
     "latitude": 35.93267,
     "longitude": -120.48483,
@@ -1888,10 +1888,10 @@
         "source_name": "20260416T231203_event_75346092_M-0.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75346092/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75346092/"
   },
   {
-    "event_id": "75346177",
+    "event_id": "nc75346177",
     "origin_time_utc": "2026-04-17T03:46:31.080000Z",
     "latitude": 36.3935,
     "longitude": -120.38783,
@@ -1919,10 +1919,10 @@
         "source_name": "20260417T034631_event_75346177_M2.0_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75346177/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75346177/"
   },
   {
-    "event_id": "75346187",
+    "event_id": "nc75346187",
     "origin_time_utc": "2026-04-17T03:56:53.920000Z",
     "latitude": 36.3925,
     "longitude": -120.39017,
@@ -1950,10 +1950,10 @@
         "source_name": "20260417T035653_event_75346187_M1.6_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75346187/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75346187/"
   },
   {
-    "event_id": "75346927",
+    "event_id": "nc75346927",
     "origin_time_utc": "2026-04-18T06:02:52.300000Z",
     "latitude": 35.99317,
     "longitude": -121.03433,
@@ -1981,10 +1981,10 @@
         "source_name": "20260418T060252_event_75346927_M0.9_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75346927/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75346927/"
   },
   {
-    "event_id": "75347037",
+    "event_id": "nc75347037",
     "origin_time_utc": "2026-04-18T11:35:31.180000Z",
     "latitude": 36.18733,
     "longitude": -120.14233,
@@ -2012,10 +2012,10 @@
         "source_name": "20260418T113531_event_75347037_M1.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75347037/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75347037/"
   },
   {
-    "event_id": "75347337",
+    "event_id": "nc75347337",
     "origin_time_utc": "2026-04-18T21:58:28.620000Z",
     "latitude": 35.9805,
     "longitude": -120.5345,
@@ -2043,10 +2043,10 @@
         "source_name": "20260418T215828_event_75347337_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75347337/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75347337/"
   },
   {
-    "event_id": "75348322",
+    "event_id": "nc75348322",
     "origin_time_utc": "2026-04-20T01:23:45.300000Z",
     "latitude": 35.94584,
     "longitude": -120.471,
@@ -2074,10 +2074,10 @@
         "source_name": "20260420T012345_event_75348322_M0.1_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75348322/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75348322/"
   },
   {
-    "event_id": "75348492",
+    "event_id": "nc75348492",
     "origin_time_utc": "2026-04-20T10:09:48.590000Z",
     "latitude": 36.005,
     "longitude": -120.569,
@@ -2105,10 +2105,10 @@
         "source_name": "20260420T100948_event_75348492_M0.8_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75348492/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75348492/"
   },
   {
-    "event_id": "75348497",
+    "event_id": "nc75348497",
     "origin_time_utc": "2026-04-20T10:13:31.700000Z",
     "latitude": 36.001,
     "longitude": -120.56934,
@@ -2136,10 +2136,10 @@
         "source_name": "20260420T101331_event_75348497_M0.8_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75348497/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75348497/"
   },
   {
-    "event_id": "75348952",
+    "event_id": "nc75348952",
     "origin_time_utc": "2026-04-21T05:17:56.200000Z",
     "latitude": 36.07583,
     "longitude": -120.652,
@@ -2167,10 +2167,10 @@
         "source_name": "20260421T051756_event_75348952_M0.6_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75348952/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75348952/"
   },
   {
-    "event_id": "75349037",
+    "event_id": "nc75349037",
     "origin_time_utc": "2026-04-21T11:20:50.890000Z",
     "latitude": 35.59933,
     "longitude": -120.76884,
@@ -2198,10 +2198,10 @@
         "source_name": "20260421T112050_event_75349037_M0.9_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75349037/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75349037/"
   },
   {
-    "event_id": "75349082",
+    "event_id": "nc75349082",
     "origin_time_utc": "2026-04-21T14:11:16.510000Z",
     "latitude": 36.01017,
     "longitude": -120.57233,
@@ -2229,10 +2229,10 @@
         "source_name": "20260421T141116_event_75349082_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75349082/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75349082/"
   },
   {
-    "event_id": "75349562",
+    "event_id": "nc75349562",
     "origin_time_utc": "2026-04-22T15:10:06.560000Z",
     "latitude": 35.83283,
     "longitude": -120.50816,
@@ -2260,10 +2260,10 @@
         "source_name": "20260422T151006_event_75349562_M0.3_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75349562/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75349562/"
   },
   {
-    "event_id": "75354927",
+    "event_id": "nc75354927",
     "origin_time_utc": "2026-05-01T10:59:07.090000Z",
     "latitude": 35.9505,
     "longitude": -120.51033,
@@ -2291,10 +2291,10 @@
         "source_name": "20260501T105907_event_75354927_M0.4_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75354927/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75354927/"
   },
   {
-    "event_id": "75354932",
+    "event_id": "nc75354932",
     "origin_time_utc": "2026-05-01T11:02:20.670000Z",
     "latitude": 35.955,
     "longitude": -120.50967,
@@ -2322,10 +2322,10 @@
         "source_name": "20260501T110220_event_75354932_M0.5_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75354932/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75354932/"
   },
   {
-    "event_id": "75355897",
+    "event_id": "nc75355897",
     "origin_time_utc": "2026-05-03T02:09:00.940000Z",
     "latitude": 35.994,
     "longitude": -120.55383,
@@ -2353,10 +2353,10 @@
         "source_name": "20260503T020900_event_75355897_M0.6_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75355897/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75355897/"
   },
   {
-    "event_id": "75356112",
+    "event_id": "nc75356112",
     "origin_time_utc": "2026-05-03T09:51:05.560000Z",
     "latitude": 36.33117,
     "longitude": -120.63433,
@@ -2384,10 +2384,10 @@
         "source_name": "20260503T095105_event_75356112_M1.3_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75356112/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75356112/"
   },
   {
-    "event_id": "75356517",
+    "event_id": "nc75356517",
     "origin_time_utc": "2026-05-04T04:48:48.170000Z",
     "latitude": 36.08484,
     "longitude": -120.667,
@@ -2415,10 +2415,10 @@
         "source_name": "20260504T044848_event_75356517_M0.5_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75356517/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75356517/"
   },
   {
-    "event_id": "75356622",
+    "event_id": "nc75356622",
     "origin_time_utc": "2026-05-04T08:36:28.790000Z",
     "latitude": 35.8165,
     "longitude": -120.34834,
@@ -2446,10 +2446,10 @@
         "source_name": "20260504T083628_event_75356622_M0.7_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75356622/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75356622/"
   },
   {
-    "event_id": "75356787",
+    "event_id": "nc75356787",
     "origin_time_utc": "2026-05-04T15:19:02.530000Z",
     "latitude": 35.98517,
     "longitude": -120.544,
@@ -2477,10 +2477,10 @@
         "source_name": "20260504T151902_event_75356787_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75356787/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75356787/"
   },
   {
-    "event_id": "75356807",
+    "event_id": "nc75356807",
     "origin_time_utc": "2026-05-04T15:29:40.660000Z",
     "latitude": 36.10083,
     "longitude": -120.638,
@@ -2508,10 +2508,10 @@
         "source_name": "20260504T152940_event_75356807_M1.1_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75356807/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75356807/"
   },
   {
-    "event_id": "75356837",
+    "event_id": "nc75356837",
     "origin_time_utc": "2026-05-04T16:03:55.960000Z",
     "latitude": 36.03233,
     "longitude": -120.616,
@@ -2539,10 +2539,10 @@
         "source_name": "20260504T160355_event_75356837_M0.1_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75356837/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75356837/"
   },
   {
-    "event_id": "75357122",
+    "event_id": "nc75357122",
     "origin_time_utc": "2026-05-05T01:52:47.100000Z",
     "latitude": 36.022,
     "longitude": -121.05617,
@@ -2570,10 +2570,10 @@
         "source_name": "20260505T015247_event_75357122_M0.9_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75357122/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357122/"
   },
   {
-    "event_id": "75357297",
+    "event_id": "nc75357297",
     "origin_time_utc": "2026-05-05T07:55:46.680000Z",
     "latitude": 36.09367,
     "longitude": -120.21533,
@@ -2601,10 +2601,10 @@
         "source_name": "20260505T075546_event_75357297_M0.9_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75357297/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357297/"
   },
   {
-    "event_id": "75357302",
+    "event_id": "nc75357302",
     "origin_time_utc": "2026-05-05T08:00:44.700000Z",
     "latitude": 36.03117,
     "longitude": -120.61017,
@@ -2632,10 +2632,10 @@
         "source_name": "20260505T080044_event_75357302_M0.1_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75357302/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357302/"
   },
   {
-    "event_id": "75357307",
+    "event_id": "nc75357307",
     "origin_time_utc": "2026-05-05T08:10:31.360000Z",
     "latitude": 36.054,
     "longitude": -120.12133,
@@ -2663,10 +2663,10 @@
         "source_name": "20260505T081031_event_75357307_M1.3_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75357307/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357307/"
   },
   {
-    "event_id": "75357312",
+    "event_id": "nc75357312",
     "origin_time_utc": "2026-05-05T08:11:22.180000Z",
     "latitude": 36.05367,
     "longitude": -120.0995,
@@ -2694,10 +2694,10 @@
         "source_name": "20260505T081122_event_75357312_M1.7_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75357312/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357312/"
   },
   {
-    "event_id": "75357332",
+    "event_id": "nc75357332",
     "origin_time_utc": "2026-05-05T08:39:20.600000Z",
     "latitude": 36.0575,
     "longitude": -120.08683,
@@ -2725,10 +2725,10 @@
         "source_name": "20260505T083920_event_75357332_M2.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75357332/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357332/"
   },
   {
-    "event_id": "75357372",
+    "event_id": "nc75357372",
     "origin_time_utc": "2026-05-05T11:29:50.570000Z",
     "latitude": 36.22983,
     "longitude": -120.8195,
@@ -2756,10 +2756,10 @@
         "source_name": "20260505T112950_event_75357372_M1.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75357372/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357372/"
   },
   {
-    "event_id": "75357997",
+    "event_id": "nc75357997",
     "origin_time_utc": "2026-05-06T08:09:21.290000Z",
     "latitude": 36.068,
     "longitude": -120.7075,
@@ -2787,10 +2787,10 @@
         "source_name": "20260506T080921_event_75357997_M0.4_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75357997/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357997/"
   },
   {
-    "event_id": "75358582",
+    "event_id": "nc75358582",
     "origin_time_utc": "2026-05-07T03:32:44.020000Z",
     "latitude": 36.288,
     "longitude": -120.87434,
@@ -2818,10 +2818,10 @@
         "source_name": "20260507T033244_event_75358582_M1.4_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75358582/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75358582/"
   },
   {
-    "event_id": "75358942",
+    "event_id": "nc75358942",
     "origin_time_utc": "2026-05-07T10:00:32.670000Z",
     "latitude": 35.78933,
     "longitude": -120.53933,
@@ -2849,10 +2849,10 @@
         "source_name": "20260507T100032_event_75358942_M0.5_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75358942/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75358942/"
   },
   {
-    "event_id": "75356876",
+    "event_id": "nc75356876",
     "origin_time_utc": "2026-05-08T04:24:59.160000Z",
     "latitude": 36.04133,
     "longitude": -120.61617,
@@ -2880,10 +2880,10 @@
         "source_name": "20260508T042459_event_75356876_M0.8_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75356876/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75356876/"
   },
   {
-    "event_id": "75356896",
+    "event_id": "nc75356896",
     "origin_time_utc": "2026-05-08T05:36:35.900000Z",
     "latitude": 36.0055,
     "longitude": -120.56834,
@@ -2911,10 +2911,10 @@
         "source_name": "20260508T053635_event_75356896_M0.1_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75356896/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75356896/"
   },
   {
-    "event_id": "75356996",
+    "event_id": "nc75356996",
     "origin_time_utc": "2026-05-08T08:37:58.180000Z",
     "latitude": 36.17117,
     "longitude": -120.24333,
@@ -2942,10 +2942,10 @@
         "source_name": "20260508T083758_event_75356996_M1.2_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75356996/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75356996/"
   },
   {
-    "event_id": "75357261",
+    "event_id": "nc75357261",
     "origin_time_utc": "2026-05-08T17:01:07.930000Z",
     "latitude": 35.99717,
     "longitude": -120.985,
@@ -2973,10 +2973,10 @@
         "source_name": "20260508T170107_event_75357261_M2.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75357261/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357261/"
   },
   {
-    "event_id": "75357436",
+    "event_id": "nc75357436",
     "origin_time_utc": "2026-05-08T23:32:02.950000Z",
     "latitude": 35.99333,
     "longitude": -120.98683,
@@ -3004,10 +3004,10 @@
         "source_name": "20260508T233202_event_75357436_M0.9_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75357436/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357436/"
   },
   {
-    "event_id": "75357806",
+    "event_id": "nc75357806",
     "origin_time_utc": "2026-05-09T17:56:09.670000Z",
     "latitude": 35.97667,
     "longitude": -120.5375,
@@ -3035,10 +3035,10 @@
         "source_name": "20260509T175609_event_75357806_M0.1_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75357806/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357806/"
   },
   {
-    "event_id": "75357911",
+    "event_id": "nc75357911",
     "origin_time_utc": "2026-05-09T23:24:41.870000Z",
     "latitude": 36.00817,
     "longitude": -120.57166,
@@ -3066,10 +3066,10 @@
         "source_name": "20260509T232441_event_75357911_M0.4_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75357911/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357911/"
   },
   {
-    "event_id": "75357996",
+    "event_id": "nc75357996",
     "origin_time_utc": "2026-05-10T02:18:15.030000Z",
     "latitude": 35.99733,
     "longitude": -120.985,
@@ -3097,10 +3097,10 @@
         "source_name": "20260510T021815_event_75357996_M1.9_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75357996/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357996/"
   },
   {
-    "event_id": "75358341",
+    "event_id": "nc75358341",
     "origin_time_utc": "2026-05-10T15:44:15.760000Z",
     "latitude": 36.16617,
     "longitude": -120.27683,
@@ -3128,10 +3128,10 @@
         "source_name": "20260510T154415_event_75358341_M0.9_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75358341/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75358341/"
   },
   {
-    "event_id": "75358466",
+    "event_id": "nc75358466",
     "origin_time_utc": "2026-05-10T21:05:37.950000Z",
     "latitude": 36.00683,
     "longitude": -120.57,
@@ -3159,10 +3159,10 @@
         "source_name": "20260510T210537_event_75358466_M0.1_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75358466/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75358466/"
   },
   {
-    "event_id": "75358621",
+    "event_id": "nc75358621",
     "origin_time_utc": "2026-05-11T06:00:26.320000Z",
     "latitude": 35.984,
     "longitude": -120.446,
@@ -3190,10 +3190,10 @@
         "source_name": "20260511T060026_event_75358621_M0.1_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75358621/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75358621/"
   },
   {
-    "event_id": "75359031",
+    "event_id": "nc75359031",
     "origin_time_utc": "2026-05-11T19:37:06.820000Z",
     "latitude": 36.05,
     "longitude": -120.61517,
@@ -3221,10 +3221,10 @@
         "source_name": "20260511T193706_event_75359031_M0.5_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75359031/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75359031/"
   },
   {
-    "event_id": "75360161",
+    "event_id": "nc75360161",
     "origin_time_utc": "2026-05-13T18:45:12.060000Z",
     "latitude": 36.336,
     "longitude": -120.50833,
@@ -3252,10 +3252,10 @@
         "source_name": "20260513T184512_event_75360161_M1.2_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75360161/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75360161/"
   },
   {
-    "event_id": "75360251",
+    "event_id": "nc75360251",
     "origin_time_utc": "2026-05-14T03:18:57.230000Z",
     "latitude": 36.17733,
     "longitude": -120.24733,
@@ -3283,10 +3283,10 @@
         "source_name": "20260514T031857_event_75360251_M0.5_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75360251/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75360251/"
   },
   {
-    "event_id": "75360481",
+    "event_id": "nc75360481",
     "origin_time_utc": "2026-05-14T17:13:57.970000Z",
     "latitude": 36.17833,
     "longitude": -120.25933,
@@ -3314,10 +3314,10 @@
         "source_name": "20260514T171357_event_75360481_M1.0_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75360481/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75360481/"
   },
   {
-    "event_id": "75360756",
+    "event_id": "nc75360756",
     "origin_time_utc": "2026-05-15T05:54:02.520000Z",
     "latitude": 36.168,
     "longitude": -120.25816,
@@ -3345,10 +3345,10 @@
         "source_name": "20260515T055402_event_75360756_M1.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75360756/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75360756/"
   },
   {
-    "event_id": "75361106",
+    "event_id": "nc75361106",
     "origin_time_utc": "2026-05-16T00:53:59.670000Z",
     "latitude": 36.06283,
     "longitude": -120.2015,
@@ -3376,10 +3376,10 @@
         "source_name": "20260516T005359_event_75361106_M1.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75361106/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75361106/"
   },
   {
-    "event_id": "75361941",
+    "event_id": "nc75361941",
     "origin_time_utc": "2026-05-17T20:00:12.070000Z",
     "latitude": 35.97233,
     "longitude": -120.53033,
@@ -3407,10 +3407,10 @@
         "source_name": "20260517T200012_event_75361941_M0.6_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75361941/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75361941/"
   },
   {
-    "event_id": "75362016",
+    "event_id": "nc75362016",
     "origin_time_utc": "2026-05-17T23:22:31.310000Z",
     "latitude": 36.0075,
     "longitude": -120.57283,
@@ -3438,10 +3438,10 @@
         "source_name": "20260517T232231_event_75362016_M0.8_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75362016/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75362016/"
   },
   {
-    "event_id": "75362021",
+    "event_id": "nc75362021",
     "origin_time_utc": "2026-05-18T00:45:29.940000Z",
     "latitude": 36.01333,
     "longitude": -120.56567,
@@ -3469,10 +3469,10 @@
         "source_name": "20260518T004529_event_75362021_M0.4_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75362021/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75362021/"
   },
   {
-    "event_id": "75362076",
+    "event_id": "nc75362076",
     "origin_time_utc": "2026-05-18T04:24:55.170000Z",
     "latitude": 36.039,
     "longitude": -120.60833,
@@ -3500,10 +3500,10 @@
         "source_name": "20260518T042455_event_75362076_M0.4_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75362076/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75362076/"
   },
   {
-    "event_id": "75362081",
+    "event_id": "nc75362081",
     "origin_time_utc": "2026-05-18T05:12:00.130000Z",
     "latitude": 35.933,
     "longitude": -120.48183,
@@ -3531,10 +3531,10 @@
         "source_name": "20260518T051200_event_75362081_M0.4_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75362081/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75362081/"
   },
   {
-    "event_id": "75362131",
+    "event_id": "nc75362131",
     "origin_time_utc": "2026-05-18T12:02:21.840000Z",
     "latitude": 35.93433,
     "longitude": -120.483,
@@ -3562,10 +3562,10 @@
         "source_name": "20260518T120221_event_75362131_M0.8_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75362131/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75362131/"
   },
   {
-    "event_id": "75362146",
+    "event_id": "nc75362146",
     "origin_time_utc": "2026-05-18T12:12:53.560000Z",
     "latitude": 35.92916,
     "longitude": -120.487,
@@ -3593,10 +3593,10 @@
         "source_name": "20260518T121253_event_75362146_M1.2_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75362146/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75362146/"
   },
   {
-    "event_id": "75362151",
+    "event_id": "nc75362151",
     "origin_time_utc": "2026-05-18T12:25:42.360000Z",
     "latitude": 35.95083,
     "longitude": -120.478,
@@ -3624,10 +3624,10 @@
         "source_name": "20260518T122542_event_75362151_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75362151/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75362151/"
   },
   {
-    "event_id": "75362166",
+    "event_id": "nc75362166",
     "origin_time_utc": "2026-05-18T13:40:57.810000Z",
     "latitude": 35.93283,
     "longitude": -120.483,
@@ -3655,10 +3655,10 @@
         "source_name": "20260518T134057_event_75362166_M1.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75362166/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75362166/"
   },
   {
-    "event_id": "75362181",
+    "event_id": "nc75362181",
     "origin_time_utc": "2026-05-18T14:09:00.990000Z",
     "latitude": 35.93133,
     "longitude": -120.48267,
@@ -3686,10 +3686,10 @@
         "source_name": "20260518T140900_event_75362181_M-0.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75362181/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75362181/"
   },
   {
-    "event_id": "75362206",
+    "event_id": "nc75362206",
     "origin_time_utc": "2026-05-18T15:23:14.480000Z",
     "latitude": 35.9305,
     "longitude": -120.48167,
@@ -3717,10 +3717,10 @@
         "source_name": "20260518T152314_event_75362206_M-0.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75362206/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75362206/"
   },
   {
-    "event_id": "75362251",
+    "event_id": "nc75362251",
     "origin_time_utc": "2026-05-18T16:59:46.250000Z",
     "latitude": 35.92933,
     "longitude": -120.48383,
@@ -3748,10 +3748,10 @@
         "source_name": "20260518T165946_event_75362251_M-0.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75362251/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75362251/"
   },
   {
-    "event_id": "75365267",
+    "event_id": "nc75365267",
     "origin_time_utc": "2026-05-18T22:02:04.070000Z",
     "latitude": 35.93267,
     "longitude": -120.48333,
@@ -3779,10 +3779,10 @@
         "source_name": "20260518T220204_event_75365267_M1.2_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365267/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365267/"
   },
   {
-    "event_id": "75365272",
+    "event_id": "nc75365272",
     "origin_time_utc": "2026-05-18T22:03:05.240000Z",
     "latitude": 35.95367,
     "longitude": -120.46967,
@@ -3810,10 +3810,10 @@
         "source_name": "20260518T220305_event_75365272_M0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365272/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365272/"
   },
   {
-    "event_id": "75365277",
+    "event_id": "nc75365277",
     "origin_time_utc": "2026-05-18T22:03:24.240000Z",
     "latitude": 35.95284,
     "longitude": -120.47967,
@@ -3841,10 +3841,10 @@
         "source_name": "20260518T220324_event_75365277_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365277/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365277/"
   },
   {
-    "event_id": "75365282",
+    "event_id": "nc75365282",
     "origin_time_utc": "2026-05-18T22:07:06.350000Z",
     "latitude": 35.95033,
     "longitude": -120.47066,
@@ -3872,10 +3872,10 @@
         "source_name": "20260518T220706_event_75365282_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365282/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365282/"
   },
   {
-    "event_id": "75365287",
+    "event_id": "nc75365287",
     "origin_time_utc": "2026-05-18T22:07:48.690000Z",
     "latitude": 35.94367,
     "longitude": -120.47767,
@@ -3903,10 +3903,10 @@
         "source_name": "20260518T220748_event_75365287_M0.7_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365287/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365287/"
   },
   {
-    "event_id": "75365302",
+    "event_id": "nc75365302",
     "origin_time_utc": "2026-05-18T22:41:36.840000Z",
     "latitude": 35.93,
     "longitude": -120.48217,
@@ -3934,10 +3934,10 @@
         "source_name": "20260518T224136_event_75365302_M0.3_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365302/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365302/"
   },
   {
-    "event_id": "75365307",
+    "event_id": "nc75365307",
     "origin_time_utc": "2026-05-18T22:42:15.920000Z",
     "latitude": 35.93017,
     "longitude": -120.47984,
@@ -3965,10 +3965,10 @@
         "source_name": "20260518T224215_event_75365307_M0.4_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365307/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365307/"
   },
   {
-    "event_id": "75365317",
+    "event_id": "nc75365317",
     "origin_time_utc": "2026-05-18T22:51:58.060000Z",
     "latitude": 35.952,
     "longitude": -120.47916,
@@ -3996,10 +3996,10 @@
         "source_name": "20260518T225158_event_75365317_M0.2_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365317/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365317/"
   },
   {
-    "event_id": "75365327",
+    "event_id": "nc75365327",
     "origin_time_utc": "2026-05-18T23:40:17.420000Z",
     "latitude": 35.945,
     "longitude": -120.4785,
@@ -4027,10 +4027,10 @@
         "source_name": "20260518T234017_event_75365327_M0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365327/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365327/"
   },
   {
-    "event_id": "75365337",
+    "event_id": "nc75365337",
     "origin_time_utc": "2026-05-18T23:53:49.460000Z",
     "latitude": 35.9545,
     "longitude": -120.4815,
@@ -4058,10 +4058,10 @@
         "source_name": "20260518T235349_event_75365337_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365337/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365337/"
   },
   {
-    "event_id": "75365347",
+    "event_id": "nc75365347",
     "origin_time_utc": "2026-05-19T00:18:56.200000Z",
     "latitude": 35.93033,
     "longitude": -120.48367,
@@ -4089,10 +4089,10 @@
         "source_name": "20260519T001856_event_75365347_M0.1_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365347/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365347/"
   },
   {
-    "event_id": "75365357",
+    "event_id": "nc75365357",
     "origin_time_utc": "2026-05-19T00:47:41.900000Z",
     "latitude": 35.93167,
     "longitude": -120.48267,
@@ -4120,10 +4120,10 @@
         "source_name": "20260519T004741_event_75365357_M0.2_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365357/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365357/"
   },
   {
-    "event_id": "75365382",
+    "event_id": "nc75365382",
     "origin_time_utc": "2026-05-19T01:25:12.990000Z",
     "latitude": 35.94567,
     "longitude": -120.47066,
@@ -4151,10 +4151,10 @@
         "source_name": "20260519T012512_event_75365382_M0.1_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365382/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365382/"
   },
   {
-    "event_id": "75365592",
+    "event_id": "nc75365592",
     "origin_time_utc": "2026-05-19T13:31:38.100000Z",
     "latitude": 35.9555,
     "longitude": -120.478,
@@ -4182,10 +4182,10 @@
         "source_name": "20260519T133138_event_75365592_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365592/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365592/"
   },
   {
-    "event_id": "75365597",
+    "event_id": "nc75365597",
     "origin_time_utc": "2026-05-19T14:17:09.740000Z",
     "latitude": 35.96033,
     "longitude": -120.518,
@@ -4213,10 +4213,10 @@
         "source_name": "20260519T141709_event_75365597_M0.5_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365597/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365597/"
   },
   {
-    "event_id": "75365667",
+    "event_id": "nc75365667",
     "origin_time_utc": "2026-05-19T16:34:24.360000Z",
     "latitude": 35.828,
     "longitude": -120.51133,
@@ -4244,10 +4244,10 @@
         "source_name": "20260519T163424_event_75365667_M0.3_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365667/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365667/"
   },
   {
-    "event_id": "75365727",
+    "event_id": "nc75365727",
     "origin_time_utc": "2026-05-19T18:21:19.950000Z",
     "latitude": 35.928,
     "longitude": -120.48434,
@@ -4275,10 +4275,10 @@
         "source_name": "20260519T182119_event_75365727_M-0.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365727/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365727/"
   },
   {
-    "event_id": "75365887",
+    "event_id": "nc75365887",
     "origin_time_utc": "2026-05-20T01:18:17.060000Z",
     "latitude": 35.93717,
     "longitude": -120.484,
@@ -4306,10 +4306,10 @@
         "source_name": "20260520T011817_event_75365887_M0.2_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75365887/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365887/"
   },
   {
-    "event_id": "75366112",
+    "event_id": "nc75366112",
     "origin_time_utc": "2026-05-20T12:45:08.650000Z",
     "latitude": 35.931,
     "longitude": -120.486,
@@ -4337,10 +4337,10 @@
         "source_name": "20260520T124508_event_75366112_M0.4_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75366112/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366112/"
   },
   {
-    "event_id": "75366177",
+    "event_id": "nc75366177",
     "origin_time_utc": "2026-05-20T16:22:34.690000Z",
     "latitude": 36.05017,
     "longitude": -120.618,
@@ -4368,10 +4368,10 @@
         "source_name": "20260520T162234_event_75366177_M0.8_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75366177/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366177/"
   },
   {
-    "event_id": "75366317",
+    "event_id": "nc75366317",
     "origin_time_utc": "2026-05-20T23:00:04.110000Z",
     "latitude": 35.9295,
     "longitude": -120.4835,
@@ -4399,10 +4399,10 @@
         "source_name": "20260520T230004_event_75366317_M-0.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75366317/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366317/"
   },
   {
-    "event_id": "75366362",
+    "event_id": "nc75366362",
     "origin_time_utc": "2026-05-21T00:21:33.780000Z",
     "latitude": 36.09467,
     "longitude": -120.68166,
@@ -4430,10 +4430,10 @@
         "source_name": "20260521T002133_event_75366362_M0.6_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75366362/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366362/"
   },
   {
-    "event_id": "75366387",
+    "event_id": "nc75366387",
     "origin_time_utc": "2026-05-21T02:59:42.470000Z",
     "latitude": 35.92916,
     "longitude": -120.48283,
@@ -4461,10 +4461,10 @@
         "source_name": "20260521T025942_event_75366387_M-0.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75366387/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366387/"
   },
   {
-    "event_id": "75366402",
+    "event_id": "nc75366402",
     "origin_time_utc": "2026-05-21T04:20:31.600000Z",
     "latitude": 35.95067,
     "longitude": -120.4655,
@@ -4492,10 +4492,10 @@
         "source_name": "20260521T042031_event_75366402_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75366402/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366402/"
   },
   {
-    "event_id": "75366407",
+    "event_id": "nc75366407",
     "origin_time_utc": "2026-05-21T04:21:39.310000Z",
     "latitude": 35.93317,
     "longitude": -120.482,
@@ -4523,10 +4523,10 @@
         "source_name": "20260521T042139_event_75366407_M0.4_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75366407/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366407/"
   },
   {
-    "event_id": "75366507",
+    "event_id": "nc75366507",
     "origin_time_utc": "2026-05-21T10:59:18.150000Z",
     "latitude": 35.81067,
     "longitude": -120.526,
@@ -4554,10 +4554,10 @@
         "source_name": "20260521T105918_event_75366507_M0.4_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75366507/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366507/"
   },
   {
-    "event_id": "75366602",
+    "event_id": "nc75366602",
     "origin_time_utc": "2026-05-21T17:04:54.190000Z",
     "latitude": 36.17783,
     "longitude": -120.24384,
@@ -4585,10 +4585,10 @@
         "source_name": "20260521T170454_event_75366602_M1.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75366602/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366602/"
   },
   {
-    "event_id": "75366627",
+    "event_id": "nc75366627",
     "origin_time_utc": "2026-05-21T18:40:45.560000Z",
     "latitude": 35.88917,
     "longitude": -120.42883,
@@ -4616,10 +4616,10 @@
         "source_name": "20260521T184045_event_75366627_M0.5_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75366627/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366627/"
   },
   {
-    "event_id": "75366662",
+    "event_id": "nc75366662",
     "origin_time_utc": "2026-05-21T23:39:00.770000Z",
     "latitude": 36.00583,
     "longitude": -120.5655,
@@ -4647,10 +4647,10 @@
         "source_name": "20260521T233900_event_75366662_M0.8_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75366662/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366662/"
   },
   {
-    "event_id": "75366822",
+    "event_id": "nc75366822",
     "origin_time_utc": "2026-05-22T06:28:43.460000Z",
     "latitude": 35.792,
     "longitude": -120.32467,
@@ -4678,10 +4678,10 @@
         "source_name": "20260522T062843_event_75366822_M0.6_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75366822/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366822/"
   },
   {
-    "event_id": "75366877",
+    "event_id": "nc75366877",
     "origin_time_utc": "2026-05-22T09:20:08.360000Z",
     "latitude": 35.93333,
     "longitude": -120.48317,
@@ -4709,10 +4709,10 @@
         "source_name": "20260522T092008_event_75366877_M0.1_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75366877/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366877/"
   },
   {
-    "event_id": "75367012",
+    "event_id": "nc75367012",
     "origin_time_utc": "2026-05-22T16:38:35.750000Z",
     "latitude": 36.23034,
     "longitude": -120.329,
@@ -4740,10 +4740,10 @@
         "source_name": "20260522T163835_event_75367012_M1.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75367012/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75367012/"
   },
   {
-    "event_id": "75367002",
+    "event_id": "nc75367002",
     "origin_time_utc": "2026-05-22T16:38:45.470000Z",
     "latitude": 36.22717,
     "longitude": -120.351,
@@ -4771,10 +4771,10 @@
         "source_name": "20260522T163845_event_75367002_M1.2_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75367002/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75367002/"
   },
   {
-    "event_id": "75367822",
+    "event_id": "nc75367822",
     "origin_time_utc": "2026-05-23T23:42:29.840000Z",
     "latitude": 36.03533,
     "longitude": -121.0495,
@@ -4802,10 +4802,10 @@
         "source_name": "20260523T234229_event_75367822_M1.4_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75367822/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75367822/"
   },
   {
-    "event_id": "75367992",
+    "event_id": "nc75367992",
     "origin_time_utc": "2026-05-24T07:42:14.570000Z",
     "latitude": 36.06667,
     "longitude": -120.64034,
@@ -4833,10 +4833,10 @@
         "source_name": "20260524T074214_event_75367992_M0.9_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75367992/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75367992/"
   },
   {
-    "event_id": "75368042",
+    "event_id": "nc75368042",
     "origin_time_utc": "2026-05-24T12:07:24.560000Z",
     "latitude": 35.93333,
     "longitude": -120.48417,
@@ -4864,10 +4864,10 @@
         "source_name": "20260524T120724_event_75368042_M0.5_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75368042/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368042/"
   },
   {
-    "event_id": "75368097",
+    "event_id": "nc75368097",
     "origin_time_utc": "2026-05-24T15:43:06.710000Z",
     "latitude": 36.0235,
     "longitude": -120.58717,
@@ -4895,10 +4895,10 @@
         "source_name": "20260524T154306_event_75368097_M0.5_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75368097/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368097/"
   },
   {
-    "event_id": "75368332",
+    "event_id": "nc75368332",
     "origin_time_utc": "2026-05-24T21:49:29.390000Z",
     "latitude": 36.03433,
     "longitude": -120.61716,
@@ -4926,10 +4926,10 @@
         "source_name": "20260524T214929_event_75368332_M1.5_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75368332/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368332/"
   },
   {
-    "event_id": "75368512",
+    "event_id": "nc75368512",
     "origin_time_utc": "2026-05-25T02:24:39.570000Z",
     "latitude": 36.038,
     "longitude": -121.04633,
@@ -4957,10 +4957,10 @@
         "source_name": "20260525T022439_event_75368512_M1.4_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75368512/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368512/"
   },
   {
-    "event_id": "75368732",
+    "event_id": "nc75368732",
     "origin_time_utc": "2026-05-25T15:47:32.340000Z",
     "latitude": 35.84717,
     "longitude": -120.39716,
@@ -4988,10 +4988,10 @@
         "source_name": "20260525T154732_event_75368732_M0.2_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75368732/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368732/"
   },
   {
-    "event_id": "75368822",
+    "event_id": "nc75368822",
     "origin_time_utc": "2026-05-25T18:47:31.240000Z",
     "latitude": 36.12683,
     "longitude": -120.15366,
@@ -5019,10 +5019,10 @@
         "source_name": "20260525T184731_event_75368822_M2.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75368822/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368822/"
   },
   {
-    "event_id": "75368952",
+    "event_id": "nc75368952",
     "origin_time_utc": "2026-05-26T00:21:02.100000Z",
     "latitude": 36.21417,
     "longitude": -120.37783,
@@ -5050,10 +5050,10 @@
         "source_name": "20260526T002102_event_75368952_M1.7_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75368952/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368952/"
   },
   {
-    "event_id": "75368997",
+    "event_id": "nc75368997",
     "origin_time_utc": "2026-05-26T02:13:31.990000Z",
     "latitude": 36.0435,
     "longitude": -120.18833,
@@ -5081,10 +5081,10 @@
         "source_name": "20260526T021331_event_75368997_M2.4_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75368997/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368997/"
   },
   {
-    "event_id": "75369672",
+    "event_id": "nc75369672",
     "origin_time_utc": "2026-05-27T06:18:54.350000Z",
     "latitude": 36.147,
     "longitude": -120.727,
@@ -5112,10 +5112,10 @@
         "source_name": "20260527T061854_event_75369672_M1.0_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75369672/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75369672/"
   },
   {
-    "event_id": "75370287",
+    "event_id": "nc75370287",
     "origin_time_utc": "2026-05-28T08:23:27.320000Z",
     "latitude": 36.1955,
     "longitude": -120.33134,
@@ -5143,10 +5143,10 @@
         "source_name": "20260528T082327_event_75370287_M1.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75370287/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75370287/"
   },
   {
-    "event_id": "75367666",
+    "event_id": "nc75367666",
     "origin_time_utc": "2026-05-28T19:41:19.670000Z",
     "latitude": 36.29767,
     "longitude": -120.88467,
@@ -5174,10 +5174,10 @@
         "source_name": "20260528T194119_event_75367666_M1.5_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75367666/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75367666/"
   },
   {
-    "event_id": "75368216",
+    "event_id": "nc75368216",
     "origin_time_utc": "2026-05-30T01:25:40.880000Z",
     "latitude": 35.99583,
     "longitude": -120.98617,
@@ -5205,10 +5205,10 @@
         "source_name": "20260530T012540_event_75368216_M1.0_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75368216/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368216/"
   },
   {
-    "event_id": "75368446",
+    "event_id": "nc75368446",
     "origin_time_utc": "2026-05-30T15:31:08.780000Z",
     "latitude": 36.25717,
     "longitude": -120.232,
@@ -5236,10 +5236,10 @@
         "source_name": "20260530T153108_event_75368446_M0.9_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75368446/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368446/"
   },
   {
-    "event_id": "75368451",
+    "event_id": "nc75368451",
     "origin_time_utc": "2026-05-30T16:23:43.500000Z",
     "latitude": 35.86883,
     "longitude": -120.4105,
@@ -5267,10 +5267,10 @@
         "source_name": "20260530T162343_event_75368451_M1.1_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75368451/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368451/"
   },
   {
-    "event_id": "75368586",
+    "event_id": "nc75368586",
     "origin_time_utc": "2026-05-31T02:54:50.080000Z",
     "latitude": 36.02083,
     "longitude": -120.58466,
@@ -5298,10 +5298,10 @@
         "source_name": "20260531T025450_event_75368586_M0.5_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75368586/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368586/"
   },
   {
-    "event_id": "75369031",
+    "event_id": "nc75369031",
     "origin_time_utc": "2026-06-01T02:26:43.680000Z",
     "latitude": 35.946,
     "longitude": -120.47217,
@@ -5329,10 +5329,10 @@
         "source_name": "20260601T022643_event_75369031_M0.2_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75369031/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75369031/"
   },
   {
-    "event_id": "75369041",
+    "event_id": "nc75369041",
     "origin_time_utc": "2026-06-01T02:56:48.300000Z",
     "latitude": 36.19633,
     "longitude": -120.1245,
@@ -5360,10 +5360,10 @@
         "source_name": "20260601T025648_event_75369041_M1.7_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75369041/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75369041/"
   },
   {
-    "event_id": "75369291",
+    "event_id": "nc75369291",
     "origin_time_utc": "2026-06-01T14:55:10.510000Z",
     "latitude": 35.96117,
     "longitude": -120.52483,
@@ -5391,10 +5391,10 @@
         "source_name": "20260601T145510_event_75369291_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75369291/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75369291/"
   },
   {
-    "event_id": "75369391",
+    "event_id": "nc75369391",
     "origin_time_utc": "2026-06-01T20:08:24.530000Z",
     "latitude": 36.08167,
     "longitude": -120.65083,
@@ -5422,10 +5422,10 @@
         "source_name": "20260601T200824_event_75369391_M0.4_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75369391/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75369391/"
   },
   {
-    "event_id": "75369631",
+    "event_id": "nc75369631",
     "origin_time_utc": "2026-06-02T09:22:58.290000Z",
     "latitude": 36.1885,
     "longitude": -120.13883,
@@ -5453,10 +5453,10 @@
         "source_name": "20260602T092258_event_75369631_M2.0_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75369631/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75369631/"
   },
   {
-    "event_id": "75369706",
+    "event_id": "nc75369706",
     "origin_time_utc": "2026-06-02T13:48:00.450000Z",
     "latitude": 36.19783,
     "longitude": -120.10783,
@@ -5484,10 +5484,10 @@
         "source_name": "20260602T134800_event_75369706_M2.4_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75369706/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75369706/"
   },
   {
-    "event_id": "75370016",
+    "event_id": "nc75370016",
     "origin_time_utc": "2026-06-03T01:02:43.380000Z",
     "latitude": 36.01083,
     "longitude": -120.56983,
@@ -5515,10 +5515,10 @@
         "source_name": "20260603T010243_event_75370016_M0.7_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75370016/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75370016/"
   },
   {
-    "event_id": "75370476",
+    "event_id": "nc75370476",
     "origin_time_utc": "2026-06-04T01:29:00.290000Z",
     "latitude": 36.04683,
     "longitude": -120.63734,
@@ -5546,10 +5546,10 @@
         "source_name": "20260604T012900_event_75370476_M0.9_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75370476/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75370476/"
   },
   {
-    "event_id": "75371066",
+    "event_id": "nc75371066",
     "origin_time_utc": "2026-06-05T04:32:51.900000Z",
     "latitude": 35.99166,
     "longitude": -120.54984,
@@ -5577,10 +5577,10 @@
         "source_name": "20260605T043251_event_75371066_M0.7_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75371066/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75371066/"
   },
   {
-    "event_id": "75371881",
+    "event_id": "nc75371881",
     "origin_time_utc": "2026-06-06T14:44:34.800000Z",
     "latitude": 36.105,
     "longitude": -120.18567,
@@ -5608,10 +5608,10 @@
         "source_name": "20260606T144434_event_75371881_M1.0_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75371881/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75371881/"
   },
   {
-    "event_id": "75378816",
+    "event_id": "nc75378816",
     "origin_time_utc": "2026-06-18T00:39:26.040000Z",
     "latitude": 36.01033,
     "longitude": -120.57,
@@ -5639,10 +5639,10 @@
         "source_name": "20260618T003926_event_75378816_M0.4_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75378816/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75378816/"
   },
   {
-    "event_id": "75379216",
+    "event_id": "nc75379216",
     "origin_time_utc": "2026-06-18T19:33:12.540000Z",
     "latitude": 35.977,
     "longitude": -120.5335,
@@ -5670,10 +5670,10 @@
         "source_name": "20260618T193312_event_75379216_M1.9_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75379216/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75379216/"
   },
   {
-    "event_id": "75379251",
+    "event_id": "nc75379251",
     "origin_time_utc": "2026-06-18T20:51:41.080000Z",
     "latitude": 35.98283,
     "longitude": -120.5375,
@@ -5701,10 +5701,10 @@
         "source_name": "20260618T205141_event_75379251_M1.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75379251/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75379251/"
   },
   {
-    "event_id": "75379261",
+    "event_id": "nc75379261",
     "origin_time_utc": "2026-06-18T21:04:42.290000Z",
     "latitude": 35.9835,
     "longitude": -120.54166,
@@ -5732,10 +5732,10 @@
         "source_name": "20260618T210442_event_75379261_M1.6_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75379261/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75379261/"
   },
   {
-    "event_id": "75379496",
+    "event_id": "nc75379496",
     "origin_time_utc": "2026-06-19T06:15:03.150000Z",
     "latitude": 35.92833,
     "longitude": -120.479,
@@ -5763,10 +5763,10 @@
         "source_name": "20260619T061503_event_75379496_M1.7_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75379496/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75379496/"
   },
   {
-    "event_id": "75379521",
+    "event_id": "nc75379521",
     "origin_time_utc": "2026-06-19T07:20:26.500000Z",
     "latitude": 36.0005,
     "longitude": -120.563,
@@ -5794,10 +5794,10 @@
         "source_name": "20260619T072026_event_75379521_M0.8_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75379521/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75379521/"
   },
   {
-    "event_id": "75380266",
+    "event_id": "nc75380266",
     "origin_time_utc": "2026-06-20T20:37:28.720000Z",
     "latitude": 36.083,
     "longitude": -120.64967,
@@ -5825,10 +5825,10 @@
         "source_name": "20260620T203728_event_75380266_M0.5_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75380266/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380266/"
   },
   {
-    "event_id": "75380371",
+    "event_id": "nc75380371",
     "origin_time_utc": "2026-06-21T00:00:10.270000Z",
     "latitude": 36.0545,
     "longitude": -120.8905,
@@ -5856,10 +5856,10 @@
         "source_name": "20260621T000010_event_75380371_M2.2_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75380371/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380371/"
   },
   {
-    "event_id": "75380731",
+    "event_id": "nc75380731",
     "origin_time_utc": "2026-06-21T15:58:09.630000Z",
     "latitude": 36.20567,
     "longitude": -120.089,
@@ -5887,10 +5887,10 @@
         "source_name": "20260621T155809_event_75380731_M3.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75380731/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380731/"
   },
   {
-    "event_id": "75380736",
+    "event_id": "nc75380736",
     "origin_time_utc": "2026-06-21T16:05:19.300000Z",
     "latitude": 36.195,
     "longitude": -120.08617,
@@ -5918,10 +5918,10 @@
         "source_name": "20260621T160519_event_75380736_M2.3_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75380736/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380736/"
   },
   {
-    "event_id": "75380746",
+    "event_id": "nc75380746",
     "origin_time_utc": "2026-06-21T16:22:58.770000Z",
     "latitude": 36.193,
     "longitude": -120.114,
@@ -5949,10 +5949,10 @@
         "source_name": "20260621T162258_event_75380746_M1.7_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75380746/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380746/"
   },
   {
-    "event_id": "75380801",
+    "event_id": "nc75380801",
     "origin_time_utc": "2026-06-21T18:44:49.140000Z",
     "latitude": 35.982,
     "longitude": -120.53717,
@@ -5980,10 +5980,10 @@
         "source_name": "20260621T184449_event_75380801_M0.6_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75380801/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380801/"
   },
   {
-    "event_id": "75380841",
+    "event_id": "nc75380841",
     "origin_time_utc": "2026-06-21T19:19:54.260000Z",
     "latitude": 36.20767,
     "longitude": -120.091,
@@ -6011,10 +6011,10 @@
         "source_name": "20260621T191954_event_75380841_M2.8_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75380841/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380841/"
   },
   {
-    "event_id": "75380876",
+    "event_id": "nc75380876",
     "origin_time_utc": "2026-06-21T20:02:10.110000Z",
     "latitude": 36.21767,
     "longitude": -120.10817,
@@ -6042,10 +6042,10 @@
         "source_name": "20260621T200210_event_75380876_M1.3_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75380876/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380876/"
   },
   {
-    "event_id": "75381281",
+    "event_id": "nc75381281",
     "origin_time_utc": "2026-06-22T15:19:38.790000Z",
     "latitude": 35.99933,
     "longitude": -120.56033,
@@ -6073,10 +6073,10 @@
         "source_name": "20260622T151938_event_75381281_M0.8_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75381281/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381281/"
   },
   {
-    "event_id": "75381341",
+    "event_id": "nc75381341",
     "origin_time_utc": "2026-06-22T17:17:09.500000Z",
     "latitude": 36.0315,
     "longitude": -120.59883,
@@ -6104,10 +6104,10 @@
         "source_name": "20260622T171709_event_75381341_M1.7_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75381341/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381341/"
   },
   {
-    "event_id": "75381346",
+    "event_id": "nc75381346",
     "origin_time_utc": "2026-06-22T17:24:29.160000Z",
     "latitude": 36.03167,
     "longitude": -120.59783,
@@ -6135,10 +6135,10 @@
         "source_name": "20260622T172429_event_75381346_M0.5_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75381346/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381346/"
   },
   {
-    "event_id": "75381516",
+    "event_id": "nc75381516",
     "origin_time_utc": "2026-06-22T22:36:25.680000Z",
     "latitude": 36.186,
     "longitude": -120.14983,
@@ -6166,10 +6166,10 @@
         "source_name": "20260622T223625_event_75381516_M0.9_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75381516/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381516/"
   },
   {
-    "event_id": "75382036",
+    "event_id": "nc75382036",
     "origin_time_utc": "2026-06-23T09:55:27.370000Z",
     "latitude": 36.2105,
     "longitude": -120.37917,
@@ -6197,10 +6197,10 @@
         "source_name": "20260623T095527_event_75382036_M1.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75382036/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382036/"
   },
   {
-    "event_id": "75382111",
+    "event_id": "nc75382111",
     "origin_time_utc": "2026-06-23T13:31:23.240000Z",
     "latitude": 36.1895,
     "longitude": -120.14317,
@@ -6228,10 +6228,10 @@
         "source_name": "20260623T133123_event_75382111_M1.3_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75382111/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382111/"
   },
   {
-    "event_id": "75382341",
+    "event_id": "nc75382341",
     "origin_time_utc": "2026-06-23T19:23:45.970000Z",
     "latitude": 35.9755,
     "longitude": -120.523,
@@ -6259,10 +6259,10 @@
         "source_name": "20260623T192345_event_75382341_M0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75382341/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382341/"
   },
   {
-    "event_id": "75382661",
+    "event_id": "nc75382661",
     "origin_time_utc": "2026-06-24T05:21:09.720000Z",
     "latitude": 36.03683,
     "longitude": -120.601,
@@ -6290,10 +6290,10 @@
         "source_name": "20260624T052109_event_75382661_M0.5_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75382661/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382661/"
   },
   {
-    "event_id": "75383286",
+    "event_id": "nc75383286",
     "origin_time_utc": "2026-06-24T18:28:21.500000Z",
     "latitude": 36.0375,
     "longitude": -120.60167,
@@ -6321,10 +6321,10 @@
         "source_name": "20260624T182821_event_75383286_M1.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75383286/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383286/"
   },
   {
-    "event_id": "75384196",
+    "event_id": "nc75384196",
     "origin_time_utc": "2026-06-25T17:46:19.480000Z",
     "latitude": 35.998,
     "longitude": -120.5565,
@@ -6352,10 +6352,10 @@
         "source_name": "20260625T174619_event_75384196_M0.3_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75384196/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384196/"
   },
   {
-    "event_id": "75384526",
+    "event_id": "nc75384526",
     "origin_time_utc": "2026-06-26T06:06:21.010000Z",
     "latitude": 36.012,
     "longitude": -120.57667,
@@ -6383,10 +6383,10 @@
         "source_name": "20260626T060621_event_75384526_M0.9_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75384526/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384526/"
   },
   {
-    "event_id": "75386396",
+    "event_id": "nc75386396",
     "origin_time_utc": "2026-06-29T17:00:59.930000Z",
     "latitude": 35.92433,
     "longitude": -120.47166,
@@ -6414,10 +6414,10 @@
         "source_name": "20260629T170059_event_75386396_M2.1_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75386396/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386396/"
   },
   {
-    "event_id": "75386391",
+    "event_id": "nc75386391",
     "origin_time_utc": "2026-06-29T17:01:16.520000Z",
     "latitude": 35.92484,
     "longitude": -120.47334,
@@ -6445,10 +6445,10 @@
         "source_name": "20260629T170116_event_75386391_M1.6_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75386391/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386391/"
   },
   {
-    "event_id": "75386401",
+    "event_id": "nc75386401",
     "origin_time_utc": "2026-06-29T17:01:52.010000Z",
     "latitude": 35.92216,
     "longitude": -120.4735,
@@ -6476,10 +6476,10 @@
         "source_name": "20260629T170152_event_75386401_M0.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75386401/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386401/"
   },
   {
-    "event_id": "75386636",
+    "event_id": "nc75386636",
     "origin_time_utc": "2026-06-30T01:18:05.990000Z",
     "latitude": 35.92417,
     "longitude": -120.472,
@@ -6507,10 +6507,10 @@
         "source_name": "20260630T011805_event_75386636_M1.1_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75386636/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386636/"
   },
   {
-    "event_id": "75386646",
+    "event_id": "nc75386646",
     "origin_time_utc": "2026-06-30T01:34:55.930000Z",
     "latitude": 35.92317,
     "longitude": -120.473,
@@ -6538,10 +6538,10 @@
         "source_name": "20260630T013455_event_75386646_M0.7_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75386646/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386646/"
   },
   {
-    "event_id": "75386651",
+    "event_id": "nc75386651",
     "origin_time_utc": "2026-06-30T01:35:06.260000Z",
     "latitude": 35.921,
     "longitude": -120.47467,
@@ -6569,10 +6569,10 @@
         "source_name": "20260630T013506_event_75386651_M0.7_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75386651/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386651/"
   },
   {
-    "event_id": "75386736",
+    "event_id": "nc75386736",
     "origin_time_utc": "2026-06-30T07:59:21.670000Z",
     "latitude": 35.9215,
     "longitude": -120.47266,
@@ -6600,10 +6600,10 @@
         "source_name": "20260630T075921_event_75386736_M0.6_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75386736/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386736/"
   },
   {
-    "event_id": "75387326",
+    "event_id": "nc75387326",
     "origin_time_utc": "2026-07-01T05:55:13.970000Z",
     "latitude": 36.032,
     "longitude": -120.6055,
@@ -6631,10 +6631,10 @@
         "source_name": "20260701T055513_event_75387326_M0.7_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75387326/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387326/"
   },
   {
-    "event_id": "75387776",
+    "event_id": "nc75387776",
     "origin_time_utc": "2026-07-02T00:58:37.300000Z",
     "latitude": 35.88383,
     "longitude": -120.53967,
@@ -6662,10 +6662,10 @@
         "source_name": "20260702T005837_event_75387776_M1.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75387776/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387776/"
   },
   {
-    "event_id": "75388456",
+    "event_id": "nc75388456",
     "origin_time_utc": "2026-07-03T08:05:27.850000Z",
     "latitude": 36.1895,
     "longitude": -120.14384,
@@ -6693,10 +6693,10 @@
         "source_name": "20260703T080527_event_75388456_M1.0_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75388456/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388456/"
   },
   {
-    "event_id": "75389461",
+    "event_id": "nc75389461",
     "origin_time_utc": "2026-07-04T19:13:40.510000Z",
     "latitude": 35.92883,
     "longitude": -120.48033,
@@ -6724,10 +6724,10 @@
         "source_name": "20260704T191340_event_75389461_M0.5_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75389461/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389461/"
   },
   {
-    "event_id": "75389926",
+    "event_id": "nc75389926",
     "origin_time_utc": "2026-07-05T09:17:48.640000Z",
     "latitude": 35.92633,
     "longitude": -120.47334,
@@ -6755,10 +6755,10 @@
         "source_name": "20260705T091748_event_75389926_M0.1_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75389926/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389926/"
   },
   {
-    "event_id": "75390021",
+    "event_id": "nc75390021",
     "origin_time_utc": "2026-07-05T14:19:14.890000Z",
     "latitude": 35.95917,
     "longitude": -120.50883,
@@ -6786,10 +6786,10 @@
         "source_name": "20260705T141914_event_75390021_M1.6_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75390021/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390021/"
   },
   {
-    "event_id": "75390656",
+    "event_id": "nc75390656",
     "origin_time_utc": "2026-07-06T15:30:26.040000Z",
     "latitude": 35.923,
     "longitude": -120.469,
@@ -6817,10 +6817,10 @@
         "source_name": "20260706T153026_event_75390656_M-0.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75390656/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390656/"
   },
   {
-    "event_id": "75390951",
+    "event_id": "nc75390951",
     "origin_time_utc": "2026-07-06T21:15:44.080000Z",
     "latitude": 36.19333,
     "longitude": -120.12817,
@@ -6848,10 +6848,10 @@
         "source_name": "20260706T211544_event_75390951_M1.8_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75390951/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390951/"
   },
   {
-    "event_id": "75390976",
+    "event_id": "nc75390976",
     "origin_time_utc": "2026-07-06T21:34:23.210000Z",
     "latitude": 36.20217,
     "longitude": -120.10883,
@@ -6879,10 +6879,10 @@
         "source_name": "20260706T213423_event_75390976_M1.3_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75390976/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390976/"
   },
   {
-    "event_id": "75391151",
+    "event_id": "nc75391151",
     "origin_time_utc": "2026-07-07T03:59:29.190000Z",
     "latitude": 36.191,
     "longitude": -120.13583,
@@ -6910,10 +6910,10 @@
         "source_name": "20260707T035929_event_75391151_M0.9_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75391151/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391151/"
   },
   {
-    "event_id": "75391161",
+    "event_id": "nc75391161",
     "origin_time_utc": "2026-07-07T04:26:14.230000Z",
     "latitude": 36.18917,
     "longitude": -120.1455,
@@ -6941,10 +6941,10 @@
         "source_name": "20260707T042614_event_75391161_M1.4_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75391161/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391161/"
   },
   {
-    "event_id": "75391181",
+    "event_id": "nc75391181",
     "origin_time_utc": "2026-07-07T06:22:27.410000Z",
     "latitude": 36.18683,
     "longitude": -120.768,
@@ -6972,10 +6972,10 @@
         "source_name": "20260707T062227_event_75391181_M2.0_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75391181/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391181/"
   },
   {
-    "event_id": "75391341",
+    "event_id": "nc75391341",
     "origin_time_utc": "2026-07-07T13:59:10.930000Z",
     "latitude": 36.27783,
     "longitude": -120.85284,
@@ -7003,10 +7003,10 @@
         "source_name": "20260707T135910_event_75391341_M1.8_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75391341/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391341/"
   },
   {
-    "event_id": "75391661",
+    "event_id": "nc75391661",
     "origin_time_utc": "2026-07-07T22:25:59.330000Z",
     "latitude": 35.85417,
     "longitude": -120.9495,
@@ -7034,10 +7034,10 @@
         "source_name": "20260707T222559_event_75391661_M0.8_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75391661/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391661/"
   },
   {
-    "event_id": "75391801",
+    "event_id": "nc75391801",
     "origin_time_utc": "2026-07-08T03:54:23.680000Z",
     "latitude": 36.195,
     "longitude": -120.087,
@@ -7065,10 +7065,10 @@
         "source_name": "20260708T035423_event_75391801_M2.2_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75391801/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391801/"
   },
   {
-    "event_id": "75392191",
+    "event_id": "nc75392191",
     "origin_time_utc": "2026-07-08T19:12:24.260000Z",
     "latitude": 35.88117,
     "longitude": -120.42834,
@@ -7096,10 +7096,10 @@
         "source_name": "20260708T191224_event_75392191_M0.9_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75392191/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392191/"
   },
   {
-    "event_id": "75393011",
+    "event_id": "nc75393011",
     "origin_time_utc": "2026-07-10T04:11:02.510000Z",
     "latitude": 36.15983,
     "longitude": -120.22916,
@@ -7127,10 +7127,10 @@
         "source_name": "20260710T041102_event_75393011_M1.0_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75393011/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393011/"
   },
   {
-    "event_id": "75393176",
+    "event_id": "nc75393176",
     "origin_time_utc": "2026-07-10T10:29:56.320000Z",
     "latitude": 35.96783,
     "longitude": -120.51266,
@@ -7158,10 +7158,10 @@
         "source_name": "20260710T102956_event_75393176_M0.4_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75393176/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393176/"
   },
   {
-    "event_id": "75393391",
+    "event_id": "nc75393391",
     "origin_time_utc": "2026-07-10T18:53:03.510000Z",
     "latitude": 35.569,
     "longitude": -120.78516,
@@ -7189,10 +7189,10 @@
         "source_name": "20260710T185303_event_75393391_M1.8_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75393391/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393391/"
   },
   {
-    "event_id": "75393396",
+    "event_id": "nc75393396",
     "origin_time_utc": "2026-07-10T18:54:38.190000Z",
     "latitude": 35.56967,
     "longitude": -120.78567,
@@ -7220,10 +7220,10 @@
         "source_name": "20260710T185438_event_75393396_M1.6_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75393396/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393396/"
   },
   {
-    "event_id": "75394556",
+    "event_id": "nc75394556",
     "origin_time_utc": "2026-07-12T20:52:48.820000Z",
     "latitude": 36.29683,
     "longitude": -120.65234,
@@ -7251,10 +7251,10 @@
         "source_name": "20260712T205248_event_75394556_M2.9_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75394556/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394556/"
   },
   {
-    "event_id": "75394566",
+    "event_id": "nc75394566",
     "origin_time_utc": "2026-07-12T21:36:37.600000Z",
     "latitude": 36.3005,
     "longitude": -120.656,
@@ -7282,10 +7282,10 @@
         "source_name": "20260712T213637_event_75394566_M0.6_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75394566/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394566/"
   },
   {
-    "event_id": "75395591",
+    "event_id": "nc75395591",
     "origin_time_utc": "2026-07-14T11:51:28.620000Z",
     "latitude": 35.85534,
     "longitude": -120.4,
@@ -7313,10 +7313,10 @@
         "source_name": "20260714T115128_event_75395591_M2.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75395591/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395591/"
   },
   {
-    "event_id": "75395596",
+    "event_id": "nc75395596",
     "origin_time_utc": "2026-07-14T11:52:21.200000Z",
     "latitude": 35.85833,
     "longitude": -120.3955,
@@ -7344,10 +7344,10 @@
         "source_name": "20260714T115221_event_75395596_M1.5_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75395596/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395596/"
   },
   {
-    "event_id": "75395606",
+    "event_id": "nc75395606",
     "origin_time_utc": "2026-07-14T12:03:27.500000Z",
     "latitude": 35.86,
     "longitude": -120.396,
@@ -7375,10 +7375,10 @@
         "source_name": "20260714T120327_event_75395606_M0.8_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75395606/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395606/"
   },
   {
-    "event_id": "75395611",
+    "event_id": "nc75395611",
     "origin_time_utc": "2026-07-14T12:04:11.830000Z",
     "latitude": 35.86183,
     "longitude": -120.39133,
@@ -7406,10 +7406,10 @@
         "source_name": "20260714T120411_event_75395611_M0.1_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75395611/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395611/"
   },
   {
-    "event_id": "75395621",
+    "event_id": "nc75395621",
     "origin_time_utc": "2026-07-14T12:10:32.690000Z",
     "latitude": 35.8585,
     "longitude": -120.39584,
@@ -7437,10 +7437,10 @@
         "source_name": "20260714T121032_event_75395621_M-0.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75395621/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395621/"
   },
   {
-    "event_id": "75395626",
+    "event_id": "nc75395626",
     "origin_time_utc": "2026-07-14T12:42:30.200000Z",
     "latitude": 35.93333,
     "longitude": -120.485,
@@ -7468,10 +7468,10 @@
         "source_name": "20260714T124230_event_75395626_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75395626/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395626/"
   },
   {
-    "event_id": "75395636",
+    "event_id": "nc75395636",
     "origin_time_utc": "2026-07-14T13:24:08.160000Z",
     "latitude": 35.8575,
     "longitude": -120.39667,
@@ -7499,10 +7499,10 @@
         "source_name": "20260714T132408_event_75395636_M0.4_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75395636/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395636/"
   },
   {
-    "event_id": "75395646",
+    "event_id": "nc75395646",
     "origin_time_utc": "2026-07-14T13:36:45.480000Z",
     "latitude": 36.0075,
     "longitude": -120.57117,
@@ -7530,10 +7530,10 @@
         "source_name": "20260714T133645_event_75395646_M0.8_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75395646/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395646/"
   },
   {
-    "event_id": "75395731",
+    "event_id": "nc75395731",
     "origin_time_utc": "2026-07-14T15:44:25.160000Z",
     "latitude": 36.22317,
     "longitude": -120.793,
@@ -7561,10 +7561,10 @@
         "source_name": "20260714T154425_event_75395731_M1.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75395731/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395731/"
   },
   {
-    "event_id": "75398481",
+    "event_id": "nc75398481",
     "origin_time_utc": "2026-07-18T18:44:55.850000Z",
     "latitude": 35.569,
     "longitude": -120.789,
@@ -7592,10 +7592,10 @@
         "source_name": "20260718T184455_event_75398481_M1.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75398481/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398481/"
   },
   {
-    "event_id": "75398756",
+    "event_id": "nc75398756",
     "origin_time_utc": "2026-07-19T05:01:45.340000Z",
     "latitude": 36.22933,
     "longitude": -120.8015,
@@ -7623,10 +7623,10 @@
         "source_name": "20260719T050145_event_75398756_M1.0_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75398756/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398756/"
   },
   {
-    "event_id": "75398841",
+    "event_id": "nc75398841",
     "origin_time_utc": "2026-07-19T07:49:40.300000Z",
     "latitude": 35.96133,
     "longitude": -120.50733,
@@ -7654,10 +7654,10 @@
         "source_name": "20260719T074940_event_75398841_M0.5_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75398841/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398841/"
   },
   {
-    "event_id": "75398886",
+    "event_id": "nc75398886",
     "origin_time_utc": "2026-07-19T09:14:07.050000Z",
     "latitude": 36.009,
     "longitude": -120.56983,
@@ -7685,10 +7685,10 @@
         "source_name": "20260719T091407_event_75398886_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75398886/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398886/"
   },
   {
-    "event_id": "75399361",
+    "event_id": "nc75399361",
     "origin_time_utc": "2026-07-20T06:18:14.530000Z",
     "latitude": 36.26467,
     "longitude": -120.8245,
@@ -7716,10 +7716,10 @@
         "source_name": "20260720T061814_event_75399361_M0.4_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75399361/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399361/"
   },
   {
-    "event_id": "75402902",
+    "event_id": "nc75402902",
     "origin_time_utc": "2026-07-21T06:28:36.190000Z",
     "latitude": 36.00883,
     "longitude": -120.5675,
@@ -7747,10 +7747,10 @@
         "source_name": "20260721T062836_event_75402902_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75402902/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402902/"
   },
   {
-    "event_id": "75403472",
+    "event_id": "nc75403472",
     "origin_time_utc": "2026-07-22T02:40:39.230000Z",
     "latitude": 35.88517,
     "longitude": -120.434,
@@ -7778,10 +7778,10 @@
         "source_name": "20260722T024039_event_75403472_M1.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75403472/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403472/"
   },
   {
-    "event_id": "75404672",
+    "event_id": "nc75404672",
     "origin_time_utc": "2026-07-23T23:42:25.320000Z",
     "latitude": 36.04633,
     "longitude": -120.63533,
@@ -7809,10 +7809,10 @@
         "source_name": "20260723T234225_event_75404672_M0.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75404672/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404672/"
   },
   {
-    "event_id": "75405282",
+    "event_id": "nc75405282",
     "origin_time_utc": "2026-07-24T23:30:55.450000Z",
     "latitude": 36.02317,
     "longitude": -120.58967,
@@ -7840,10 +7840,10 @@
         "source_name": "20260724T233055_event_75405282_M0.3_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75405282/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405282/"
   },
   {
-    "event_id": "75405907",
+    "event_id": "nc75405907",
     "origin_time_utc": "2026-07-26T06:38:49.150000Z",
     "latitude": 36.023,
     "longitude": -120.58884,
@@ -7871,10 +7871,10 @@
         "source_name": "20260726T063849_event_75405907_M0.9_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75405907/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405907/"
   },
   {
-    "event_id": "75406167",
+    "event_id": "nc75406167",
     "origin_time_utc": "2026-07-26T20:27:58.200000Z",
     "latitude": 36.05867,
     "longitude": -120.18567,
@@ -7902,10 +7902,10 @@
         "source_name": "20260726T202758_event_75406167_M1.2_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75406167/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406167/"
   },
   {
-    "event_id": "75407112",
+    "event_id": "nc75407112",
     "origin_time_utc": "2026-07-28T02:38:00.850000Z",
     "latitude": 35.96783,
     "longitude": -120.51683,
@@ -7933,10 +7933,10 @@
         "source_name": "20260728T023800_event_75407112_M0.6_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75407112/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407112/"
   },
   {
-    "event_id": "75407307",
+    "event_id": "nc75407307",
     "origin_time_utc": "2026-07-28T15:02:28.150000Z",
     "latitude": 35.9815,
     "longitude": -120.53833,
@@ -7964,10 +7964,10 @@
         "source_name": "20260728T150228_event_75407307_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75407307/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407307/"
   },
   {
-    "event_id": "75407477",
+    "event_id": "nc75407477",
     "origin_time_utc": "2026-07-28T22:09:57.090000Z",
     "latitude": 35.9575,
     "longitude": -120.51667,
@@ -7995,10 +7995,10 @@
         "source_name": "20260728T220957_event_75407477_M0.5_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75407477/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407477/"
   },
   {
-    "event_id": "75408272",
+    "event_id": "nc75408272",
     "origin_time_utc": "2026-07-29T21:24:19.150000Z",
     "latitude": 35.99317,
     "longitude": -120.55067,
@@ -8026,10 +8026,10 @@
         "source_name": "20260729T212419_event_75408272_M0.8_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75408272/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408272/"
   },
   {
-    "event_id": "75408302",
+    "event_id": "nc75408302",
     "origin_time_utc": "2026-07-29T22:08:27.970000Z",
     "latitude": 36.04133,
     "longitude": -120.6075,
@@ -8057,10 +8057,10 @@
         "source_name": "20260729T220827_event_75408302_M0.2_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75408302/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408302/"
   },
   {
-    "event_id": "75408387",
+    "event_id": "nc75408387",
     "origin_time_utc": "2026-07-30T04:41:24.490000Z",
     "latitude": 36.14466,
     "longitude": -120.22117,
@@ -8088,10 +8088,10 @@
         "source_name": "20260730T044124_event_75408387_M1.6_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75408387/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408387/"
   },
   {
-    "event_id": "75408442",
+    "event_id": "nc75408442",
     "origin_time_utc": "2026-07-30T10:01:10.950000Z",
     "latitude": 36.219,
     "longitude": -120.28267,
@@ -8119,10 +8119,10 @@
         "source_name": "20260730T100110_event_75408442_M0.9_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75408442/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408442/"
   },
   {
-    "event_id": "75408972",
+    "event_id": "nc75408972",
     "origin_time_utc": "2026-07-31T05:27:48.300000Z",
     "latitude": 36.03567,
     "longitude": -120.62067,
@@ -8150,10 +8150,10 @@
         "source_name": "20260731T052748_event_75408972_M0.6_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75408972/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408972/"
   },
   {
-    "event_id": "75409702",
+    "event_id": "nc75409702",
     "origin_time_utc": "2026-08-01T16:37:30.050000Z",
     "latitude": 36.26266,
     "longitude": -120.8475,
@@ -8181,10 +8181,10 @@
         "source_name": "20260801T163730_event_75409702_M1.5_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75409702/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409702/"
   },
   {
-    "event_id": "75410582",
+    "event_id": "nc75410582",
     "origin_time_utc": "2026-08-03T10:08:47.210000Z",
     "latitude": 36.2915,
     "longitude": -120.86234,
@@ -8212,10 +8212,10 @@
         "source_name": "20260803T100847_event_75410582_M0.8_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75410582/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410582/"
   },
   {
-    "event_id": "75411142",
+    "event_id": "nc75411142",
     "origin_time_utc": "2026-08-04T13:38:01.580000Z",
     "latitude": 35.9905,
     "longitude": -120.56133,
@@ -8243,10 +8243,10 @@
         "source_name": "20260804T133801_event_75411142_M0.1_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75411142/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411142/"
   },
   {
-    "event_id": "75411427",
+    "event_id": "nc75411427",
     "origin_time_utc": "2026-08-04T22:04:15.070000Z",
     "latitude": 36.18483,
     "longitude": -120.76884,
@@ -8274,10 +8274,10 @@
         "source_name": "20260804T220415_event_75411427_M2.0_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75411427/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411427/"
   },
   {
-    "event_id": "75411447",
+    "event_id": "nc75411447",
     "origin_time_utc": "2026-08-04T22:43:58.270000Z",
     "latitude": 36.40417,
     "longitude": -120.496,
@@ -8305,10 +8305,10 @@
         "source_name": "20260804T224358_event_75411447_M1.7_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75411447/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411447/"
   },
   {
-    "event_id": "75411472",
+    "event_id": "nc75411472",
     "origin_time_utc": "2026-08-04T23:33:04.450000Z",
     "latitude": 35.7785,
     "longitude": -120.3155,
@@ -8336,10 +8336,10 @@
         "source_name": "20260804T233304_event_75411472_M0.3_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75411472/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411472/"
   },
   {
-    "event_id": "75411582",
+    "event_id": "nc75411582",
     "origin_time_utc": "2026-08-05T04:10:19.110000Z",
     "latitude": 36.1665,
     "longitude": -120.74033,
@@ -8367,10 +8367,10 @@
         "source_name": "20260805T041019_event_75411582_M1.8_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75411582/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411582/"
   },
   {
-    "event_id": "75412112",
+    "event_id": "nc75412112",
     "origin_time_utc": "2026-08-05T21:41:07.260000Z",
     "latitude": 36.00167,
     "longitude": -120.56017,
@@ -8398,10 +8398,10 @@
         "source_name": "20260805T214107_event_75412112_M0.2_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75412112/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412112/"
   },
   {
-    "event_id": "75412512",
+    "event_id": "nc75412512",
     "origin_time_utc": "2026-08-06T12:01:32.460000Z",
     "latitude": 36.02283,
     "longitude": -121.055,
@@ -8429,10 +8429,10 @@
         "source_name": "20260806T120132_event_75412512_M0.8_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75412512/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412512/"
   },
   {
-    "event_id": "75412792",
+    "event_id": "nc75412792",
     "origin_time_utc": "2026-08-06T20:04:02.160000Z",
     "latitude": 36.035,
     "longitude": -120.60567,
@@ -8460,10 +8460,10 @@
         "source_name": "20260806T200402_event_75412792_M1.4_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75412792/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412792/"
   },
   {
-    "event_id": "75412957",
+    "event_id": "nc75412957",
     "origin_time_utc": "2026-08-06T23:58:40.140000Z",
     "latitude": 36.03383,
     "longitude": -120.6005,
@@ -8491,10 +8491,10 @@
         "source_name": "20260806T235840_event_75412957_M0.9_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75412957/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412957/"
   },
   {
-    "event_id": "75412962",
+    "event_id": "nc75412962",
     "origin_time_utc": "2026-08-07T00:14:18.250000Z",
     "latitude": 35.993,
     "longitude": -120.55367,
@@ -8522,10 +8522,10 @@
         "source_name": "20260807T001418_event_75412962_M0.7_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75412962/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412962/"
   },
   {
-    "event_id": "75413552",
+    "event_id": "nc75413552",
     "origin_time_utc": "2026-08-07T18:14:50.260000Z",
     "latitude": 36.0435,
     "longitude": -120.62383,
@@ -8553,10 +8553,10 @@
         "source_name": "20260807T181450_event_75413552_M0.6_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75413552/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413552/"
   },
   {
-    "event_id": "75413602",
+    "event_id": "nc75413602",
     "origin_time_utc": "2026-08-07T19:40:53.860000Z",
     "latitude": 36.12067,
     "longitude": -120.23016,
@@ -8584,10 +8584,10 @@
         "source_name": "20260807T194053_event_75413602_M0.9_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75413602/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413602/"
   },
   {
-    "event_id": "75413612",
+    "event_id": "nc75413612",
     "origin_time_utc": "2026-08-07T19:43:10.230000Z",
     "latitude": 36.1,
     "longitude": -120.26317,
@@ -8615,10 +8615,10 @@
         "source_name": "20260807T194310_event_75413612_M1.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75413612/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413612/"
   },
   {
-    "event_id": "75413632",
+    "event_id": "nc75413632",
     "origin_time_utc": "2026-08-07T20:15:55.090000Z",
     "latitude": 36.11,
     "longitude": -120.26517,
@@ -8646,10 +8646,10 @@
         "source_name": "20260807T201555_event_75413632_M1.8_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75413632/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413632/"
   },
   {
-    "event_id": "75413637",
+    "event_id": "nc75413637",
     "origin_time_utc": "2026-08-07T20:18:26.770000Z",
     "latitude": 36.09867,
     "longitude": -120.26434,
@@ -8677,10 +8677,10 @@
         "source_name": "20260807T201826_event_75413637_M1.0_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75413637/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413637/"
   },
   {
-    "event_id": "75413897",
+    "event_id": "nc75413897",
     "origin_time_utc": "2026-08-08T05:51:05.700000Z",
     "latitude": 36.03367,
     "longitude": -120.98133,
@@ -8708,10 +8708,10 @@
         "source_name": "20260808T055105_event_75413897_M1.7_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75413897/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413897/"
   },
   {
-    "event_id": "75414017",
+    "event_id": "nc75414017",
     "origin_time_utc": "2026-08-08T14:44:59.430000Z",
     "latitude": 36.25517,
     "longitude": -120.834,
@@ -8739,10 +8739,10 @@
         "source_name": "20260808T144459_event_75414017_M1.0_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75414017/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414017/"
   },
   {
-    "event_id": "75414132",
+    "event_id": "nc75414132",
     "origin_time_utc": "2026-08-08T19:35:47.910000Z",
     "latitude": 36.31367,
     "longitude": -120.88316,
@@ -8770,10 +8770,10 @@
         "source_name": "20260808T193547_event_75414132_M1.1_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75414132/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414132/"
   },
   {
-    "event_id": "75414162",
+    "event_id": "nc75414162",
     "origin_time_utc": "2026-08-08T20:03:33.780000Z",
     "latitude": 36.038,
     "longitude": -120.60917,
@@ -8801,10 +8801,10 @@
         "source_name": "20260808T200333_event_75414162_M0.7_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75414162/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414162/"
   },
   {
-    "event_id": "75414397",
+    "event_id": "nc75414397",
     "origin_time_utc": "2026-08-09T02:36:41.430000Z",
     "latitude": 36.3755,
     "longitude": -120.32933,
@@ -8832,10 +8832,10 @@
         "source_name": "20260809T023641_event_75414397_M1.3_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75414397/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414397/"
   },
   {
-    "event_id": "75414602",
+    "event_id": "nc75414602",
     "origin_time_utc": "2026-08-09T13:44:55.140000Z",
     "latitude": 36.038,
     "longitude": -120.59617,
@@ -8863,10 +8863,10 @@
         "source_name": "20260809T134455_event_75414602_M1.0_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75414602/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414602/"
   },
   {
-    "event_id": "75414987",
+    "event_id": "nc75414987",
     "origin_time_utc": "2026-08-10T02:32:09.130000Z",
     "latitude": 35.89383,
     "longitude": -120.436,
@@ -8894,10 +8894,10 @@
         "source_name": "20260810T023209_event_75414987_M0.2_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75414987/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414987/"
   },
   {
-    "event_id": "75415492",
+    "event_id": "nc75415492",
     "origin_time_utc": "2026-08-10T23:26:45.660000Z",
     "latitude": 36.139,
     "longitude": -120.19117,
@@ -8925,10 +8925,10 @@
         "source_name": "20260810T232645_event_75415492_M1.6_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75415492/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415492/"
   },
   {
-    "event_id": "75415567",
+    "event_id": "nc75415567",
     "origin_time_utc": "2026-08-11T02:18:00.560000Z",
     "latitude": 36.26534,
     "longitude": -120.3455,
@@ -8956,10 +8956,10 @@
         "source_name": "20260811T021800_event_75415567_M1.4_far_1_12Hz_1_12Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75415567/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415567/"
   },
   {
-    "event_id": "75416187",
+    "event_id": "nc75416187",
     "origin_time_utc": "2026-08-11T21:26:46.310000Z",
     "latitude": 35.9415,
     "longitude": -120.49433,
@@ -8987,10 +8987,10 @@
         "source_name": "20260811T212646_event_75416187_M-0.0_near_5_30Hz_5_30Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75416187/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416187/"
   },
   {
-    "event_id": "75416512",
+    "event_id": "nc75416512",
     "origin_time_utc": "2026-08-12T04:05:56.750000Z",
     "latitude": 36.05183,
     "longitude": -120.6115,
@@ -9018,6 +9018,6 @@
         "source_name": "20260812T040556_event_75416512_M2.3_intermediate_3_15Hz_3_15Hz.png"
       }
     ],
-    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/75416512/"
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416512/"
   }
 ]

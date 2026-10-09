@@ -577,10 +577,39 @@
       `DAS plots: ${status.plots_available} / ${status.recorded_events}`;
   }
 
+function resolveEventId(value) {
+  const raw = String(value || "").trim().toLowerCase();
+
+  const candidates = [raw];
+
+  if (/^nc\d+$/.test(raw)) {
+    candidates.push(raw.slice(2));
+  } else if (/^\d+$/.test(raw)) {
+    candidates.push(`nc${raw}`);
+  }
+
+  for (const candidate of candidates) {
+    if (state.byId.has(candidate)) {
+      return candidate;
+    }
+  }
+
+  return null;
+}
+
+
   function openHashEvent() {
     if (!location.hash.startsWith("#event=")) return;
-    const eventId = decodeURIComponent(location.hash.slice("#event=".length));
-    if (state.byId.has(eventId)) openEventDialog(eventId);
+
+    const requestedId = decodeURIComponent(
+      location.hash.slice("#event=".length)
+    );
+
+    const eventId = resolveEventId(requestedId);
+
+    if (eventId) {
+      openEventDialog(eventId);
+    }
   }
 
   async function boot() {
