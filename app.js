@@ -73,6 +73,13 @@
     });
   }
 
+  function versionedAssetUrl(url) {
+    const raw = String(url || "").trim();
+    if (!raw) return raw;
+    const joiner = raw.includes("?") ? "&" : "?";
+    return `${raw}${joiner}v=${encodeURIComponent(BUILD)}`;
+  }
+
   function finite(value) {
     return typeof value === "number" && Number.isFinite(value);
   }
@@ -349,6 +356,37 @@
     els.measureStatus.textContent = "";
   }
 
+  function eventMarkerTooltipHtml(event) {
+    return `${escapeHtml(event.event_id)} · ${escapeHtml(fmtMagnitude(event))} · ${fmtNumber(event.depth_km, 1, " km")}`;
+  }
+
+  function bindEventMarkerInfo(marker, event) {
+    if (!marker.getTooltip()) {
+      marker.bindTooltip(eventMarkerTooltipHtml(event), {
+        direction: "top",
+        opacity: 0.92,
+      });
+    }
+    if (!marker.getPopup()) {
+      marker.bindPopup(popupHtml(event));
+    }
+  }
+
+  function setEventMarkerInfoEnabled(enabled) {
+    for (const [eventId, marker] of state.markers.entries()) {
+      const event = state.byId.get(eventId);
+      if (!event) continue;
+      if (enabled) {
+        bindEventMarkerInfo(marker, event);
+      } else {
+        marker.closeTooltip();
+        marker.closePopup();
+        marker.unbindTooltip();
+        marker.unbindPopup();
+      }
+    }
+  }
+
   function setMeasureMode(active) {
     state.measureActive = Boolean(active);
     els.measureDistance.classList.toggle("active", state.measureActive);
@@ -358,10 +396,13 @@
 
     if (state.measureActive) {
       clearMeasurement();
+      state.map.closePopup();
+      setEventMarkerInfoEnabled(false);
       els.measureStatus.textContent = "Click the first map point";
       els.measureStatus.classList.remove("hidden");
       state.map.getContainer().classList.add("measure-mode");
     } else {
+      setEventMarkerInfoEnabled(true);
       state.map.getContainer().classList.remove("measure-mode");
       if (!state.measureStart && state.measureLayer?.getLayers().length === 0) {
         els.measureStatus.classList.add("hidden");
@@ -381,6 +422,7 @@
         color: "#111827",
         fillColor: "#ffffff",
         fillOpacity: 1,
+        interactive: false,
       }).addTo(state.measureLayer);
       els.measureStatus.textContent = "Click the second map point";
       return;
@@ -400,6 +442,7 @@
       color: "#111827",
       weight: 2.5,
       dashArray: "6 5",
+      interactive: false,
     })
       .bindTooltip(`Surface distance: ${formatMapDistance(metres)}`, {
         permanent: true,
@@ -409,11 +452,9 @@
       .addTo(state.measureLayer);
 
     state.measureStart = null;
-    state.measureActive = false;
-    state.map.getContainer().classList.remove("measure-mode");
-    els.measureDistance.classList.remove("active");
-    els.measureDistance.textContent = "Measure distance";
+    setMeasureMode(false);
     els.measureStatus.textContent = `Surface distance: ${formatMapDistance(metres)}`;
+    els.measureStatus.classList.remove("hidden");
     els.clearMeasurement.classList.remove("hidden");
   }
 
@@ -432,11 +473,7 @@
         fillOpacity: 0.88,
       });
 
-      marker.bindTooltip(
-        `${escapeHtml(event.event_id)} · ${escapeHtml(fmtMagnitude(event))} · ${fmtNumber(event.depth_km, 1, " km")}`,
-        { direction: "top", opacity: 0.92 }
-      );
-      marker.bindPopup(popupHtml(event));
+      bindEventMarkerInfo(marker, event);
       state.markers.set(event.event_id, marker);
     }
 
@@ -585,9 +622,10 @@
     const event = state.currentEvent;
     if (!event || !event.plots?.length) return;
     const plot = event.plots[index] || event.plots[0];
-    els.dialogPlot.src = plot.url;
-    els.plotLink.href = plot.url;
-    els.fullImageLink.href = plot.url;
+    const plotUrl = versionedAssetUrl(plot.url);
+    els.dialogPlot.src = plotUrl;
+    els.plotLink.href = plotUrl;
+    els.fullImageLink.href = plotUrl;
     els.plotLink.classList.remove("hidden");
     els.fullImageLink.classList.remove("hidden");
     els.plotUnavailable.classList.add("hidden");

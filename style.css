@@ -285,7 +285,8 @@ input[type="range"] {
   font-size: 0.78rem;
 }
 
-.measure-mode { cursor: crosshair; }
+.measure-mode,
+.measure-mode .leaflet-interactive { cursor: crosshair !important; }
 .measure-tooltip {
   border: 1px solid #89939d;
   box-shadow: none;
