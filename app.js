@@ -13,6 +13,10 @@
     magMax: document.getElementById("magMax"),
     magMinLabel: document.getElementById("magMinLabel"),
     magMaxLabel: document.getElementById("magMaxLabel"),
+    distanceMin: document.getElementById("distanceMin"),
+    distanceMax: document.getElementById("distanceMax"),
+    distanceMinLabel: document.getElementById("distanceMinLabel"),
+    distanceMaxLabel: document.getElementById("distanceMaxLabel"),
     dateFrom: document.getElementById("dateFrom"),
     dateTo: document.getElementById("dateTo"),
     geometry: document.getElementById("geometryFilter"),
@@ -38,6 +42,9 @@
     dialogPlot: document.getElementById("dialogPlot"),
     officialEventLink: document.getElementById("officialEventLink"),
     fullImageLink: document.getElementById("fullImageLink"),
+    measureDistance: document.getElementById("measureDistance"),
+    clearMeasurement: document.getElementById("clearMeasurement"),
+    measureStatus: document.getElementById("measureStatus"),
   };
 
   const state = {
@@ -49,6 +56,9 @@
     config: null,
     status: null,
     currentEvent: null,
+    measureLayer: null,
+    measureActive: false,
+    measureStart: null,
   };
 
   function fetchJson(url) {
@@ -148,18 +158,27 @@
   function initControls() {
     const depths = state.events.map((e) => e.depth_km).filter(finite);
     const mags = state.events.map((e) => e.magnitude).filter(finite);
+    const distances = state.events
+      .map((e) => e.min_3d_distance_to_cable_km)
+      .filter(finite);
     const dates = state.events.map((e) => dateToken(e.origin_time_utc)).filter(Boolean);
 
     const depthMin = Math.floor(Math.min(...depths, 0) * 10) / 10;
     const depthMax = Math.ceil(Math.max(...depths, 1) * 10) / 10;
     const magMin = mags.length ? Math.floor(Math.min(...mags) * 10) / 10 : -1;
     const magMax = mags.length ? Math.ceil(Math.max(...mags) * 10) / 10 : 4;
+    const distanceMin = 0;
+    const distanceMax = distances.length
+      ? Math.ceil(Math.max(...distances) * 10) / 10
+      : 50;
 
     [
       [els.depthMin, depthMin, depthMax, depthMin],
       [els.depthMax, depthMin, depthMax, depthMax],
       [els.magMin, magMin, magMax, magMin],
       [els.magMax, magMin, magMax, magMax],
+      [els.distanceMin, distanceMin, distanceMax, distanceMin],
+      [els.distanceMax, distanceMin, distanceMax, distanceMax],
     ].forEach(([input, min, max, value]) => {
       input.min = String(min);
       input.max = String(max);
@@ -194,11 +213,16 @@
     if (Number(els.magMin.value) > Number(els.magMax.value)) {
       els.magMax.value = els.magMin.value;
     }
+    if (Number(els.distanceMin.value) > Number(els.distanceMax.value)) {
+      els.distanceMax.value = els.distanceMin.value;
+    }
 
     els.depthMinLabel.textContent = `${Number(els.depthMin.value).toFixed(1)} km`;
     els.depthMaxLabel.textContent = `${Number(els.depthMax.value).toFixed(1)} km`;
     els.magMinLabel.textContent = `M ${Number(els.magMin.value).toFixed(1)}`;
     els.magMaxLabel.textContent = `M ${Number(els.magMax.value).toFixed(1)}`;
+    els.distanceMinLabel.textContent = `${Number(els.distanceMin.value).toFixed(1)} km`;
+    els.distanceMaxLabel.textContent = `${Number(els.distanceMax.value).toFixed(1)} km`;
   }
 
   function eventMatches(event) {
@@ -228,6 +252,14 @@
       (
         event.magnitude < Number(els.magMin.value) ||
         event.magnitude > Number(els.magMax.value)
+      )
+    ) return false;
+
+    if (
+      finite(event.min_3d_distance_to_cable_km) &&
+      (
+        event.min_3d_distance_to_cable_km < Number(els.distanceMin.value) ||
+        event.min_3d_distance_to_cable_km > Number(els.distanceMax.value)
       )
     ) return false;
 
@@ -289,6 +321,8 @@
     }).addTo(state.map);
 
     state.eventLayer = L.layerGroup().addTo(state.map);
+    state.measureLayer = L.layerGroup().addTo(state.map);
+    state.map.on("click", handleMeasureMapClick);
 
     state.map.on("popupopen", (popupEvent) => {
       const root = popupEvent.popup.getElement();
@@ -299,6 +333,88 @@
         });
       });
     });
+  }
+
+  function formatMapDistance(metres) {
+    if (!Number.isFinite(metres)) return "—";
+    if (metres < 1000) return `${metres.toFixed(0)} m`;
+    return `${(metres / 1000).toFixed(metres < 10000 ? 2 : 1)} km`;
+  }
+
+  function clearMeasurement() {
+    state.measureLayer?.clearLayers();
+    state.measureStart = null;
+    els.clearMeasurement.classList.add("hidden");
+    els.measureStatus.classList.add("hidden");
+    els.measureStatus.textContent = "";
+  }
+
+  function setMeasureMode(active) {
+    state.measureActive = Boolean(active);
+    els.measureDistance.classList.toggle("active", state.measureActive);
+    els.measureDistance.textContent = state.measureActive
+      ? "Cancel measurement"
+      : "Measure distance";
+
+    if (state.measureActive) {
+      clearMeasurement();
+      els.measureStatus.textContent = "Click the first map point";
+      els.measureStatus.classList.remove("hidden");
+      state.map.getContainer().classList.add("measure-mode");
+    } else {
+      state.map.getContainer().classList.remove("measure-mode");
+      if (!state.measureStart && state.measureLayer?.getLayers().length === 0) {
+        els.measureStatus.classList.add("hidden");
+      }
+    }
+  }
+
+  function handleMeasureMapClick(mapEvent) {
+    if (!state.measureActive) return;
+
+    const point = mapEvent.latlng;
+    if (!state.measureStart) {
+      state.measureStart = point;
+      L.circleMarker(point, {
+        radius: 5,
+        weight: 2,
+        color: "#111827",
+        fillColor: "#ffffff",
+        fillOpacity: 1,
+      }).addTo(state.measureLayer);
+      els.measureStatus.textContent = "Click the second map point";
+      return;
+    }
+
+    const start = state.measureStart;
+    const metres = start.distanceTo(point);
+    L.circleMarker(point, {
+      radius: 5,
+      weight: 2,
+      color: "#111827",
+      fillColor: "#ffffff",
+      fillOpacity: 1,
+    }).addTo(state.measureLayer);
+
+    L.polyline([start, point], {
+      color: "#111827",
+      weight: 2.5,
+      dashArray: "6 5",
+    })
+      .bindTooltip(`Surface distance: ${formatMapDistance(metres)}`, {
+        permanent: true,
+        direction: "center",
+        className: "measure-tooltip",
+      })
+      .addTo(state.measureLayer);
+
+    state.measureStart = null;
+    state.measureActive = false;
+    state.map.getContainer().classList.remove("measure-mode");
+    els.measureDistance.classList.remove("active");
+    els.measureDistance.textContent = "Measure distance";
+    els.measureStatus.textContent = `Surface distance: ${formatMapDistance(metres)}`;
+    els.clearMeasurement.classList.remove("hidden");
   }
 
   function drawEvents() {
@@ -446,6 +562,8 @@
     els.depthMax.value = els.depthMax.max;
     els.magMin.value = els.magMin.min;
     els.magMax.value = els.magMax.max;
+    els.distanceMin.value = els.distanceMin.min;
+    els.distanceMax.value = els.distanceMax.max;
     els.dateFrom.value = "";
     els.dateTo.value = "";
     els.geometry.value = "";
@@ -539,6 +657,8 @@
       els.depthMax,
       els.magMin,
       els.magMax,
+      els.distanceMin,
+      els.distanceMax,
       els.dateFrom,
       els.dateTo,
       els.geometry,
@@ -550,6 +670,10 @@
     });
 
     els.reset.addEventListener("click", resetFilters);
+    els.measureDistance.addEventListener("click", () => {
+      setMeasureMode(!state.measureActive);
+    });
+    els.clearMeasurement.addEventListener("click", clearMeasurement);
     els.closeDialog.addEventListener("click", closeEventDialog);
     els.dialog.addEventListener("cancel", (event) => {
       event.preventDefault();
@@ -578,42 +702,36 @@
       `DAS plots: ${status.plots_available} / ${status.recorded_events}`;
   }
 
-function resolveEventId(value) {
-  const raw = String(value || "").trim().toLowerCase();
+  function resolveEventId(value) {
+    const raw = String(value || "").trim().toLowerCase();
+    const candidates = [raw];
 
-  const candidates = [raw];
-
-  if (/^nc\d+$/.test(raw)) {
-    candidates.push(raw.slice(2));
-  } else if (/^\d+$/.test(raw)) {
-    candidates.push(`nc${raw}`);
-  }
-
-  for (const candidate of candidates) {
-    if (state.byId.has(candidate)) {
-      return candidate;
+    if (/^nc\d+$/.test(raw)) {
+      candidates.push(raw.slice(2));
+    } else if (/^\d+$/.test(raw)) {
+      candidates.push(`nc${raw}`);
     }
+
+    for (const candidate of candidates) {
+      if (state.byId.has(candidate)) return candidate;
+    }
+    return null;
   }
-
-  return null;
-}
-
 
   function openHashEvent() {
-    const requestedId = new URLSearchParams(location.hash.slice(1)).get("event");
-    if (!requestedId) {
-      closeEventDialog();
-      return;
-    }
+    if (!location.hash.startsWith("#event=")) return;
 
+    const requestedId = decodeURIComponent(
+      location.hash.slice("#event=".length)
+    );
     const eventId = resolveEventId(requestedId);
     if (!eventId) return;
 
     const event = state.byId.get(eventId);
     const marker = state.markers.get(eventId);
+
     if (event && marker) {
-      // A direct link must reveal the marker even if current filters hide it.
-      if (!state.eventLayer.hasLayer(marker)) resetFilters();
+      if (!state.eventLayer.hasLayer(marker)) state.eventLayer.addLayer(marker);
       state.map.setView(
         [event.latitude, event.longitude],
         Math.max(state.map.getZoom(), 13),
@@ -646,17 +764,13 @@ function resolveEventId(value) {
     initMap();
     updateStatus();
 
-    // Create markers before resolving links, without waiting for optional layers.
-    drawEvents();
-    openHashEvent();
-
     await Promise.allSettled([
       drawSafodGeometry(),
       drawFault(),
     ]);
 
-    // Keep event markers above the geometry loaded in the background.
-    state.eventLayer.eachLayer((marker) => marker.bringToFront());
+    drawEvents();
+    openHashEvent();
   }
 
   boot().catch((error) => {

@@ -242,6 +242,56 @@ input[type="range"] {
   background: #dde3e8;
 }
 
+.map-tools {
+  position: absolute;
+  z-index: 850;
+  top: 12px;
+  right: 12px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  max-width: min(520px, calc(100% - 24px));
+}
+
+.map-tool-button {
+  min-height: 36px;
+  border: 1px solid #aeb7c0;
+  border-radius: 7px;
+  padding: 7px 10px;
+  background: rgba(255, 255, 255, 0.97);
+  color: #174b7a;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(20, 35, 50, 0.12);
+  font-weight: 650;
+  font-size: 0.8rem;
+}
+
+.map-tool-button:hover { background: #edf3f9; }
+.map-tool-button.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: white;
+}
+.map-tool-button.secondary { color: var(--muted); }
+
+.measure-status {
+  padding: 7px 9px;
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  background: rgba(255, 255, 255, 0.97);
+  box-shadow: 0 2px 8px rgba(20, 35, 50, 0.12);
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
+.measure-mode { cursor: crosshair; }
+.measure-tooltip {
+  border: 1px solid #89939d;
+  box-shadow: none;
+  font-weight: 700;
+}
+
 .map-notice {
   position: absolute;
   z-index: 800;
