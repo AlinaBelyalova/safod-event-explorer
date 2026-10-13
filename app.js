@@ -42,6 +42,7 @@
     dialogPlot: document.getElementById("dialogPlot"),
     officialEventLink: document.getElementById("officialEventLink"),
     fullImageLink: document.getElementById("fullImageLink"),
+    arrivalsToggle: document.getElementById("arrivalsToggle"),
     measureDistance: document.getElementById("measureDistance"),
     clearMeasurement: document.getElementById("clearMeasurement"),
     measureStatus: document.getElementById("measureStatus"),
@@ -56,6 +57,8 @@
     config: null,
     status: null,
     currentEvent: null,
+    currentPlotIndex: 0,
+    showArrivals: false,
     measureLayer: null,
     measureActive: false,
     measureStart: null,
@@ -618,17 +621,53 @@
     `;
   }
 
-  function selectPlot(index) {
+  function currentPlot() {
     const event = state.currentEvent;
-    if (!event || !event.plots?.length) return;
-    const plot = event.plots[index] || event.plots[0];
-    const plotUrl = versionedAssetUrl(plot.url);
+    if (!event || !event.plots?.length) return null;
+    return event.plots[state.currentPlotIndex] || event.plots[0];
+  }
+
+  function refreshDisplayedPlot() {
+    const plot = currentPlot();
+    if (!plot) return;
+
+    const useArrivals = Boolean(
+      state.showArrivals && plot.arrivals_url
+    );
+    const rawUrl = useArrivals ? plot.arrivals_url : plot.url;
+    const plotUrl = versionedAssetUrl(rawUrl);
+
     els.dialogPlot.src = plotUrl;
     els.plotLink.href = plotUrl;
     els.fullImageLink.href = plotUrl;
     els.plotLink.classList.remove("hidden");
     els.fullImageLink.classList.remove("hidden");
     els.plotUnavailable.classList.add("hidden");
+
+    const canShowArrivals = Boolean(plot.arrivals_url);
+    els.arrivalsToggle.classList.toggle("hidden", !canShowArrivals);
+    els.arrivalsToggle.setAttribute(
+      "aria-pressed",
+      useArrivals ? "true" : "false"
+    );
+    els.arrivalsToggle.textContent = useArrivals
+      ? "Hide P/S arrivals"
+      : "Show P/S arrivals";
+  }
+
+  function selectPlot(index) {
+    const event = state.currentEvent;
+    if (!event || !event.plots?.length) return;
+    state.currentPlotIndex = Number.isFinite(index) ? index : 0;
+    state.showArrivals = false;
+    refreshDisplayedPlot();
+  }
+
+  function toggleArrivals() {
+    const plot = currentPlot();
+    if (!plot?.arrivals_url) return;
+    state.showArrivals = !state.showArrivals;
+    refreshDisplayedPlot();
   }
 
   function openEventDialog(eventId) {
@@ -672,6 +711,7 @@
       els.plotUnavailable.classList.remove("hidden");
       els.plotLink.classList.add("hidden");
       els.fullImageLink.classList.add("hidden");
+      els.arrivalsToggle.classList.add("hidden");
       els.dialogPlot.removeAttribute("src");
     }
 
@@ -682,6 +722,10 @@
   function closeEventDialog() {
     if (els.dialog.open) els.dialog.close();
     state.currentEvent = null;
+    state.currentPlotIndex = 0;
+    state.showArrivals = false;
+    els.arrivalsToggle.classList.add("hidden");
+    els.arrivalsToggle.setAttribute("aria-pressed", "false");
     els.dialogPlot.removeAttribute("src");
     if (location.hash.startsWith("#event=")) {
       history.replaceState(null, "", location.pathname + location.search);
@@ -720,6 +764,7 @@
     els.plotSelector.addEventListener("change", () => {
       selectPlot(Number(els.plotSelector.value));
     });
+    els.arrivalsToggle.addEventListener("click", toggleArrivals);
     window.addEventListener("hashchange", openHashEvent);
   }
 

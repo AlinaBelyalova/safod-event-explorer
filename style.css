@@ -415,6 +415,16 @@ input[type="range"] {
   overflow-wrap: anywhere;
 }
 
+.plot-toolbar {
+  display: flex;
+  justify-content: flex-end;
+  margin: 8px 0 0;
+}
+
+#arrivalsToggle[aria-pressed="true"] {
+  font-weight: 700;
+}
+
 .plot-link {
   display: block;
   margin-top: 12px;

@@ -1,5 +1,5 @@
 {
-  "build_id": "20261012T050106Z",
+  "build_id": "20261013T231753Z",
   "map_center": [
     35.9742039,
     -120.5521414
@@ -12,5 +12,5 @@
     36.6
   ],
   "fault_remote_query_url": "https://earthquake.usgs.gov/arcgis/rest/services/haz/Qfaults/MapServer/4/query?where=1%3D1&geometry=-121.4%2C35.4%2C-119.9%2C36.6&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&outSR=4326&f=geojson",
-  "web_product_version": 1
+  "web_product_version": 2
 }
