@@ -125,10 +125,21 @@ input[type="range"] {
 
 .two-col {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: 7px;
 }
-.two-col label { display: flex; flex-direction: column; gap: 5px; }
+.two-col label {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-width: 0;
+}
+
+input[type="date"] {
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+}
 
 .checkbox-field {
   display: flex;
@@ -227,6 +238,14 @@ input[type="range"] {
   border-top: 3px solid var(--fault);
 }
 .fibre-swatch { border-top-color: var(--fibre); }
+.fm-swatch {
+  width: 22px;
+  height: 22px;
+  border: 1.5px solid #111827;
+  border-radius: 50%;
+  background: conic-gradient(#111827 0 25%, #fff 25% 50%, #111827 50% 75%, #fff 75% 100%);
+  flex: 0 0 auto;
+}
 
 .provenance { line-height: 1.48; font-size: 0.82rem; color: var(--muted); }
 
@@ -287,6 +306,10 @@ input[type="range"] {
 
 .measure-mode,
 .measure-mode .leaflet-interactive { cursor: crosshair !important; }
+.measure-mode .focal-mechanism-icon { pointer-events: none !important; }
+.focal-mechanism-icon {
+  filter: drop-shadow(0 1px 1px rgba(0,0,0,0.28));
+}
 .measure-tooltip {
   border: 1px solid #89939d;
   box-shadow: none;

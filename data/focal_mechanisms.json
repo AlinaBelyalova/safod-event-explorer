@@ -1,0 +1,974 @@
+{
+  "nc75336682": {
+    "code": "nc75336682_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75336682/focal-mechanism",
+    "np1": {
+      "dip": 85.0,
+      "rake": -20.0,
+      "strike": 40.0
+    },
+    "np2": {
+      "dip": 70.0,
+      "rake": -174.0,
+      "strike": 131.0
+    },
+    "num_stations_used": "36",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75336752": {
+    "code": "nc75336752_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75336752/focal-mechanism",
+    "np1": {
+      "dip": 50.0,
+      "rake": 130.0,
+      "strike": 130.0
+    },
+    "np2": {
+      "dip": 54.0,
+      "rake": 52.0,
+      "strike": 257.0
+    },
+    "num_stations_used": "26",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75339747": {
+    "code": "nc75339747_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75339747/focal-mechanism",
+    "np1": {
+      "dip": 80.0,
+      "rake": -80.0,
+      "strike": 25.0
+    },
+    "np2": {
+      "dip": 14.0,
+      "rake": -134.0,
+      "strike": 159.0
+    },
+    "num_stations_used": "33",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75341552": {
+    "code": "nc75341552_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341552/focal-mechanism",
+    "np1": {
+      "dip": 45.0,
+      "rake": -170.0,
+      "strike": 160.0
+    },
+    "np2": {
+      "dip": 82.0,
+      "rake": -45.0,
+      "strike": 62.0
+    },
+    "num_stations_used": "45",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75341617": {
+    "code": "nc75341617_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341617/focal-mechanism",
+    "np1": {
+      "dip": 35.0,
+      "rake": 140.0,
+      "strike": 130.0
+    },
+    "np2": {
+      "dip": 68.0,
+      "rake": 61.0,
+      "strike": 254.0
+    },
+    "num_stations_used": "27",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75341742": {
+    "code": "nc75341742_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341742/focal-mechanism",
+    "np1": {
+      "dip": 5.0,
+      "rake": -10.0,
+      "strike": 100.0
+    },
+    "np2": {
+      "dip": 89.0,
+      "rake": -94.0,
+      "strike": 199.0
+    },
+    "num_stations_used": "29",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75342507": {
+    "code": "nc75342507_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75342507/focal-mechanism",
+    "np1": {
+      "dip": 80.0,
+      "rake": 120.0,
+      "strike": 90.0
+    },
+    "np2": {
+      "dip": 31.0,
+      "rake": 19.0,
+      "strike": 196.0
+    },
+    "num_stations_used": "30",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75343317": {
+    "code": "nc75343317_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75343317/focal-mechanism",
+    "np1": {
+      "dip": 70.0,
+      "rake": 40.0,
+      "strike": 45.0
+    },
+    "np2": {
+      "dip": 52.0,
+      "rake": 154.0,
+      "strike": 298.0
+    },
+    "num_stations_used": "37",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75346177": {
+    "code": "nc75346177_fm2",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75346177/focal-mechanism",
+    "np1": {
+      "dip": 35.0,
+      "rake": 80.0,
+      "strike": 110.0
+    },
+    "np2": {
+      "dip": 55.0,
+      "rake": 96.0,
+      "strike": 302.0
+    },
+    "num_stations_used": "26",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75357261": {
+    "code": "nc75357261_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357261/focal-mechanism",
+    "np1": {
+      "dip": 65.0,
+      "rake": -20.0,
+      "strike": 110.0
+    },
+    "np2": {
+      "dip": 71.0,
+      "rake": -153.0,
+      "strike": 208.0
+    },
+    "num_stations_used": "62",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75357307": {
+    "code": "nc75357307_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357307/focal-mechanism",
+    "np1": {
+      "dip": 15.0,
+      "rake": 110.0,
+      "strike": 125.0
+    },
+    "np2": {
+      "dip": 75.0,
+      "rake": 84.0,
+      "strike": 284.0
+    },
+    "num_stations_used": "29",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75357312": {
+    "code": "nc75357312_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357312/focal-mechanism",
+    "np1": {
+      "dip": 65.0,
+      "rake": 140.0,
+      "strike": 165.0
+    },
+    "np2": {
+      "dip": 54.0,
+      "rake": 31.0,
+      "strike": 274.0
+    },
+    "num_stations_used": "35",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75357332": {
+    "code": "nc75357332_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357332/focal-mechanism",
+    "np1": {
+      "dip": 10.0,
+      "rake": -40.0,
+      "strike": 55.0
+    },
+    "np2": {
+      "dip": 83.0,
+      "rake": -97.0,
+      "strike": 184.0
+    },
+    "num_stations_used": "46",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75357372": {
+    "code": "nc75357372_fm2",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357372/focal-mechanism",
+    "np1": {
+      "dip": 45.0,
+      "rake": -150.0,
+      "strike": 120.0
+    },
+    "np2": {
+      "dip": 69.0,
+      "rake": -49.0,
+      "strike": 7.0
+    },
+    "num_stations_used": "37",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75357996": {
+    "code": "nc75357996_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357996/focal-mechanism",
+    "np1": {
+      "dip": 70.0,
+      "rake": 20.0,
+      "strike": 280.0
+    },
+    "np2": {
+      "dip": 71.0,
+      "rake": 158.0,
+      "strike": 182.0
+    },
+    "num_stations_used": "50",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75358582": {
+    "code": "nc75358582_fm2",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75358582/focal-mechanism",
+    "np1": {
+      "dip": 90.0,
+      "rake": 0.0,
+      "strike": 50.0
+    },
+    "np2": {
+      "dip": 90.0,
+      "rake": -180.0,
+      "strike": 320.0
+    },
+    "num_stations_used": "25",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75362146": {
+    "code": "nc75362146_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75362146/focal-mechanism",
+    "np1": {
+      "dip": 90.0,
+      "rake": 50.0,
+      "strike": 270.0
+    },
+    "np2": {
+      "dip": 40.0,
+      "rake": 180.0,
+      "strike": 180.0
+    },
+    "num_stations_used": "29",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75365267": {
+    "code": "nc75365267_fm2",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365267/focal-mechanism",
+    "np1": {
+      "dip": 45.0,
+      "rake": 90.0,
+      "strike": 145.0
+    },
+    "np2": {
+      "dip": 45.0,
+      "rake": 90.0,
+      "strike": 325.0
+    },
+    "num_stations_used": "28",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75367002": {
+    "code": "nc75367002_fm2",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75367002/focal-mechanism",
+    "np1": {
+      "dip": 85.0,
+      "rake": 110.0,
+      "strike": 340.0
+    },
+    "np2": {
+      "dip": 20.0,
+      "rake": 14.0,
+      "strike": 83.0
+    },
+    "num_stations_used": "26",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75367666": {
+    "code": "nc75367666_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75367666/focal-mechanism",
+    "np1": {
+      "dip": 85.0,
+      "rake": 120.0,
+      "strike": 135.0
+    },
+    "np2": {
+      "dip": 30.0,
+      "rake": 9.0,
+      "strike": 233.0
+    },
+    "num_stations_used": "40",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75367822": {
+    "code": "nc75367822_fm2",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75367822/focal-mechanism",
+    "np1": {
+      "dip": 90.0,
+      "rake": -120.0,
+      "strike": 15.0
+    },
+    "np2": {
+      "dip": 29.0,
+      "rake": 0.0,
+      "strike": 285.0
+    },
+    "num_stations_used": "39",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75368512": {
+    "code": "nc75368512_fm2",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368512/focal-mechanism",
+    "np1": {
+      "dip": 80.0,
+      "rake": -50.0,
+      "strike": 90.0
+    },
+    "np2": {
+      "dip": 41.0,
+      "rake": -164.0,
+      "strike": 191.0
+    },
+    "num_stations_used": "32",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75368822": {
+    "code": "nc75368822_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368822/focal-mechanism",
+    "np1": {
+      "dip": 65.0,
+      "rake": 130.0,
+      "strike": 155.0
+    },
+    "np2": {
+      "dip": 46.0,
+      "rake": 35.0,
+      "strike": 271.0
+    },
+    "num_stations_used": "45",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75368997": {
+    "code": "nc75368997_fm2",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368997/focal-mechanism",
+    "np1": {
+      "dip": 70.0,
+      "rake": 80.0,
+      "strike": 315.0
+    },
+    "np2": {
+      "dip": 22.0,
+      "rake": 115.0,
+      "strike": 162.0
+    },
+    "num_stations_used": "37",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75369706": {
+    "code": "nc75369706_fm2",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75369706/focal-mechanism",
+    "np1": {
+      "dip": 90.0,
+      "rake": -140.0,
+      "strike": 330.0
+    },
+    "np2": {
+      "dip": 49.0,
+      "rake": 0.0,
+      "strike": 240.0
+    },
+    "num_stations_used": "28",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75379216": {
+    "code": "nc75379216_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75379216/focal-mechanism",
+    "np1": {
+      "dip": 90.0,
+      "rake": -30.0,
+      "strike": 50.0
+    },
+    "np2": {
+      "dip": 60.0,
+      "rake": -180.0,
+      "strike": 140.0
+    },
+    "num_stations_used": "61",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75379261": {
+    "code": "nc75379261_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75379261/focal-mechanism",
+    "np1": {
+      "dip": 55.0,
+      "rake": 30.0,
+      "strike": 55.0
+    },
+    "np2": {
+      "dip": 65.0,
+      "rake": 141.0,
+      "strike": 306.0
+    },
+    "num_stations_used": "29",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75379496": {
+    "code": "nc75379496_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75379496/focal-mechanism",
+    "np1": {
+      "dip": 70.0,
+      "rake": 0.0,
+      "strike": 240.0
+    },
+    "np2": {
+      "dip": 90.0,
+      "rake": -159.0,
+      "strike": 149.0
+    },
+    "num_stations_used": "38",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75380371": {
+    "code": "nc75380371_fm2",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380371/focal-mechanism",
+    "np1": {
+      "dip": 65.0,
+      "rake": 160.0,
+      "strike": 165.0
+    },
+    "np2": {
+      "dip": 71.0,
+      "rake": 26.0,
+      "strike": 263.0
+    },
+    "num_stations_used": "73",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75380731": {
+    "code": "nc75380731_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380731/focal-mechanism",
+    "np1": {
+      "dip": 25.0,
+      "rake": 120.0,
+      "strike": 130.0
+    },
+    "np2": {
+      "dip": 68.0,
+      "rake": 76.0,
+      "strike": 277.0
+    },
+    "num_stations_used": "72",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75380736": {
+    "code": "nc75380736_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380736/focal-mechanism",
+    "np1": {
+      "dip": 65.0,
+      "rake": -160.0,
+      "strike": 160.0
+    },
+    "np2": {
+      "dip": 71.0,
+      "rake": -26.0,
+      "strike": 61.0
+    },
+    "num_stations_used": "36",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75380841": {
+    "code": "nc75380841_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380841/focal-mechanism",
+    "np1": {
+      "dip": 45.0,
+      "rake": 120.0,
+      "strike": 120.0
+    },
+    "np2": {
+      "dip": 52.0,
+      "rake": 63.0,
+      "strike": 260.0
+    },
+    "num_stations_used": "65",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75381341": {
+    "code": "nc75381341_fm2",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381341/focal-mechanism",
+    "np1": {
+      "dip": 70.0,
+      "rake": -60.0,
+      "strike": 35.0
+    },
+    "np2": {
+      "dip": 35.0,
+      "rake": -143.0,
+      "strike": 155.0
+    },
+    "num_stations_used": "37",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75383286": {
+    "code": "nc75383286_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383286/focal-mechanism",
+    "np1": {
+      "dip": 35.0,
+      "rake": 60.0,
+      "strike": 95.0
+    },
+    "np2": {
+      "dip": 60.0,
+      "rake": 109.0,
+      "strike": 310.0
+    },
+    "num_stations_used": "26",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75386396": {
+    "code": "nc75386396_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386396/focal-mechanism",
+    "np1": {
+      "dip": 90.0,
+      "rake": -170.0,
+      "strike": 325.0
+    },
+    "np2": {
+      "dip": 80.0,
+      "rake": 0.0,
+      "strike": 235.0
+    },
+    "num_stations_used": "52",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75390021": {
+    "code": "nc75390021_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390021/focal-mechanism",
+    "np1": {
+      "dip": 65.0,
+      "rake": -180.0,
+      "strike": 140.0
+    },
+    "np2": {
+      "dip": 90.0,
+      "rake": -24.0,
+      "strike": 50.0
+    },
+    "num_stations_used": "39",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75390951": {
+    "code": "nc75390951_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390951/focal-mechanism",
+    "np1": {
+      "dip": 40.0,
+      "rake": 100.0,
+      "strike": 80.0
+    },
+    "np2": {
+      "dip": 50.0,
+      "rake": 81.0,
+      "strike": 247.0
+    },
+    "num_stations_used": "31",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75391181": {
+    "code": "nc75391181_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391181/focal-mechanism",
+    "np1": {
+      "dip": 65.0,
+      "rake": 10.0,
+      "strike": 225.0
+    },
+    "np2": {
+      "dip": 80.0,
+      "rake": 154.0,
+      "strike": 130.0
+    },
+    "num_stations_used": "48",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75391341": {
+    "code": "nc75391341_fm2",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391341/focal-mechanism",
+    "np1": {
+      "dip": 85.0,
+      "rake": 170.0,
+      "strike": 135.0
+    },
+    "np2": {
+      "dip": 80.0,
+      "rake": 5.0,
+      "strike": 225.0
+    },
+    "num_stations_used": "30",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75392191": {
+    "code": "nc75392191_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392191/focal-mechanism",
+    "np1": {
+      "dip": 90.0,
+      "rake": -10.0,
+      "strike": 55.0
+    },
+    "np2": {
+      "dip": 80.0,
+      "rake": -180.0,
+      "strike": 145.0
+    },
+    "num_stations_used": "26",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75393391": {
+    "code": "nc75393391_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393391/focal-mechanism",
+    "np1": {
+      "dip": 50.0,
+      "rake": 60.0,
+      "strike": 70.0
+    },
+    "np2": {
+      "dip": 48.0,
+      "rake": 120.0,
+      "strike": 291.0
+    },
+    "num_stations_used": "35",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75393396": {
+    "code": "nc75393396_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393396/focal-mechanism",
+    "np1": {
+      "dip": 20.0,
+      "rake": 50.0,
+      "strike": 85.0
+    },
+    "np2": {
+      "dip": 74.0,
+      "rake": 103.0,
+      "strike": 306.0
+    },
+    "num_stations_used": "36",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75394556": {
+    "code": "nc75394556_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394556/focal-mechanism",
+    "np1": {
+      "dip": 85.0,
+      "rake": 50.0,
+      "strike": 65.0
+    },
+    "np2": {
+      "dip": 40.0,
+      "rake": 172.0,
+      "strike": 329.0
+    },
+    "num_stations_used": "32",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75395591": {
+    "code": "nc75395591_fm2",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395591/focal-mechanism",
+    "np1": {
+      "dip": 40.0,
+      "rake": -120.0,
+      "strike": 325.0
+    },
+    "np2": {
+      "dip": 56.0,
+      "rake": -67.0,
+      "strike": 182.0
+    },
+    "num_stations_used": "49",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75395596": {
+    "code": "nc75395596_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395596/focal-mechanism",
+    "np1": {
+      "dip": 40.0,
+      "rake": 10.0,
+      "strike": 45.0
+    },
+    "np2": {
+      "dip": 83.0,
+      "rake": 129.0,
+      "strike": 307.0
+    },
+    "num_stations_used": "33",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75403472": {
+    "code": "nc75403472_fm2",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403472/focal-mechanism",
+    "np1": {
+      "dip": 10.0,
+      "rake": -150.0,
+      "strike": 130.0
+    },
+    "np2": {
+      "dip": 85.0,
+      "rake": -81.0,
+      "strike": 10.0
+    },
+    "num_stations_used": "32",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75409702": {
+    "code": "nc75409702_fm2",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409702/focal-mechanism",
+    "np1": {
+      "dip": 85.0,
+      "rake": -110.0,
+      "strike": 320.0
+    },
+    "np2": {
+      "dip": 20.0,
+      "rake": -14.0,
+      "strike": 216.0
+    },
+    "num_stations_used": "30",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75411427": {
+    "code": "nc75411427_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411427/focal-mechanism",
+    "np1": {
+      "dip": 70.0,
+      "rake": 40.0,
+      "strike": 235.0
+    },
+    "np2": {
+      "dip": 52.0,
+      "rake": 154.0,
+      "strike": 128.0
+    },
+    "num_stations_used": "38",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75411582": {
+    "code": "nc75411582_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411582/focal-mechanism",
+    "np1": {
+      "dip": 75.0,
+      "rake": -50.0,
+      "strike": 20.0
+    },
+    "np2": {
+      "dip": 42.0,
+      "rake": -157.0,
+      "strike": 127.0
+    },
+    "num_stations_used": "40",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75413632": {
+    "code": "nc75413632_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413632/focal-mechanism",
+    "np1": {
+      "dip": 50.0,
+      "rake": 120.0,
+      "strike": 30.0
+    },
+    "np2": {
+      "dip": 48.0,
+      "rake": 59.0,
+      "strike": 168.0
+    },
+    "num_stations_used": "33",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75413897": {
+    "code": "nc75413897_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413897/focal-mechanism",
+    "np1": {
+      "dip": 85.0,
+      "rake": 60.0,
+      "strike": 270.0
+    },
+    "np2": {
+      "dip": 30.0,
+      "rake": 170.0,
+      "strike": 171.0
+    },
+    "num_stations_used": "46",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75414017": {
+    "code": "nc75414017_fm3",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414017/focal-mechanism",
+    "np1": {
+      "dip": 85.0,
+      "rake": 40.0,
+      "strike": 55.0
+    },
+    "np2": {
+      "dip": 50.0,
+      "rake": 173.0,
+      "strike": 320.0
+    },
+    "num_stations_used": "25",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75414602": {
+    "code": "nc75414602_fm2",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414602/focal-mechanism",
+    "np1": {
+      "dip": 65.0,
+      "rake": -60.0,
+      "strike": 180.0
+    },
+    "np2": {
+      "dip": 38.0,
+      "rake": -136.0,
+      "strike": 306.0
+    },
+    "num_stations_used": "33",
+    "review_status": "automatic",
+    "source": "nc"
+  },
+  "nc75416512": {
+    "code": "nc75416512_fm1",
+    "evaluation_status": "preliminary",
+    "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416512/focal-mechanism",
+    "np1": {
+      "dip": 70.0,
+      "rake": 160.0,
+      "strike": 130.0
+    },
+    "np2": {
+      "dip": 71.0,
+      "rake": 21.0,
+      "strike": 227.0
+    },
+    "num_stations_used": "52",
+    "review_status": "automatic",
+    "source": "nc"
+  }
+}

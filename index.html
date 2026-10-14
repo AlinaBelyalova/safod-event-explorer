@@ -11,7 +11,7 @@
     href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
     crossorigin=""
   >
-  <link rel="stylesheet" href="style.css?v=20261013T231753Z">
+  <link rel="stylesheet" href="style.css?v=20261014T014320Z">
 </head>
 <body>
   <header class="topbar">
@@ -35,7 +35,7 @@
         </label>
 
         <div class="field">
-          <span>Depth range</span>
+          <span title="Catalog depth relative to sea level; negative values are above sea level.">Catalog depth ⓘ</span>
           <div class="range-values">
             <output id="depthMinLabel"></output>
             <span>—</span>
@@ -57,7 +57,7 @@
         </div>
 
         <div class="field">
-          <span>3-D distance to cable</span>
+          <span title="Minimum 3-D distance from the earthquake hypocenter to the SAFOD cable trajectory.">Hypocenter–cable distance ⓘ</span>
           <div class="range-values">
             <output id="distanceMinLabel"></output>
             <span>—</span>
@@ -128,6 +128,9 @@
         <div class="line-legend">
           <span class="fibre-swatch"></span><span>SAFOD fibre</span>
         </div>
+        <div class="line-legend">
+          <span class="fm-swatch" aria-hidden="true"></span><span>Focal mechanism (where available)</span>
+        </div>
       </section>
 
       <section class="panel provenance">
@@ -135,12 +138,14 @@
         <div id="coverageText">Loading…</div>
         <div id="updatedText"></div>
         <div id="plotCountText"></div>
+        <div id="focalCountText"></div>
       </section>
     </aside>
 
     <section class="map-shell">
       <div class="map-tools" aria-label="Map tools">
         <button id="measureDistance" type="button" class="map-tool-button">Measure distance</button>
+        <button id="toggleFocalMechanisms" type="button" class="map-tool-button hidden" aria-pressed="false">Show focal mechanisms</button>
         <button id="clearMeasurement" type="button" class="map-tool-button secondary hidden">Clear</button>
         <span id="measureStatus" class="measure-status hidden"></span>
       </div>
@@ -199,12 +204,12 @@
   </dialog>
 
   <script>
-    window.SAFOD_BUILD_ID = "20261013T231753Z";
+    window.SAFOD_BUILD_ID = "20261014T014320Z";
   </script>
   <script
     src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
     crossorigin=""
   ></script>
-  <script src="app.js?v=20261013T231753Z"></script>
+  <script src="app.js?v=20261014T014320Z"></script>
 </body>
 </html>

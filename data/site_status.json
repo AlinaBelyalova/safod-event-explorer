@@ -1,10 +1,11 @@
 {
-  "build_id": "20261013T231753Z",
-  "generated_utc": "2026-10-13T23:17:53.329522Z",
+  "build_id": "20261014T014320Z",
+  "generated_utc": "2026-10-14T01:43:20.140904Z",
   "event_time_start_utc": "2026-03-28T19:44:30.590000Z",
   "event_time_end_utc": "2026-08-12T04:05:56.750000Z",
   "recorded_events": 291,
   "plots_available": 291,
+  "focal_mechanisms_available": 54,
   "catalog_sha256": "9988e4bd548ec6ee73cb67bdf5eb139197d168a64b1b43e014128cb7e231b9ff",
   "catalog_name": "catalog_recorded.csv",
   "elastic_das_git_commit": "4ec04f98e84720d5a0002ea2727b4397d4ba4b18",

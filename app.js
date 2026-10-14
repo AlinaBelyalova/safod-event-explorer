@@ -29,6 +29,7 @@
     coverageText: document.getElementById("coverageText"),
     updatedText: document.getElementById("updatedText"),
     plotCountText: document.getElementById("plotCountText"),
+    focalCountText: document.getElementById("focalCountText"),
     mapNotice: document.getElementById("mapNotice"),
     dialog: document.getElementById("eventDialog"),
     closeDialog: document.getElementById("closeDialog"),
@@ -46,6 +47,7 @@
     measureDistance: document.getElementById("measureDistance"),
     clearMeasurement: document.getElementById("clearMeasurement"),
     measureStatus: document.getElementById("measureStatus"),
+    toggleFocalMechanisms: document.getElementById("toggleFocalMechanisms"),
   };
 
   const state = {
@@ -62,6 +64,11 @@
     measureLayer: null,
     measureActive: false,
     measureStart: null,
+    focalMechanisms: {},
+    focalMarkers: new Map(),
+    focalLayer: null,
+    showFocalMechanisms: false,
+    beachballCache: new Map(),
   };
 
   function fetchJson(url) {
@@ -81,6 +88,15 @@
     if (!raw) return raw;
     const joiner = raw.includes("?") ? "&" : "?";
     return `${raw}${joiner}v=${encodeURIComponent(BUILD)}`;
+  }
+
+  async function fetchJsonOptional(url) {
+    try {
+      return await fetchJson(url);
+    } catch (error) {
+      if (String(error?.message || "").startsWith("404 ")) return null;
+      throw error;
+    }
   }
 
   function finite(value) {
@@ -149,6 +165,126 @@
   function markerRadius(mag) {
     if (!finite(mag)) return 5;
     return Math.max(4, Math.min(16, 5 + 2.4 * (mag + 0.2)));
+  }
+
+  function focalMechanismFor(event) {
+    return state.focalMechanisms?.[event?.event_id] || null;
+  }
+
+  function fmtNodalPlane(plane) {
+    if (!plane) return "—";
+    const values = [plane.strike, plane.dip, plane.rake];
+    if (!values.every(finite)) return "—";
+    return `${plane.strike.toFixed(0)}° / ${plane.dip.toFixed(0)}° / ${plane.rake.toFixed(0)}°`;
+  }
+
+  function sdrMomentTensorNed(plane) {
+    const toRad = Math.PI / 180;
+    const strike = Number(plane.strike) * toRad;
+    const dip = Number(plane.dip) * toRad;
+    const rake = Number(plane.rake) * toRad;
+
+    const ss = Math.sin(strike);
+    const cs = Math.cos(strike);
+    const sd = Math.sin(dip);
+    const cd = Math.cos(dip);
+    const sr = Math.sin(rake);
+    const cr = Math.cos(rake);
+    const s2s = Math.sin(2 * strike);
+    const c2s = Math.cos(2 * strike);
+    const s2d = Math.sin(2 * dip);
+    const c2d = Math.cos(2 * dip);
+
+    // Standard double-couple moment tensor in North-East-Down coordinates.
+    const mnn = -(sd * cr * s2s + s2d * sr * ss * ss);
+    const mee = sd * cr * s2s - s2d * sr * cs * cs;
+    const mdd = s2d * sr;
+    const mne = sd * cr * c2s + 0.5 * s2d * sr * s2s;
+    const mnd = -(cd * cr * cs + c2d * sr * ss);
+    const med = -(cd * cr * ss - c2d * sr * cs);
+
+    return [
+      [mnn, mne, mnd],
+      [mne, mee, med],
+      [mnd, med, mdd],
+    ];
+  }
+
+  function beachballDataUrl(mechanism, size = 96) {
+    const plane = mechanism?.np1;
+    if (!plane || ![plane.strike, plane.dip, plane.rake].every(finite)) {
+      return null;
+    }
+
+    const key = `${plane.strike}|${plane.dip}|${plane.rake}|${size}`;
+    if (state.beachballCache.has(key)) return state.beachballCache.get(key);
+
+    const canvas = document.createElement("canvas");
+    canvas.width = size;
+    canvas.height = size;
+    const ctx = canvas.getContext("2d");
+    const image = ctx.createImageData(size, size);
+    const M = sdrMomentTensorNed(plane);
+    const center = (size - 1) / 2;
+    const radius = center - 2;
+
+    for (let py = 0; py < size; py += 1) {
+      for (let px = 0; px < size; px += 1) {
+        const x = (px - center) / radius; // east
+        const y = (center - py) / radius; // north
+        const rho = Math.hypot(x, y);
+        if (rho > 1) continue;
+
+        // Equal-area lower-hemisphere projection.  Center is vertically down;
+        // the unit-circle edge is horizontal.
+        const takeoff = 2 * Math.asin(Math.min(1, rho) / Math.SQRT2);
+        const azimuth = rho > 1e-12 ? Math.atan2(x, y) : 0;
+        const st = Math.sin(takeoff);
+        const n = [
+          st * Math.cos(azimuth), // north
+          st * Math.sin(azimuth), // east
+          Math.cos(takeoff),      // down
+        ];
+
+        let amplitude = 0;
+        for (let i = 0; i < 3; i += 1) {
+          for (let j = 0; j < 3; j += 1) {
+            amplitude += n[i] * M[i][j] * n[j];
+          }
+        }
+
+        const value = amplitude >= 0 ? 17 : 255;
+        const index = 4 * (py * size + px);
+        image.data[index] = value;
+        image.data[index + 1] = value;
+        image.data[index + 2] = value;
+        image.data[index + 3] = 255;
+      }
+    }
+
+    ctx.putImageData(image, 0, 0);
+    ctx.beginPath();
+    ctx.arc(center, center, radius, 0, 2 * Math.PI);
+    ctx.lineWidth = Math.max(2, size / 30);
+    ctx.strokeStyle = "#111827";
+    ctx.stroke();
+
+    const url = canvas.toDataURL("image/png");
+    state.beachballCache.set(key, url);
+    return url;
+  }
+
+  function focalMechanismIcon(mechanism) {
+    const iconUrl = beachballDataUrl(mechanism);
+    if (!iconUrl) return null;
+    return L.icon({
+      iconUrl,
+      iconSize: [36, 36],
+      iconAnchor: [18, 18],
+      popupAnchor: [0, -17],
+      tooltipAnchor: [0, -17],
+      className: "focal-mechanism-icon",
+    });
   }
 
   function addSelectOptions(select, values) {
@@ -293,6 +429,14 @@
   }
 
   function popupHtml(event) {
+    const mechanism = focalMechanismFor(event);
+    const mechanismRows = mechanism
+      ? `
+        <span class="key">Focal NP1</span><span>${escapeHtml(fmtNodalPlane(mechanism.np1))}</span>
+        <span class="key">Focal NP2</span><span>${escapeHtml(fmtNodalPlane(mechanism.np2))}</span>
+      `
+      : "";
+
     const viewButton = event.plot_available
       ? `<button class="primary js-view-das" data-event-id="${escapeHtml(event.event_id)}">View DAS</button>`
       : `<button disabled>DAS plot unavailable</button>`;
@@ -303,10 +447,11 @@
       <div class="popup-grid">
         <span class="key">Time</span><span>${escapeHtml(fmtTime(event.origin_time_utc))}</span>
         <span class="key">Location</span><span>${event.latitude.toFixed(5)}°, ${event.longitude.toFixed(5)}°</span>
-        <span class="key">Depth</span><span>${fmtNumber(event.depth_km, 2, " km")}</span>
-        <span class="key">Cable distance</span><span>${fmtNumber(event.min_3d_distance_to_cable_km, 2, " km")}</span>
+        <span class="key">Catalog depth</span><span>${fmtNumber(event.depth_km, 2, " km")}</span>
+        <span class="key">Hypocenter–cable</span><span>${fmtNumber(event.min_3d_distance_to_cable_km, 2, " km")}</span>
         <span class="key">Crossline</span><span>${finite(event.source_crossline_m) ? (event.source_crossline_m / 1000).toFixed(2) + " km" : "—"}</span>
         <span class="key">2-D class</span><span>${escapeHtml(event.geometry_2d_class || "unknown")}</span>
+        ${mechanismRows}
       </div>
       <div class="popup-actions">
         ${viewButton}
@@ -331,6 +476,7 @@
     }).addTo(state.map);
 
     state.eventLayer = L.layerGroup().addTo(state.map);
+    state.focalLayer = L.layerGroup().addTo(state.map);
     state.measureLayer = L.layerGroup().addTo(state.map);
     state.map.on("click", handleMeasureMapClick);
 
@@ -375,12 +521,43 @@
     }
   }
 
+  function focalMarkerTooltipHtml(event, mechanism) {
+    return `${escapeHtml(event.event_id)} · ${escapeHtml(fmtMagnitude(event))}<br>` +
+      `NP1 ${escapeHtml(fmtNodalPlane(mechanism.np1))}`;
+  }
+
+  function bindFocalMarkerInfo(marker, event, mechanism) {
+    if (!marker.getTooltip()) {
+      marker.bindTooltip(focalMarkerTooltipHtml(event, mechanism), {
+        direction: "top",
+        opacity: 0.94,
+      });
+    }
+    if (!marker.getPopup()) marker.bindPopup(popupHtml(event));
+  }
+
   function setEventMarkerInfoEnabled(enabled) {
     for (const [eventId, marker] of state.markers.entries()) {
       const event = state.byId.get(eventId);
       if (!event) continue;
       if (enabled) {
         bindEventMarkerInfo(marker, event);
+      } else {
+        marker.closeTooltip();
+        marker.closePopup();
+        marker.unbindTooltip();
+        marker.unbindPopup();
+      }
+    }
+  }
+
+  function setFocalMarkerInfoEnabled(enabled) {
+    for (const [eventId, marker] of state.focalMarkers.entries()) {
+      const event = state.byId.get(eventId);
+      const mechanism = state.focalMechanisms[eventId];
+      if (!event || !mechanism) continue;
+      if (enabled) {
+        bindFocalMarkerInfo(marker, event, mechanism);
       } else {
         marker.closeTooltip();
         marker.closePopup();
@@ -401,11 +578,13 @@
       clearMeasurement();
       state.map.closePopup();
       setEventMarkerInfoEnabled(false);
+      setFocalMarkerInfoEnabled(false);
       els.measureStatus.textContent = "Click the first map point";
       els.measureStatus.classList.remove("hidden");
       state.map.getContainer().classList.add("measure-mode");
     } else {
       setEventMarkerInfoEnabled(true);
+      setFocalMarkerInfoEnabled(true);
       state.map.getContainer().classList.remove("measure-mode");
       if (!state.measureStart && state.measureLayer?.getLayers().length === 0) {
         els.measureStatus.classList.add("hidden");
@@ -480,6 +659,47 @@
       state.markers.set(event.event_id, marker);
     }
 
+    applyFilters();
+  }
+
+  function drawFocalMechanisms() {
+    state.focalMarkers.clear();
+    state.focalLayer.clearLayers();
+
+    for (const event of state.events) {
+      const mechanism = focalMechanismFor(event);
+      if (!mechanism) continue;
+      const icon = focalMechanismIcon(mechanism);
+      if (!icon) continue;
+
+      const marker = L.marker([event.latitude, event.longitude], {
+        icon,
+        keyboard: false,
+        riseOnHover: true,
+        zIndexOffset: 500,
+      });
+      bindFocalMarkerInfo(marker, event, mechanism);
+      state.focalMarkers.set(event.event_id, marker);
+    }
+
+    const count = state.focalMarkers.size;
+    els.toggleFocalMechanisms.classList.toggle("hidden", count === 0);
+    els.toggleFocalMechanisms.textContent = `Show focal mechanisms (${count})`;
+    els.toggleFocalMechanisms.setAttribute("aria-pressed", "false");
+    applyFilters();
+  }
+
+  function setFocalMechanismsVisible(visible) {
+    state.showFocalMechanisms = Boolean(visible);
+    const count = state.focalMarkers.size;
+    els.toggleFocalMechanisms.classList.toggle("active", state.showFocalMechanisms);
+    els.toggleFocalMechanisms.setAttribute(
+      "aria-pressed",
+      state.showFocalMechanisms ? "true" : "false"
+    );
+    els.toggleFocalMechanisms.textContent = state.showFocalMechanisms
+      ? `Hide focal mechanisms (${count})`
+      : `Show focal mechanisms (${count})`;
     applyFilters();
   }
 
@@ -589,6 +809,15 @@
       const has = state.eventLayer.hasLayer(marker);
       if (show && !has) state.eventLayer.addLayer(marker);
       if (!show && has) state.eventLayer.removeLayer(marker);
+
+      const focalMarker = state.focalMarkers.get(event.event_id);
+      if (focalMarker) {
+        const showFocal = show && state.showFocalMechanisms;
+        const focalHas = state.focalLayer.hasLayer(focalMarker);
+        if (showFocal && !focalHas) state.focalLayer.addLayer(focalMarker);
+        if (!showFocal && focalHas) state.focalLayer.removeLayer(focalMarker);
+      }
+
       if (show) visible += 1;
     }
 
@@ -682,8 +911,8 @@
       metadataItem("Origin (UTC)", fmtTime(event.origin_time_utc)),
       metadataItem("Latitude", `${event.latitude.toFixed(5)}°`),
       metadataItem("Longitude", `${event.longitude.toFixed(5)}°`),
-      metadataItem("Depth", fmtNumber(event.depth_km, 2, " km")),
-      metadataItem("Cable distance", fmtNumber(event.min_3d_distance_to_cable_km, 2, " km")),
+      metadataItem("Catalog depth", fmtNumber(event.depth_km, 2, " km")),
+      metadataItem("Hypocenter–cable distance", fmtNumber(event.min_3d_distance_to_cable_km, 2, " km")),
       metadataItem(
         "Crossline",
         finite(event.source_crossline_m)
@@ -692,6 +921,12 @@
       ),
       metadataItem("2-D geometry", event.geometry_2d_class || "unknown"),
       metadataItem("Recording", event.recording_label || "—"),
+      ...(focalMechanismFor(event)
+        ? [
+            metadataItem("Focal NP1 (S/D/R)", fmtNodalPlane(focalMechanismFor(event).np1)),
+            metadataItem("Focal NP2 (S/D/R)", fmtNodalPlane(focalMechanismFor(event).np2)),
+          ]
+        : []),
     ].join("");
 
     els.officialEventLink.href = event.event_url;
@@ -755,6 +990,9 @@
     els.measureDistance.addEventListener("click", () => {
       setMeasureMode(!state.measureActive);
     });
+    els.toggleFocalMechanisms.addEventListener("click", () => {
+      setFocalMechanismsVisible(!state.showFocalMechanisms);
+    });
     els.clearMeasurement.addEventListener("click", clearMeasurement);
     els.closeDialog.addEventListener("click", closeEventDialog);
     els.dialog.addEventListener("cancel", (event) => {
@@ -783,6 +1021,11 @@
     els.updatedText.textContent = `Last built: ${fmtTime(status.generated_utc)}`;
     els.plotCountText.textContent =
       `DAS plots: ${status.plots_available} / ${status.recorded_events}`;
+    const focalCount = Number.isFinite(status.focal_mechanisms_available)
+      ? status.focal_mechanisms_available
+      : Object.keys(state.focalMechanisms || {}).length;
+    els.focalCountText.textContent =
+      `Focal mechanisms: ${focalCount} / ${status.recorded_events}`;
   }
 
   function resolveEventId(value) {
@@ -831,15 +1074,19 @@
       throw new Error("Leaflet did not load.");
     }
 
-    const [events, status, config] = await Promise.all([
+    const [events, status, config, focalMechanisms] = await Promise.all([
       fetchJson("data/events.json"),
       fetchJson("data/site_status.json"),
       fetchJson("data/site_config.json"),
+      fetchJsonOptional("data/focal_mechanisms.json"),
     ]);
 
     state.events = events;
     state.status = status;
     state.config = config;
+    state.focalMechanisms = (
+      focalMechanisms && typeof focalMechanisms === "object" && !Array.isArray(focalMechanisms)
+    ) ? focalMechanisms : {};
     state.byId = new Map(events.map((event) => [event.event_id, event]));
 
     initControls();
@@ -853,6 +1100,7 @@
     ]);
 
     drawEvents();
+    drawFocalMechanisms();
     openHashEvent();
   }
 
