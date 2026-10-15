@@ -279,8 +279,8 @@
     if (!iconUrl) return null;
     return L.icon({
       iconUrl,
-      iconSize: [36, 36],
-      iconAnchor: [18, 18],
+      iconSize: [28, 28],
+      iconAnchor: [14, 14],
       popupAnchor: [0, -17],
       tooltipAnchor: [0, -17],
       className: "focal-mechanism-icon",
