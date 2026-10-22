@@ -59,8 +59,8 @@
         "zero_phase": false,
         "url": "plots/75334687.webp",
         "source_name": "20260329T014655_event_75334687_M1.6_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75334687__arrivals.webp",
-        "arrivals_source_name": "20260329T014655_event_75334687_M1.6_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75334687/"
@@ -92,8 +92,8 @@
         "zero_phase": false,
         "url": "plots/75334912.webp",
         "source_name": "20260329T135450_event_75334912_M0.6_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75334912__arrivals.webp",
-        "arrivals_source_name": "20260329T135450_event_75334912_M0.6_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75334912/"
@@ -125,8 +125,8 @@
         "zero_phase": false,
         "url": "plots/75335122.webp",
         "source_name": "20260329T201238_event_75335122_M1.2_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75335122__arrivals.webp",
-        "arrivals_source_name": "20260329T201238_event_75335122_M1.2_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75335122/"
@@ -158,8 +158,8 @@
         "zero_phase": false,
         "url": "plots/75335152.webp",
         "source_name": "20260329T212815_event_75335152_M0.7_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75335152__arrivals.webp",
-        "arrivals_source_name": "20260329T212815_event_75335152_M0.7_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75335152/"
@@ -191,8 +191,8 @@
         "zero_phase": false,
         "url": "plots/75335767.webp",
         "source_name": "20260330T192904_event_75335767_M1.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75335767__arrivals.webp",
-        "arrivals_source_name": "20260330T192904_event_75335767_M1.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75335767/"
@@ -224,8 +224,8 @@
         "zero_phase": false,
         "url": "plots/75335827.webp",
         "source_name": "20260330T203619_event_75335827_M0.5_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75335827__arrivals.webp",
-        "arrivals_source_name": "20260330T203619_event_75335827_M0.5_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75335827/"
@@ -257,8 +257,8 @@
         "zero_phase": false,
         "url": "plots/75336232.webp",
         "source_name": "20260331T143621_event_75336232_M0.7_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75336232__arrivals.webp",
-        "arrivals_source_name": "20260331T143621_event_75336232_M0.7_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75336232/"
@@ -290,8 +290,8 @@
         "zero_phase": false,
         "url": "plots/75336372.webp",
         "source_name": "20260331T170831_event_75336372_M1.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75336372__arrivals.webp",
-        "arrivals_source_name": "20260331T170831_event_75336372_M1.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75336372/"
@@ -356,8 +356,8 @@
         "zero_phase": false,
         "url": "plots/75336752.webp",
         "source_name": "20260401T034616_event_75336752_M1.0_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75336752__arrivals.webp",
-        "arrivals_source_name": "20260401T034616_event_75336752_M1.0_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75336752/"
@@ -422,8 +422,8 @@
         "zero_phase": false,
         "url": "plots/75336822.webp",
         "source_name": "20260401T052657_event_75336822_M1.3_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75336822__arrivals.webp",
-        "arrivals_source_name": "20260401T052657_event_75336822_M1.3_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75336822/"
@@ -455,8 +455,8 @@
         "zero_phase": false,
         "url": "plots/75337412.webp",
         "source_name": "20260402T072305_event_75337412_M1.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75337412__arrivals.webp",
-        "arrivals_source_name": "20260402T072305_event_75337412_M1.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337412/"
@@ -488,8 +488,8 @@
         "zero_phase": false,
         "url": "plots/75337482.webp",
         "source_name": "20260402T103330_event_75337482_M0.3_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75337482__arrivals.webp",
-        "arrivals_source_name": "20260402T103330_event_75337482_M0.3_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337482/"
@@ -521,8 +521,8 @@
         "zero_phase": false,
         "url": "plots/75337717.webp",
         "source_name": "20260402T173506_event_75337717_M0.9_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75337717__arrivals.webp",
-        "arrivals_source_name": "20260402T173506_event_75337717_M0.9_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337717/"
@@ -554,8 +554,8 @@
         "zero_phase": false,
         "url": "plots/75337712.webp",
         "source_name": "20260402T173518_event_75337712_M0.3_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75337712__arrivals.webp",
-        "arrivals_source_name": "20260402T173518_event_75337712_M0.3_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337712/"
@@ -587,8 +587,8 @@
         "zero_phase": false,
         "url": "plots/75337722.webp",
         "source_name": "20260402T173538_event_75337722_M0.4_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75337722__arrivals.webp",
-        "arrivals_source_name": "20260402T173538_event_75337722_M0.4_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337722/"
@@ -620,8 +620,8 @@
         "zero_phase": false,
         "url": "plots/75337812.webp",
         "source_name": "20260402T201705_event_75337812_M0.7_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75337812__arrivals.webp",
-        "arrivals_source_name": "20260402T201705_event_75337812_M0.7_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337812/"
@@ -686,8 +686,8 @@
         "zero_phase": false,
         "url": "plots/75338242.webp",
         "source_name": "20260403T160110_event_75338242_M1.4_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338242__arrivals.webp",
-        "arrivals_source_name": "20260403T160110_event_75338242_M1.4_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338242/"
@@ -719,8 +719,8 @@
         "zero_phase": false,
         "url": "plots/75338257.webp",
         "source_name": "20260403T163205_event_75338257_M1.4_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338257__arrivals.webp",
-        "arrivals_source_name": "20260403T163205_event_75338257_M1.4_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338257/"
@@ -752,8 +752,8 @@
         "zero_phase": false,
         "url": "plots/75338262.webp",
         "source_name": "20260403T165350_event_75338262_M1.7_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338262__arrivals.webp",
-        "arrivals_source_name": "20260403T165350_event_75338262_M1.7_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338262/"
@@ -785,8 +785,8 @@
         "zero_phase": false,
         "url": "plots/75338277.webp",
         "source_name": "20260403T173606_event_75338277_M1.2_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338277__arrivals.webp",
-        "arrivals_source_name": "20260403T173606_event_75338277_M1.2_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338277/"
@@ -818,8 +818,8 @@
         "zero_phase": false,
         "url": "plots/75338322.webp",
         "source_name": "20260403T182216_event_75338322_M0.9_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338322__arrivals.webp",
-        "arrivals_source_name": "20260403T182216_event_75338322_M0.9_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338322/"
@@ -851,8 +851,8 @@
         "zero_phase": false,
         "url": "plots/75338342.webp",
         "source_name": "20260403T184051_event_75338342_M0.7_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338342__arrivals.webp",
-        "arrivals_source_name": "20260403T184051_event_75338342_M0.7_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338342/"
@@ -884,8 +884,8 @@
         "zero_phase": false,
         "url": "plots/75338417.webp",
         "source_name": "20260403T202208_event_75338417_M0.6_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338417__arrivals.webp",
-        "arrivals_source_name": "20260403T202208_event_75338417_M0.6_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338417/"
@@ -917,8 +917,8 @@
         "zero_phase": false,
         "url": "plots/75338432.webp",
         "source_name": "20260403T204300_event_75338432_M0.6_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338432__arrivals.webp",
-        "arrivals_source_name": "20260403T204300_event_75338432_M0.6_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338432/"
@@ -950,8 +950,8 @@
         "zero_phase": false,
         "url": "plots/75338472.webp",
         "source_name": "20260403T214045_event_75338472_M0.4_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338472__arrivals.webp",
-        "arrivals_source_name": "20260403T214045_event_75338472_M0.4_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338472/"
@@ -983,8 +983,8 @@
         "zero_phase": false,
         "url": "plots/75338492.webp",
         "source_name": "20260403T220124_event_75338492_M0.4_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338492__arrivals.webp",
-        "arrivals_source_name": "20260403T220124_event_75338492_M0.4_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338492/"
@@ -1016,8 +1016,8 @@
         "zero_phase": false,
         "url": "plots/75338507.webp",
         "source_name": "20260403T222730_event_75338507_M0.6_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338507__arrivals.webp",
-        "arrivals_source_name": "20260403T222730_event_75338507_M0.6_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338507/"
@@ -1049,8 +1049,8 @@
         "zero_phase": false,
         "url": "plots/75338512.webp",
         "source_name": "20260403T224543_event_75338512_M0.6_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338512__arrivals.webp",
-        "arrivals_source_name": "20260403T224543_event_75338512_M0.6_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338512/"
@@ -1082,8 +1082,8 @@
         "zero_phase": false,
         "url": "plots/75338612.webp",
         "source_name": "20260404T025404_event_75338612_M2.2_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338612__arrivals.webp",
-        "arrivals_source_name": "20260404T025404_event_75338612_M2.2_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338612/"
@@ -1115,8 +1115,8 @@
         "zero_phase": false,
         "url": "plots/75338727.webp",
         "source_name": "20260404T094418_event_75338727_M0.6_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338727__arrivals.webp",
-        "arrivals_source_name": "20260404T094418_event_75338727_M0.6_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338727/"
@@ -1148,8 +1148,8 @@
         "zero_phase": false,
         "url": "plots/75338782.webp",
         "source_name": "20260404T112705_event_75338782_M1.7_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338782__arrivals.webp",
-        "arrivals_source_name": "20260404T112705_event_75338782_M1.7_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338782/"
@@ -1214,8 +1214,8 @@
         "zero_phase": false,
         "url": "plots/75338982.webp",
         "source_name": "20260404T204006_event_75338982_M1.5_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338982__arrivals.webp",
-        "arrivals_source_name": "20260404T204006_event_75338982_M1.5_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338982/"
@@ -1247,8 +1247,8 @@
         "zero_phase": false,
         "url": "plots/75338992.webp",
         "source_name": "20260404T204425_event_75338992_M1.5_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75338992__arrivals.webp",
-        "arrivals_source_name": "20260404T204425_event_75338992_M1.5_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75338992/"
@@ -1313,8 +1313,8 @@
         "zero_phase": false,
         "url": "plots/75339712.webp",
         "source_name": "20260406T073437_event_75339712_M0.2_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75339712__arrivals.webp",
-        "arrivals_source_name": "20260406T073437_event_75339712_M0.2_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75339712/"
@@ -1346,8 +1346,8 @@
         "zero_phase": false,
         "url": "plots/75339747.webp",
         "source_name": "20260406T084822_event_75339747_M1.0_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75339747__arrivals.webp",
-        "arrivals_source_name": "20260406T084822_event_75339747_M1.0_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75339747/"
@@ -1379,8 +1379,8 @@
         "zero_phase": false,
         "url": "plots/75339872.webp",
         "source_name": "20260406T144928_event_75339872_M1.4_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75339872__arrivals.webp",
-        "arrivals_source_name": "20260406T144928_event_75339872_M1.4_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75339872/"
@@ -1445,8 +1445,8 @@
         "zero_phase": false,
         "url": "plots/75341067.webp",
         "source_name": "20260408T152919_event_75341067_M1.0_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75341067__arrivals.webp",
-        "arrivals_source_name": "20260408T152919_event_75341067_M1.0_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341067/"
@@ -1478,8 +1478,8 @@
         "zero_phase": false,
         "url": "plots/75341507.webp",
         "source_name": "20260409T084843_event_75341507_M1.7_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75341507__arrivals.webp",
-        "arrivals_source_name": "20260409T084843_event_75341507_M1.7_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341507/"
@@ -1511,8 +1511,8 @@
         "zero_phase": false,
         "url": "plots/75341552.webp",
         "source_name": "20260409T105119_event_75341552_M1.7_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75341552__arrivals.webp",
-        "arrivals_source_name": "20260409T105119_event_75341552_M1.7_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341552/"
@@ -1577,8 +1577,8 @@
         "zero_phase": false,
         "url": "plots/75341617.webp",
         "source_name": "20260409T140002_event_75341617_M1.2_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75341617__arrivals.webp",
-        "arrivals_source_name": "20260409T140002_event_75341617_M1.2_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341617/"
@@ -1610,8 +1610,8 @@
         "zero_phase": false,
         "url": "plots/75341742.webp",
         "source_name": "20260409T183748_event_75341742_M1.2_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75341742__arrivals.webp",
-        "arrivals_source_name": "20260409T183748_event_75341742_M1.2_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341742/"
@@ -1643,8 +1643,8 @@
         "zero_phase": false,
         "url": "plots/75341877.webp",
         "source_name": "20260409T215440_event_75341877_M0.3_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75341877__arrivals.webp",
-        "arrivals_source_name": "20260409T215440_event_75341877_M0.3_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75341877/"
@@ -1709,8 +1709,8 @@
         "zero_phase": false,
         "url": "plots/75342097.webp",
         "source_name": "20260410T114155_event_75342097_M0.3_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75342097__arrivals.webp",
-        "arrivals_source_name": "20260410T114155_event_75342097_M0.3_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75342097/"
@@ -1742,8 +1742,8 @@
         "zero_phase": false,
         "url": "plots/75342187.webp",
         "source_name": "20260410T163519_event_75342187_M0.3_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75342187__arrivals.webp",
-        "arrivals_source_name": "20260410T163519_event_75342187_M0.3_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75342187/"
@@ -1775,8 +1775,8 @@
         "zero_phase": false,
         "url": "plots/75342507.webp",
         "source_name": "20260411T055540_event_75342507_M1.3_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75342507__arrivals.webp",
-        "arrivals_source_name": "20260411T055540_event_75342507_M1.3_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75342507/"
@@ -1940,8 +1940,8 @@
         "zero_phase": false,
         "url": "plots/75343242.webp",
         "source_name": "20260413T024258_event_75343242_M0.4_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75343242__arrivals.webp",
-        "arrivals_source_name": "20260413T024258_event_75343242_M0.4_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75343242/"
@@ -2039,8 +2039,8 @@
         "zero_phase": false,
         "url": "plots/75346177.webp",
         "source_name": "20260417T034631_event_75346177_M2.0_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75346177__arrivals.webp",
-        "arrivals_source_name": "20260417T034631_event_75346177_M2.0_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75346177/"
@@ -2072,8 +2072,8 @@
         "zero_phase": false,
         "url": "plots/75346187.webp",
         "source_name": "20260417T035653_event_75346187_M1.6_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75346187__arrivals.webp",
-        "arrivals_source_name": "20260417T035653_event_75346187_M1.6_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75346187/"
@@ -2105,8 +2105,8 @@
         "zero_phase": false,
         "url": "plots/75346927.webp",
         "source_name": "20260418T060252_event_75346927_M0.9_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75346927__arrivals.webp",
-        "arrivals_source_name": "20260418T060252_event_75346927_M0.9_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75346927/"
@@ -2138,8 +2138,8 @@
         "zero_phase": false,
         "url": "plots/75347037.webp",
         "source_name": "20260418T113531_event_75347037_M1.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75347037__arrivals.webp",
-        "arrivals_source_name": "20260418T113531_event_75347037_M1.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75347037/"
@@ -2303,8 +2303,8 @@
         "zero_phase": false,
         "url": "plots/75348952.webp",
         "source_name": "20260421T051756_event_75348952_M0.6_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75348952__arrivals.webp",
-        "arrivals_source_name": "20260421T051756_event_75348952_M0.6_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75348952/"
@@ -2336,8 +2336,8 @@
         "zero_phase": false,
         "url": "plots/75349037.webp",
         "source_name": "20260421T112050_event_75349037_M0.9_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75349037__arrivals.webp",
-        "arrivals_source_name": "20260421T112050_event_75349037_M0.9_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75349037/"
@@ -2402,8 +2402,8 @@
         "zero_phase": false,
         "url": "plots/75349562.webp",
         "source_name": "20260422T151006_event_75349562_M0.3_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75349562__arrivals.webp",
-        "arrivals_source_name": "20260422T151006_event_75349562_M0.3_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75349562/"
@@ -2534,8 +2534,8 @@
         "zero_phase": false,
         "url": "plots/75356112.webp",
         "source_name": "20260503T095105_event_75356112_M1.3_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75356112__arrivals.webp",
-        "arrivals_source_name": "20260503T095105_event_75356112_M1.3_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75356112/"
@@ -2567,8 +2567,8 @@
         "zero_phase": false,
         "url": "plots/75356517.webp",
         "source_name": "20260504T044848_event_75356517_M0.5_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75356517__arrivals.webp",
-        "arrivals_source_name": "20260504T044848_event_75356517_M0.5_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75356517/"
@@ -2600,8 +2600,8 @@
         "zero_phase": false,
         "url": "plots/75356622.webp",
         "source_name": "20260504T083628_event_75356622_M0.7_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75356622__arrivals.webp",
-        "arrivals_source_name": "20260504T083628_event_75356622_M0.7_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75356622/"
@@ -2666,8 +2666,8 @@
         "zero_phase": false,
         "url": "plots/75356807.webp",
         "source_name": "20260504T152940_event_75356807_M1.1_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75356807__arrivals.webp",
-        "arrivals_source_name": "20260504T152940_event_75356807_M1.1_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75356807/"
@@ -2699,8 +2699,8 @@
         "zero_phase": false,
         "url": "plots/75356837.webp",
         "source_name": "20260504T160355_event_75356837_M0.1_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75356837__arrivals.webp",
-        "arrivals_source_name": "20260504T160355_event_75356837_M0.1_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75356837/"
@@ -2732,8 +2732,8 @@
         "zero_phase": false,
         "url": "plots/75357122.webp",
         "source_name": "20260505T015247_event_75357122_M0.9_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75357122__arrivals.webp",
-        "arrivals_source_name": "20260505T015247_event_75357122_M0.9_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357122/"
@@ -2765,8 +2765,8 @@
         "zero_phase": false,
         "url": "plots/75357297.webp",
         "source_name": "20260505T075546_event_75357297_M0.9_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75357297__arrivals.webp",
-        "arrivals_source_name": "20260505T075546_event_75357297_M0.9_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357297/"
@@ -2798,8 +2798,8 @@
         "zero_phase": false,
         "url": "plots/75357302.webp",
         "source_name": "20260505T080044_event_75357302_M0.1_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75357302__arrivals.webp",
-        "arrivals_source_name": "20260505T080044_event_75357302_M0.1_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357302/"
@@ -2831,8 +2831,8 @@
         "zero_phase": false,
         "url": "plots/75357307.webp",
         "source_name": "20260505T081031_event_75357307_M1.3_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75357307__arrivals.webp",
-        "arrivals_source_name": "20260505T081031_event_75357307_M1.3_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357307/"
@@ -2864,8 +2864,8 @@
         "zero_phase": false,
         "url": "plots/75357312.webp",
         "source_name": "20260505T081122_event_75357312_M1.7_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75357312__arrivals.webp",
-        "arrivals_source_name": "20260505T081122_event_75357312_M1.7_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357312/"
@@ -2897,8 +2897,8 @@
         "zero_phase": false,
         "url": "plots/75357332.webp",
         "source_name": "20260505T083920_event_75357332_M2.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75357332__arrivals.webp",
-        "arrivals_source_name": "20260505T083920_event_75357332_M2.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357332/"
@@ -2930,8 +2930,8 @@
         "zero_phase": false,
         "url": "plots/75357372.webp",
         "source_name": "20260505T112950_event_75357372_M1.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75357372__arrivals.webp",
-        "arrivals_source_name": "20260505T112950_event_75357372_M1.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357372/"
@@ -2963,8 +2963,8 @@
         "zero_phase": false,
         "url": "plots/75357997.webp",
         "source_name": "20260506T080921_event_75357997_M0.4_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75357997__arrivals.webp",
-        "arrivals_source_name": "20260506T080921_event_75357997_M0.4_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357997/"
@@ -2996,8 +2996,8 @@
         "zero_phase": false,
         "url": "plots/75358582.webp",
         "source_name": "20260507T033244_event_75358582_M1.4_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75358582__arrivals.webp",
-        "arrivals_source_name": "20260507T033244_event_75358582_M1.4_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75358582/"
@@ -3029,8 +3029,8 @@
         "zero_phase": false,
         "url": "plots/75358942.webp",
         "source_name": "20260507T100032_event_75358942_M0.5_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75358942__arrivals.webp",
-        "arrivals_source_name": "20260507T100032_event_75358942_M0.5_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75358942/"
@@ -3062,8 +3062,8 @@
         "zero_phase": false,
         "url": "plots/75356876.webp",
         "source_name": "20260508T042459_event_75356876_M0.8_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75356876__arrivals.webp",
-        "arrivals_source_name": "20260508T042459_event_75356876_M0.8_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75356876/"
@@ -3128,8 +3128,8 @@
         "zero_phase": false,
         "url": "plots/75356996.webp",
         "source_name": "20260508T083758_event_75356996_M1.2_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75356996__arrivals.webp",
-        "arrivals_source_name": "20260508T083758_event_75356996_M1.2_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75356996/"
@@ -3161,8 +3161,8 @@
         "zero_phase": false,
         "url": "plots/75357261.webp",
         "source_name": "20260508T170107_event_75357261_M2.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75357261__arrivals.webp",
-        "arrivals_source_name": "20260508T170107_event_75357261_M2.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357261/"
@@ -3194,8 +3194,8 @@
         "zero_phase": false,
         "url": "plots/75357436.webp",
         "source_name": "20260508T233202_event_75357436_M0.9_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75357436__arrivals.webp",
-        "arrivals_source_name": "20260508T233202_event_75357436_M0.9_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357436/"
@@ -3293,8 +3293,8 @@
         "zero_phase": false,
         "url": "plots/75357996.webp",
         "source_name": "20260510T021815_event_75357996_M1.9_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75357996__arrivals.webp",
-        "arrivals_source_name": "20260510T021815_event_75357996_M1.9_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357996/"
@@ -3326,8 +3326,8 @@
         "zero_phase": false,
         "url": "plots/75358341.webp",
         "source_name": "20260510T154415_event_75358341_M0.9_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75358341__arrivals.webp",
-        "arrivals_source_name": "20260510T154415_event_75358341_M0.9_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75358341/"
@@ -3425,8 +3425,8 @@
         "zero_phase": false,
         "url": "plots/75359031.webp",
         "source_name": "20260511T193706_event_75359031_M0.5_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75359031__arrivals.webp",
-        "arrivals_source_name": "20260511T193706_event_75359031_M0.5_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75359031/"
@@ -3458,8 +3458,8 @@
         "zero_phase": false,
         "url": "plots/75360161.webp",
         "source_name": "20260513T184512_event_75360161_M1.2_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75360161__arrivals.webp",
-        "arrivals_source_name": "20260513T184512_event_75360161_M1.2_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75360161/"
@@ -3491,8 +3491,8 @@
         "zero_phase": false,
         "url": "plots/75360251.webp",
         "source_name": "20260514T031857_event_75360251_M0.5_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75360251__arrivals.webp",
-        "arrivals_source_name": "20260514T031857_event_75360251_M0.5_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75360251/"
@@ -3524,8 +3524,8 @@
         "zero_phase": false,
         "url": "plots/75360481.webp",
         "source_name": "20260514T171357_event_75360481_M1.0_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75360481__arrivals.webp",
-        "arrivals_source_name": "20260514T171357_event_75360481_M1.0_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75360481/"
@@ -3557,8 +3557,8 @@
         "zero_phase": false,
         "url": "plots/75360756.webp",
         "source_name": "20260515T055402_event_75360756_M1.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75360756__arrivals.webp",
-        "arrivals_source_name": "20260515T055402_event_75360756_M1.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75360756/"
@@ -3590,8 +3590,8 @@
         "zero_phase": false,
         "url": "plots/75361106.webp",
         "source_name": "20260516T005359_event_75361106_M1.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75361106__arrivals.webp",
-        "arrivals_source_name": "20260516T005359_event_75361106_M1.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75361106/"
@@ -3722,8 +3722,8 @@
         "zero_phase": false,
         "url": "plots/75362076.webp",
         "source_name": "20260518T042455_event_75362076_M0.4_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75362076__arrivals.webp",
-        "arrivals_source_name": "20260518T042455_event_75362076_M0.4_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75362076/"
@@ -4514,8 +4514,8 @@
         "zero_phase": false,
         "url": "plots/75365667.webp",
         "source_name": "20260519T163424_event_75365667_M0.3_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75365667__arrivals.webp",
-        "arrivals_source_name": "20260519T163424_event_75365667_M0.3_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75365667/"
@@ -4646,8 +4646,8 @@
         "zero_phase": false,
         "url": "plots/75366177.webp",
         "source_name": "20260520T162234_event_75366177_M0.8_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75366177__arrivals.webp",
-        "arrivals_source_name": "20260520T162234_event_75366177_M0.8_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366177/"
@@ -4712,8 +4712,8 @@
         "zero_phase": false,
         "url": "plots/75366362.webp",
         "source_name": "20260521T002133_event_75366362_M0.6_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75366362__arrivals.webp",
-        "arrivals_source_name": "20260521T002133_event_75366362_M0.6_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366362/"
@@ -4844,8 +4844,8 @@
         "zero_phase": false,
         "url": "plots/75366507.webp",
         "source_name": "20260521T105918_event_75366507_M0.4_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75366507__arrivals.webp",
-        "arrivals_source_name": "20260521T105918_event_75366507_M0.4_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366507/"
@@ -4877,8 +4877,8 @@
         "zero_phase": false,
         "url": "plots/75366602.webp",
         "source_name": "20260521T170454_event_75366602_M1.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75366602__arrivals.webp",
-        "arrivals_source_name": "20260521T170454_event_75366602_M1.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366602/"
@@ -4910,8 +4910,8 @@
         "zero_phase": false,
         "url": "plots/75366627.webp",
         "source_name": "20260521T184045_event_75366627_M0.5_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75366627__arrivals.webp",
-        "arrivals_source_name": "20260521T184045_event_75366627_M0.5_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366627/"
@@ -4976,8 +4976,8 @@
         "zero_phase": false,
         "url": "plots/75366822.webp",
         "source_name": "20260522T062843_event_75366822_M0.6_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75366822__arrivals.webp",
-        "arrivals_source_name": "20260522T062843_event_75366822_M0.6_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75366822/"
@@ -5042,8 +5042,8 @@
         "zero_phase": false,
         "url": "plots/75367012.webp",
         "source_name": "20260522T163835_event_75367012_M1.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75367012__arrivals.webp",
-        "arrivals_source_name": "20260522T163835_event_75367012_M1.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75367012/"
@@ -5075,8 +5075,8 @@
         "zero_phase": false,
         "url": "plots/75367002.webp",
         "source_name": "20260522T163845_event_75367002_M1.2_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75367002__arrivals.webp",
-        "arrivals_source_name": "20260522T163845_event_75367002_M1.2_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75367002/"
@@ -5108,8 +5108,8 @@
         "zero_phase": false,
         "url": "plots/75367822.webp",
         "source_name": "20260523T234229_event_75367822_M1.4_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75367822__arrivals.webp",
-        "arrivals_source_name": "20260523T234229_event_75367822_M1.4_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75367822/"
@@ -5141,8 +5141,8 @@
         "zero_phase": false,
         "url": "plots/75367992.webp",
         "source_name": "20260524T074214_event_75367992_M0.9_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75367992__arrivals.webp",
-        "arrivals_source_name": "20260524T074214_event_75367992_M0.9_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75367992/"
@@ -5240,8 +5240,8 @@
         "zero_phase": false,
         "url": "plots/75368332.webp",
         "source_name": "20260524T214929_event_75368332_M1.5_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75368332__arrivals.webp",
-        "arrivals_source_name": "20260524T214929_event_75368332_M1.5_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368332/"
@@ -5273,8 +5273,8 @@
         "zero_phase": false,
         "url": "plots/75368512.webp",
         "source_name": "20260525T022439_event_75368512_M1.4_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75368512__arrivals.webp",
-        "arrivals_source_name": "20260525T022439_event_75368512_M1.4_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368512/"
@@ -5306,8 +5306,8 @@
         "zero_phase": false,
         "url": "plots/75368732.webp",
         "source_name": "20260525T154732_event_75368732_M0.2_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75368732__arrivals.webp",
-        "arrivals_source_name": "20260525T154732_event_75368732_M0.2_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368732/"
@@ -5339,8 +5339,8 @@
         "zero_phase": false,
         "url": "plots/75368822.webp",
         "source_name": "20260525T184731_event_75368822_M2.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75368822__arrivals.webp",
-        "arrivals_source_name": "20260525T184731_event_75368822_M2.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368822/"
@@ -5372,8 +5372,8 @@
         "zero_phase": false,
         "url": "plots/75368952.webp",
         "source_name": "20260526T002102_event_75368952_M1.7_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75368952__arrivals.webp",
-        "arrivals_source_name": "20260526T002102_event_75368952_M1.7_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368952/"
@@ -5405,8 +5405,8 @@
         "zero_phase": false,
         "url": "plots/75368997.webp",
         "source_name": "20260526T021331_event_75368997_M2.4_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75368997__arrivals.webp",
-        "arrivals_source_name": "20260526T021331_event_75368997_M2.4_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368997/"
@@ -5438,8 +5438,8 @@
         "zero_phase": false,
         "url": "plots/75369672.webp",
         "source_name": "20260527T061854_event_75369672_M1.0_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75369672__arrivals.webp",
-        "arrivals_source_name": "20260527T061854_event_75369672_M1.0_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75369672/"
@@ -5471,8 +5471,8 @@
         "zero_phase": false,
         "url": "plots/75370287.webp",
         "source_name": "20260528T082327_event_75370287_M1.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75370287__arrivals.webp",
-        "arrivals_source_name": "20260528T082327_event_75370287_M1.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75370287/"
@@ -5504,8 +5504,8 @@
         "zero_phase": false,
         "url": "plots/75367666.webp",
         "source_name": "20260528T194119_event_75367666_M1.5_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75367666__arrivals.webp",
-        "arrivals_source_name": "20260528T194119_event_75367666_M1.5_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75367666/"
@@ -5537,8 +5537,8 @@
         "zero_phase": false,
         "url": "plots/75368216.webp",
         "source_name": "20260530T012540_event_75368216_M1.0_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75368216__arrivals.webp",
-        "arrivals_source_name": "20260530T012540_event_75368216_M1.0_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368216/"
@@ -5570,8 +5570,8 @@
         "zero_phase": false,
         "url": "plots/75368446.webp",
         "source_name": "20260530T153108_event_75368446_M0.9_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75368446__arrivals.webp",
-        "arrivals_source_name": "20260530T153108_event_75368446_M0.9_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368446/"
@@ -5603,8 +5603,8 @@
         "zero_phase": false,
         "url": "plots/75368451.webp",
         "source_name": "20260530T162343_event_75368451_M1.1_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75368451__arrivals.webp",
-        "arrivals_source_name": "20260530T162343_event_75368451_M1.1_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368451/"
@@ -5702,8 +5702,8 @@
         "zero_phase": false,
         "url": "plots/75369041.webp",
         "source_name": "20260601T025648_event_75369041_M1.7_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75369041__arrivals.webp",
-        "arrivals_source_name": "20260601T025648_event_75369041_M1.7_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75369041/"
@@ -5768,8 +5768,8 @@
         "zero_phase": false,
         "url": "plots/75369391.webp",
         "source_name": "20260601T200824_event_75369391_M0.4_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75369391__arrivals.webp",
-        "arrivals_source_name": "20260601T200824_event_75369391_M0.4_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75369391/"
@@ -5801,8 +5801,8 @@
         "zero_phase": false,
         "url": "plots/75369631.webp",
         "source_name": "20260602T092258_event_75369631_M2.0_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75369631__arrivals.webp",
-        "arrivals_source_name": "20260602T092258_event_75369631_M2.0_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75369631/"
@@ -5834,8 +5834,8 @@
         "zero_phase": false,
         "url": "plots/75369706.webp",
         "source_name": "20260602T134800_event_75369706_M2.4_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75369706__arrivals.webp",
-        "arrivals_source_name": "20260602T134800_event_75369706_M2.4_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75369706/"
@@ -5900,8 +5900,8 @@
         "zero_phase": false,
         "url": "plots/75370476.webp",
         "source_name": "20260604T012900_event_75370476_M0.9_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75370476__arrivals.webp",
-        "arrivals_source_name": "20260604T012900_event_75370476_M0.9_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75370476/"
@@ -5966,8 +5966,8 @@
         "zero_phase": false,
         "url": "plots/75371881.webp",
         "source_name": "20260606T144434_event_75371881_M1.0_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75371881__arrivals.webp",
-        "arrivals_source_name": "20260606T144434_event_75371881_M1.0_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75371881/"
@@ -6032,8 +6032,8 @@
         "zero_phase": false,
         "url": "plots/75379216.webp",
         "source_name": "20260618T193312_event_75379216_M1.9_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75379216__arrivals.webp",
-        "arrivals_source_name": "20260618T193312_event_75379216_M1.9_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75379216/"
@@ -6131,8 +6131,8 @@
         "zero_phase": false,
         "url": "plots/75379496.webp",
         "source_name": "20260619T061503_event_75379496_M1.7_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75379496__arrivals.webp",
-        "arrivals_source_name": "20260619T061503_event_75379496_M1.7_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75379496/"
@@ -6197,8 +6197,8 @@
         "zero_phase": false,
         "url": "plots/75380266.webp",
         "source_name": "20260620T203728_event_75380266_M0.5_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75380266__arrivals.webp",
-        "arrivals_source_name": "20260620T203728_event_75380266_M0.5_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380266/"
@@ -6230,8 +6230,8 @@
         "zero_phase": false,
         "url": "plots/75380371.webp",
         "source_name": "20260621T000010_event_75380371_M2.2_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75380371__arrivals.webp",
-        "arrivals_source_name": "20260621T000010_event_75380371_M2.2_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380371/"
@@ -6263,8 +6263,8 @@
         "zero_phase": false,
         "url": "plots/75380731.webp",
         "source_name": "20260621T155809_event_75380731_M3.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75380731__arrivals.webp",
-        "arrivals_source_name": "20260621T155809_event_75380731_M3.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380731/"
@@ -6296,8 +6296,8 @@
         "zero_phase": false,
         "url": "plots/75380736.webp",
         "source_name": "20260621T160519_event_75380736_M2.3_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75380736__arrivals.webp",
-        "arrivals_source_name": "20260621T160519_event_75380736_M2.3_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380736/"
@@ -6329,8 +6329,8 @@
         "zero_phase": false,
         "url": "plots/75380746.webp",
         "source_name": "20260621T162258_event_75380746_M1.7_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75380746__arrivals.webp",
-        "arrivals_source_name": "20260621T162258_event_75380746_M1.7_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380746/"
@@ -6395,8 +6395,8 @@
         "zero_phase": false,
         "url": "plots/75380841.webp",
         "source_name": "20260621T191954_event_75380841_M2.8_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75380841__arrivals.webp",
-        "arrivals_source_name": "20260621T191954_event_75380841_M2.8_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380841/"
@@ -6428,8 +6428,8 @@
         "zero_phase": false,
         "url": "plots/75380876.webp",
         "source_name": "20260621T200210_event_75380876_M1.3_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75380876__arrivals.webp",
-        "arrivals_source_name": "20260621T200210_event_75380876_M1.3_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380876/"
@@ -6560,8 +6560,8 @@
         "zero_phase": false,
         "url": "plots/75381516.webp",
         "source_name": "20260622T223625_event_75381516_M0.9_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75381516__arrivals.webp",
-        "arrivals_source_name": "20260622T223625_event_75381516_M0.9_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381516/"
@@ -6593,8 +6593,8 @@
         "zero_phase": false,
         "url": "plots/75382036.webp",
         "source_name": "20260623T095527_event_75382036_M1.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75382036__arrivals.webp",
-        "arrivals_source_name": "20260623T095527_event_75382036_M1.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382036/"
@@ -6626,8 +6626,8 @@
         "zero_phase": false,
         "url": "plots/75382111.webp",
         "source_name": "20260623T133123_event_75382111_M1.3_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75382111__arrivals.webp",
-        "arrivals_source_name": "20260623T133123_event_75382111_M1.3_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382111/"
@@ -6692,8 +6692,8 @@
         "zero_phase": false,
         "url": "plots/75382661.webp",
         "source_name": "20260624T052109_event_75382661_M0.5_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75382661__arrivals.webp",
-        "arrivals_source_name": "20260624T052109_event_75382661_M0.5_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382661/"
@@ -6725,8 +6725,8 @@
         "zero_phase": false,
         "url": "plots/75383286.webp",
         "source_name": "20260624T182821_event_75383286_M1.0_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75383286__arrivals.webp",
-        "arrivals_source_name": "20260624T182821_event_75383286_M1.0_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383286/"
@@ -6824,8 +6824,8 @@
         "zero_phase": false,
         "url": "plots/75386396.webp",
         "source_name": "20260629T170059_event_75386396_M2.1_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75386396__arrivals.webp",
-        "arrivals_source_name": "20260629T170059_event_75386396_M2.1_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386396/"
@@ -6857,8 +6857,8 @@
         "zero_phase": false,
         "url": "plots/75386391.webp",
         "source_name": "20260629T170116_event_75386391_M1.6_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75386391__arrivals.webp",
-        "arrivals_source_name": "20260629T170116_event_75386391_M1.6_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386391/"
@@ -6890,8 +6890,8 @@
         "zero_phase": false,
         "url": "plots/75386401.webp",
         "source_name": "20260629T170152_event_75386401_M0.0_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75386401__arrivals.webp",
-        "arrivals_source_name": "20260629T170152_event_75386401_M0.0_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386401/"
@@ -6923,8 +6923,8 @@
         "zero_phase": false,
         "url": "plots/75386636.webp",
         "source_name": "20260630T011805_event_75386636_M1.1_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75386636__arrivals.webp",
-        "arrivals_source_name": "20260630T011805_event_75386636_M1.1_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386636/"
@@ -6956,8 +6956,8 @@
         "zero_phase": false,
         "url": "plots/75386646.webp",
         "source_name": "20260630T013455_event_75386646_M0.7_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75386646__arrivals.webp",
-        "arrivals_source_name": "20260630T013455_event_75386646_M0.7_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386646/"
@@ -6989,8 +6989,8 @@
         "zero_phase": false,
         "url": "plots/75386651.webp",
         "source_name": "20260630T013506_event_75386651_M0.7_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75386651__arrivals.webp",
-        "arrivals_source_name": "20260630T013506_event_75386651_M0.7_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386651/"
@@ -7022,8 +7022,8 @@
         "zero_phase": false,
         "url": "plots/75386736.webp",
         "source_name": "20260630T075921_event_75386736_M0.6_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75386736__arrivals.webp",
-        "arrivals_source_name": "20260630T075921_event_75386736_M0.6_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75386736/"
@@ -7055,8 +7055,8 @@
         "zero_phase": false,
         "url": "plots/75387326.webp",
         "source_name": "20260701T055513_event_75387326_M0.7_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75387326__arrivals.webp",
-        "arrivals_source_name": "20260701T055513_event_75387326_M0.7_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387326/"
@@ -7088,8 +7088,8 @@
         "zero_phase": false,
         "url": "plots/75387776.webp",
         "source_name": "20260702T005837_event_75387776_M1.0_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75387776__arrivals.webp",
-        "arrivals_source_name": "20260702T005837_event_75387776_M1.0_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75387776/"
@@ -7121,8 +7121,8 @@
         "zero_phase": false,
         "url": "plots/75388456.webp",
         "source_name": "20260703T080527_event_75388456_M1.0_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75388456__arrivals.webp",
-        "arrivals_source_name": "20260703T080527_event_75388456_M1.0_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75388456/"
@@ -7154,8 +7154,8 @@
         "zero_phase": false,
         "url": "plots/75389461.webp",
         "source_name": "20260704T191340_event_75389461_M0.5_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75389461__arrivals.webp",
-        "arrivals_source_name": "20260704T191340_event_75389461_M0.5_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389461/"
@@ -7187,8 +7187,8 @@
         "zero_phase": false,
         "url": "plots/75389926.webp",
         "source_name": "20260705T091748_event_75389926_M0.1_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75389926__arrivals.webp",
-        "arrivals_source_name": "20260705T091748_event_75389926_M0.1_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75389926/"
@@ -7220,8 +7220,8 @@
         "zero_phase": false,
         "url": "plots/75390021.webp",
         "source_name": "20260705T141914_event_75390021_M1.6_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75390021__arrivals.webp",
-        "arrivals_source_name": "20260705T141914_event_75390021_M1.6_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390021/"
@@ -7253,8 +7253,8 @@
         "zero_phase": false,
         "url": "plots/75390656.webp",
         "source_name": "20260706T153026_event_75390656_M-0.0_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75390656__arrivals.webp",
-        "arrivals_source_name": "20260706T153026_event_75390656_M-0.0_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390656/"
@@ -7286,8 +7286,8 @@
         "zero_phase": false,
         "url": "plots/75390951.webp",
         "source_name": "20260706T211544_event_75390951_M1.8_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75390951__arrivals.webp",
-        "arrivals_source_name": "20260706T211544_event_75390951_M1.8_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390951/"
@@ -7319,8 +7319,8 @@
         "zero_phase": false,
         "url": "plots/75390976.webp",
         "source_name": "20260706T213423_event_75390976_M1.3_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75390976__arrivals.webp",
-        "arrivals_source_name": "20260706T213423_event_75390976_M1.3_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390976/"
@@ -7352,8 +7352,8 @@
         "zero_phase": false,
         "url": "plots/75391151.webp",
         "source_name": "20260707T035929_event_75391151_M0.9_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75391151__arrivals.webp",
-        "arrivals_source_name": "20260707T035929_event_75391151_M0.9_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391151/"
@@ -7385,8 +7385,8 @@
         "zero_phase": false,
         "url": "plots/75391161.webp",
         "source_name": "20260707T042614_event_75391161_M1.4_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75391161__arrivals.webp",
-        "arrivals_source_name": "20260707T042614_event_75391161_M1.4_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391161/"
@@ -7418,8 +7418,8 @@
         "zero_phase": false,
         "url": "plots/75391181.webp",
         "source_name": "20260707T062227_event_75391181_M2.0_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75391181__arrivals.webp",
-        "arrivals_source_name": "20260707T062227_event_75391181_M2.0_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391181/"
@@ -7451,8 +7451,8 @@
         "zero_phase": false,
         "url": "plots/75391341.webp",
         "source_name": "20260707T135910_event_75391341_M1.8_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75391341__arrivals.webp",
-        "arrivals_source_name": "20260707T135910_event_75391341_M1.8_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391341/"
@@ -7484,8 +7484,8 @@
         "zero_phase": false,
         "url": "plots/75391661.webp",
         "source_name": "20260707T222559_event_75391661_M0.8_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75391661__arrivals.webp",
-        "arrivals_source_name": "20260707T222559_event_75391661_M0.8_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391661/"
@@ -7517,8 +7517,8 @@
         "zero_phase": false,
         "url": "plots/75391801.webp",
         "source_name": "20260708T035423_event_75391801_M2.2_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75391801__arrivals.webp",
-        "arrivals_source_name": "20260708T035423_event_75391801_M2.2_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75391801/"
@@ -7550,8 +7550,8 @@
         "zero_phase": false,
         "url": "plots/75392191.webp",
         "source_name": "20260708T191224_event_75392191_M0.9_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75392191__arrivals.webp",
-        "arrivals_source_name": "20260708T191224_event_75392191_M0.9_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75392191/"
@@ -7583,8 +7583,8 @@
         "zero_phase": false,
         "url": "plots/75393011.webp",
         "source_name": "20260710T041102_event_75393011_M1.0_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75393011__arrivals.webp",
-        "arrivals_source_name": "20260710T041102_event_75393011_M1.0_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393011/"
@@ -7649,8 +7649,8 @@
         "zero_phase": false,
         "url": "plots/75393391.webp",
         "source_name": "20260710T185303_event_75393391_M1.8_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75393391__arrivals.webp",
-        "arrivals_source_name": "20260710T185303_event_75393391_M1.8_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393391/"
@@ -7682,8 +7682,8 @@
         "zero_phase": false,
         "url": "plots/75393396.webp",
         "source_name": "20260710T185438_event_75393396_M1.6_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75393396__arrivals.webp",
-        "arrivals_source_name": "20260710T185438_event_75393396_M1.6_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75393396/"
@@ -7715,8 +7715,8 @@
         "zero_phase": false,
         "url": "plots/75394556.webp",
         "source_name": "20260712T205248_event_75394556_M2.9_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75394556__arrivals.webp",
-        "arrivals_source_name": "20260712T205248_event_75394556_M2.9_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394556/"
@@ -7748,8 +7748,8 @@
         "zero_phase": false,
         "url": "plots/75394566.webp",
         "source_name": "20260712T213637_event_75394566_M0.6_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75394566__arrivals.webp",
-        "arrivals_source_name": "20260712T213637_event_75394566_M0.6_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394566/"
@@ -7781,8 +7781,8 @@
         "zero_phase": false,
         "url": "plots/75395591.webp",
         "source_name": "20260714T115128_event_75395591_M2.0_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75395591__arrivals.webp",
-        "arrivals_source_name": "20260714T115128_event_75395591_M2.0_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395591/"
@@ -7814,8 +7814,8 @@
         "zero_phase": false,
         "url": "plots/75395596.webp",
         "source_name": "20260714T115221_event_75395596_M1.5_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75395596__arrivals.webp",
-        "arrivals_source_name": "20260714T115221_event_75395596_M1.5_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395596/"
@@ -7847,8 +7847,8 @@
         "zero_phase": false,
         "url": "plots/75395606.webp",
         "source_name": "20260714T120327_event_75395606_M0.8_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75395606__arrivals.webp",
-        "arrivals_source_name": "20260714T120327_event_75395606_M0.8_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395606/"
@@ -7880,8 +7880,8 @@
         "zero_phase": false,
         "url": "plots/75395611.webp",
         "source_name": "20260714T120411_event_75395611_M0.1_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75395611__arrivals.webp",
-        "arrivals_source_name": "20260714T120411_event_75395611_M0.1_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395611/"
@@ -7913,8 +7913,8 @@
         "zero_phase": false,
         "url": "plots/75395621.webp",
         "source_name": "20260714T121032_event_75395621_M-0.0_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75395621__arrivals.webp",
-        "arrivals_source_name": "20260714T121032_event_75395621_M-0.0_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395621/"
@@ -7979,8 +7979,8 @@
         "zero_phase": false,
         "url": "plots/75395636.webp",
         "source_name": "20260714T132408_event_75395636_M0.4_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75395636__arrivals.webp",
-        "arrivals_source_name": "20260714T132408_event_75395636_M0.4_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395636/"
@@ -8045,8 +8045,8 @@
         "zero_phase": false,
         "url": "plots/75395731.webp",
         "source_name": "20260714T154425_event_75395731_M1.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75395731__arrivals.webp",
-        "arrivals_source_name": "20260714T154425_event_75395731_M1.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395731/"
@@ -8078,8 +8078,8 @@
         "zero_phase": false,
         "url": "plots/75398481.webp",
         "source_name": "20260718T184455_event_75398481_M1.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75398481__arrivals.webp",
-        "arrivals_source_name": "20260718T184455_event_75398481_M1.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398481/"
@@ -8111,8 +8111,8 @@
         "zero_phase": false,
         "url": "plots/75398756.webp",
         "source_name": "20260719T050145_event_75398756_M1.0_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75398756__arrivals.webp",
-        "arrivals_source_name": "20260719T050145_event_75398756_M1.0_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398756/"
@@ -8210,8 +8210,8 @@
         "zero_phase": false,
         "url": "plots/75399361.webp",
         "source_name": "20260720T061814_event_75399361_M0.4_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75399361__arrivals.webp",
-        "arrivals_source_name": "20260720T061814_event_75399361_M0.4_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399361/"
@@ -8276,8 +8276,8 @@
         "zero_phase": false,
         "url": "plots/75403472.webp",
         "source_name": "20260722T024039_event_75403472_M1.0_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75403472__arrivals.webp",
-        "arrivals_source_name": "20260722T024039_event_75403472_M1.0_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403472/"
@@ -8309,8 +8309,8 @@
         "zero_phase": false,
         "url": "plots/75404672.webp",
         "source_name": "20260723T234225_event_75404672_M0.0_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75404672__arrivals.webp",
-        "arrivals_source_name": "20260723T234225_event_75404672_M0.0_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404672/"
@@ -8408,8 +8408,8 @@
         "zero_phase": false,
         "url": "plots/75406167.webp",
         "source_name": "20260726T202758_event_75406167_M1.2_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75406167__arrivals.webp",
-        "arrivals_source_name": "20260726T202758_event_75406167_M1.2_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406167/"
@@ -8573,8 +8573,8 @@
         "zero_phase": false,
         "url": "plots/75408302.webp",
         "source_name": "20260729T220827_event_75408302_M0.2_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75408302__arrivals.webp",
-        "arrivals_source_name": "20260729T220827_event_75408302_M0.2_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408302/"
@@ -8606,8 +8606,8 @@
         "zero_phase": false,
         "url": "plots/75408387.webp",
         "source_name": "20260730T044124_event_75408387_M1.6_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75408387__arrivals.webp",
-        "arrivals_source_name": "20260730T044124_event_75408387_M1.6_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408387/"
@@ -8639,8 +8639,8 @@
         "zero_phase": false,
         "url": "plots/75408442.webp",
         "source_name": "20260730T100110_event_75408442_M0.9_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75408442__arrivals.webp",
-        "arrivals_source_name": "20260730T100110_event_75408442_M0.9_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408442/"
@@ -8672,8 +8672,8 @@
         "zero_phase": false,
         "url": "plots/75408972.webp",
         "source_name": "20260731T052748_event_75408972_M0.6_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75408972__arrivals.webp",
-        "arrivals_source_name": "20260731T052748_event_75408972_M0.6_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408972/"
@@ -8705,8 +8705,8 @@
         "zero_phase": false,
         "url": "plots/75409702.webp",
         "source_name": "20260801T163730_event_75409702_M1.5_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75409702__arrivals.webp",
-        "arrivals_source_name": "20260801T163730_event_75409702_M1.5_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409702/"
@@ -8738,8 +8738,8 @@
         "zero_phase": false,
         "url": "plots/75410582.webp",
         "source_name": "20260803T100847_event_75410582_M0.8_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75410582__arrivals.webp",
-        "arrivals_source_name": "20260803T100847_event_75410582_M0.8_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410582/"
@@ -8804,8 +8804,8 @@
         "zero_phase": false,
         "url": "plots/75411427.webp",
         "source_name": "20260804T220415_event_75411427_M2.0_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75411427__arrivals.webp",
-        "arrivals_source_name": "20260804T220415_event_75411427_M2.0_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411427/"
@@ -8837,8 +8837,8 @@
         "zero_phase": false,
         "url": "plots/75411447.webp",
         "source_name": "20260804T224358_event_75411447_M1.7_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75411447__arrivals.webp",
-        "arrivals_source_name": "20260804T224358_event_75411447_M1.7_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411447/"
@@ -8870,8 +8870,8 @@
         "zero_phase": false,
         "url": "plots/75411472.webp",
         "source_name": "20260804T233304_event_75411472_M0.3_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75411472__arrivals.webp",
-        "arrivals_source_name": "20260804T233304_event_75411472_M0.3_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411472/"
@@ -8903,8 +8903,8 @@
         "zero_phase": false,
         "url": "plots/75411582.webp",
         "source_name": "20260805T041019_event_75411582_M1.8_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75411582__arrivals.webp",
-        "arrivals_source_name": "20260805T041019_event_75411582_M1.8_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411582/"
@@ -8969,8 +8969,8 @@
         "zero_phase": false,
         "url": "plots/75412512.webp",
         "source_name": "20260806T120132_event_75412512_M0.8_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75412512__arrivals.webp",
-        "arrivals_source_name": "20260806T120132_event_75412512_M0.8_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412512/"
@@ -9002,8 +9002,8 @@
         "zero_phase": false,
         "url": "plots/75412792.webp",
         "source_name": "20260806T200402_event_75412792_M1.4_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75412792__arrivals.webp",
-        "arrivals_source_name": "20260806T200402_event_75412792_M1.4_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412792/"
@@ -9101,8 +9101,8 @@
         "zero_phase": false,
         "url": "plots/75413552.webp",
         "source_name": "20260807T181450_event_75413552_M0.6_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75413552__arrivals.webp",
-        "arrivals_source_name": "20260807T181450_event_75413552_M0.6_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413552/"
@@ -9134,8 +9134,8 @@
         "zero_phase": false,
         "url": "plots/75413602.webp",
         "source_name": "20260807T194053_event_75413602_M0.9_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75413602__arrivals.webp",
-        "arrivals_source_name": "20260807T194053_event_75413602_M0.9_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413602/"
@@ -9167,8 +9167,8 @@
         "zero_phase": false,
         "url": "plots/75413612.webp",
         "source_name": "20260807T194310_event_75413612_M1.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75413612__arrivals.webp",
-        "arrivals_source_name": "20260807T194310_event_75413612_M1.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413612/"
@@ -9200,8 +9200,8 @@
         "zero_phase": false,
         "url": "plots/75413632.webp",
         "source_name": "20260807T201555_event_75413632_M1.8_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75413632__arrivals.webp",
-        "arrivals_source_name": "20260807T201555_event_75413632_M1.8_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413632/"
@@ -9233,8 +9233,8 @@
         "zero_phase": false,
         "url": "plots/75413637.webp",
         "source_name": "20260807T201826_event_75413637_M1.0_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75413637__arrivals.webp",
-        "arrivals_source_name": "20260807T201826_event_75413637_M1.0_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413637/"
@@ -9266,8 +9266,8 @@
         "zero_phase": false,
         "url": "plots/75413897.webp",
         "source_name": "20260808T055105_event_75413897_M1.7_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75413897__arrivals.webp",
-        "arrivals_source_name": "20260808T055105_event_75413897_M1.7_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413897/"
@@ -9299,8 +9299,8 @@
         "zero_phase": false,
         "url": "plots/75414017.webp",
         "source_name": "20260808T144459_event_75414017_M1.0_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75414017__arrivals.webp",
-        "arrivals_source_name": "20260808T144459_event_75414017_M1.0_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414017/"
@@ -9332,8 +9332,8 @@
         "zero_phase": false,
         "url": "plots/75414132.webp",
         "source_name": "20260808T193547_event_75414132_M1.1_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75414132__arrivals.webp",
-        "arrivals_source_name": "20260808T193547_event_75414132_M1.1_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414132/"
@@ -9365,8 +9365,8 @@
         "zero_phase": false,
         "url": "plots/75414162.webp",
         "source_name": "20260808T200333_event_75414162_M0.7_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75414162__arrivals.webp",
-        "arrivals_source_name": "20260808T200333_event_75414162_M0.7_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414162/"
@@ -9398,8 +9398,8 @@
         "zero_phase": false,
         "url": "plots/75414397.webp",
         "source_name": "20260809T023641_event_75414397_M1.3_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75414397__arrivals.webp",
-        "arrivals_source_name": "20260809T023641_event_75414397_M1.3_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414397/"
@@ -9464,8 +9464,8 @@
         "zero_phase": false,
         "url": "plots/75414987.webp",
         "source_name": "20260810T023209_event_75414987_M0.2_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75414987__arrivals.webp",
-        "arrivals_source_name": "20260810T023209_event_75414987_M0.2_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414987/"
@@ -9497,8 +9497,8 @@
         "zero_phase": false,
         "url": "plots/75415492.webp",
         "source_name": "20260810T232645_event_75415492_M1.6_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75415492__arrivals.webp",
-        "arrivals_source_name": "20260810T232645_event_75415492_M1.6_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415492/"
@@ -9530,8 +9530,8 @@
         "zero_phase": false,
         "url": "plots/75415567.webp",
         "source_name": "20260811T021800_event_75415567_M1.4_far_1_12Hz_1_12Hz.png",
-        "arrivals_url": "plots/75415567__arrivals.webp",
-        "arrivals_source_name": "20260811T021800_event_75415567_M1.4_far_1_12Hz_1_12Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415567/"
@@ -9596,8 +9596,8 @@
         "zero_phase": false,
         "url": "plots/75416512.webp",
         "source_name": "20260812T040556_event_75416512_M2.3_intermediate_3_15Hz_3_15Hz.png",
-        "arrivals_url": "plots/75416512__arrivals.webp",
-        "arrivals_source_name": "20260812T040556_event_75416512_M2.3_intermediate_3_15Hz_3_15Hz_arrivals.png"
+        "arrivals_url": null,
+        "arrivals_source_name": null
       }
     ],
     "event_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416512/"

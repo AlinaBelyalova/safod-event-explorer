@@ -506,7 +506,8 @@
   }
 
   function eventMarkerTooltipHtml(event) {
-    return `${escapeHtml(event.event_id)} · ${escapeHtml(fmtMagnitude(event))} · ${fmtNumber(event.depth_km, 1, " km")}`;
+    return `${escapeHtml(event.event_id)} · ${escapeHtml(fmtMagnitude(event))} · ${fmtNumber(event.depth_km, 1, " km")}<br>` +
+      escapeHtml(fmtTime(event.origin_time_utc));
   }
 
   function bindEventMarkerInfo(marker, event) {
@@ -523,6 +524,7 @@
 
   function focalMarkerTooltipHtml(event, mechanism) {
     return `${escapeHtml(event.event_id)} · ${escapeHtml(fmtMagnitude(event))}<br>` +
+      `${escapeHtml(fmtTime(event.origin_time_utc))}<br>` +
       `NP1 ${escapeHtml(fmtNodalPlane(mechanism.np1))}`;
   }
 
@@ -1045,11 +1047,18 @@
   }
 
   function openHashEvent() {
-    if (!location.hash.startsWith("#event=")) return;
+    if (!location.hash.startsWith("#event=")) {
+      if (state.currentEvent) closeEventDialog();
+      return;
+    }
 
-    const requestedId = decodeURIComponent(
-      location.hash.slice("#event=".length)
-    );
+    let requestedId;
+    try {
+      requestedId = decodeURIComponent(location.hash.slice("#event=".length));
+    } catch (error) {
+      if (error instanceof URIError) return;
+      throw error;
+    }
     const eventId = resolveEventId(requestedId);
     if (!eventId) return;
 
@@ -1057,6 +1066,7 @@
     const marker = state.markers.get(eventId);
 
     if (event && marker) {
+      if (!eventMatches(event)) resetFilters();
       if (!state.eventLayer.hasLayer(marker)) state.eventLayer.addLayer(marker);
       state.map.setView(
         [event.latitude, event.longitude],
@@ -1094,14 +1104,15 @@
     initMap();
     updateStatus();
 
+    // Events and direct links must not wait for optional geographic layers.
+    drawEvents();
+    drawFocalMechanisms();
+    openHashEvent();
+
     await Promise.allSettled([
       drawSafodGeometry(),
       drawFault(),
     ]);
-
-    drawEvents();
-    drawFocalMechanisms();
-    openHashEvent();
   }
 
   boot().catch((error) => {
