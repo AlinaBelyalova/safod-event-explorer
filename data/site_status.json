@@ -1,6 +1,6 @@
 {
-  "build_id": "20261022T225619Z",
-  "generated_utc": "2026-10-22T22:56:19.148085Z",
+  "build_id": "20261023T024945Z",
+  "generated_utc": "2026-10-23T02:49:45.116066Z",
   "event_time_start_utc": "2026-03-28T19:44:30.590000Z",
   "event_time_end_utc": "2026-08-12T04:05:56.750000Z",
   "recorded_events": 291,
@@ -8,6 +8,6 @@
   "focal_mechanisms_available": 54,
   "catalog_sha256": "9988e4bd548ec6ee73cb67bdf5eb139197d168a64b1b43e014128cb7e231b9ff",
   "catalog_name": "catalog_recorded.csv",
-  "elastic_das_git_commit": "c9d4ae329af8a24e97a1b0e2e8175be9fe99cbb1",
+  "elastic_das_git_commit": "011ebc937c35e7a0ff04c53c73b9cb1404a80c58",
   "web_product_version": 2
 }
