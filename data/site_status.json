@@ -1,13 +1,13 @@
 {
-  "build_id": "20261023T024945Z",
-  "generated_utc": "2026-10-23T02:49:45.116066Z",
+  "build_id": "20261025T195647Z",
+  "generated_utc": "2026-10-25T19:56:47.358271Z",
   "event_time_start_utc": "2026-03-28T19:44:30.590000Z",
   "event_time_end_utc": "2026-08-12T04:05:56.750000Z",
   "recorded_events": 291,
   "plots_available": 291,
   "focal_mechanisms_available": 54,
-  "catalog_sha256": "9988e4bd548ec6ee73cb67bdf5eb139197d168a64b1b43e014128cb7e231b9ff",
+  "catalog_sha256": "8dcd84f4924f5975786c10524c2186abad534bfaf4b28e83a07ea09e23f065e0",
   "catalog_name": "catalog_recorded.csv",
-  "elastic_das_git_commit": "011ebc937c35e7a0ff04c53c73b9cb1404a80c58",
+  "elastic_das_git_commit": "eeaf3ad1e412e8fb98e9278717304c167909a257",
   "web_product_version": 2
 }
