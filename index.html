@@ -11,7 +11,7 @@
     href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
     crossorigin=""
   >
-  <link rel="stylesheet" href="style.css?v=20261026T043706Z">
+  <link rel="stylesheet" href="style.css?v=20261027T211504Z">
 </head>
 <body>
   <header class="topbar">
@@ -174,6 +174,10 @@
       </div>
 
       <div class="plot-toolbar">
+        <button id="geophoneToggle" type="button" class="button secondary"
+                aria-expanded="false" aria-controls="geophonePanel">
+          Show geophone + DAS trace
+        </button>
         <button
           id="arrivalsToggle"
           type="button"
@@ -183,6 +187,22 @@
           Show P/S arrivals
         </button>
       </div>
+
+      <section id="geophonePanel" class="geophone-panel hidden" aria-label="Geophone and DAS comparison">
+        <h3>Geophone + DAS trace</h3>
+        <p id="geophoneUnavailable" class="small-muted hidden" role="status">
+          No prepared geophone/DAS comparison is available for this event.
+        </p>
+        <label id="geophoneSelectorWrap" class="field hidden">
+          <span>Prepared DAS channel / station / band</span>
+          <select id="geophoneSelector"></select>
+        </label>
+        <p id="geophoneDetails" class="small-muted"></p>
+        <p id="geophoneWarning" class="geophone-warning hidden" role="status"></p>
+        <a id="geophoneImageLink" class="plot-link hidden" target="_blank" rel="noopener">
+          <img id="geophoneImage" alt="Geophone and DAS waveforms" loading="lazy">
+        </a>
+      </section>
 
       <div id="plotUnavailable" class="empty-plot hidden">
         DAS plot is not available for this event.
@@ -204,12 +224,12 @@
   </dialog>
 
   <script>
-    window.SAFOD_BUILD_ID = "20261026T043706Z";
+    window.SAFOD_BUILD_ID = "20261027T211504Z";
   </script>
   <script
     src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
     crossorigin=""
   ></script>
-  <script src="app.js?v=20261026T043706Z"></script>
+  <script src="app.js?v=20261027T211504Z"></script>
 </body>
 </html>
