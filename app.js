@@ -30,6 +30,7 @@
     updatedText: document.getElementById("updatedText"),
     plotCountText: document.getElementById("plotCountText"),
     focalCountText: document.getElementById("focalCountText"),
+    geophoneCountText: document.getElementById("geophoneCountText"),
     mapNotice: document.getElementById("mapNotice"),
     dialog: document.getElementById("eventDialog"),
     closeDialog: document.getElementById("closeDialog"),
@@ -887,14 +888,16 @@
     if (!row) return;
     const url = versionedAssetUrl(row.url);
     els.geophoneImage.src = url;
-    els.geophoneImage.alt = `${state.currentEvent.event_id}: DAS channel ${row.channel} and ${row.seed_id}; strain/velocity and strain rate/acceleration`;
+    els.geophoneImage.alt = `${state.currentEvent.event_id}: ${row.channel_label || `DAS channel ${row.channel}`} and ${row.seed_id}; axial strain rate and acceleration; causal, non-zero-phase`;
     els.geophoneImageLink.href = url;
     els.geophoneImageLink.classList.remove("hidden");
     els.geophoneUnavailable.classList.add("hidden");
     const channelLabel = row.channel_first !== row.channel_last
       ? `DAS median over channels ${row.channel_first}–${row.channel_last}`
-      : `DAS channel ${row.channel}`;
-    const delayLabel = finite(row.fir_group_delay_s)
+      : (row.channel_label || `DAS channel ${row.channel}`);
+    const delayLabel = row.filter_kind === "dasutils_causal"
+      ? "no delay compensation"
+      : finite(row.fir_group_delay_s)
       ? `saved FIR delay ${row.fir_group_delay_s} s`
       : "filter delay not recorded";
     els.geophoneDetails.textContent = `${channelLabel} · ${row.seed_id} · ${row.fmin_hz}–${row.fmax_hz} Hz. ` +
@@ -902,11 +905,11 @@
       (row.time_axis_note ? `${row.time_axis_note} ` : "") +
       "Time from catalog origin; independent physical amplitude scales. " +
       "No additional normalisation or relative time shift is applied by the viewer. " +
-      "Strain and velocity have different physical units.";
+      "Axial strain rate and GP1 acceleration have different physical units.";
     const provisional = Boolean(row.metadata_fallback || row.metadata_seed_id !== row.seed_id);
     els.geophoneWarning.classList.toggle("hidden", !provisional);
     els.geophoneWarning.textContent = provisional
-      ? `Provisional response/orientation: waveform ${row.seed_id}, metadata ${row.metadata_seed_id}.`
+      ? `Provisional response metadata: waveform ${row.seed_id}, metadata ${row.metadata_seed_id}.`
       : "";
   }
 
@@ -975,7 +978,7 @@
     (event.geophone_comparisons || []).forEach((row, index) => {
       const option = document.createElement("option");
       option.value = String(index);
-      option.textContent = `DAS ch ${row.channel} · ${row.seed_id} · ${row.fmin_hz}–${row.fmax_hz} Hz` +
+      option.textContent = `${row.channel_label || `DAS ch ${row.channel}`} · ${row.seed_id} · ${row.fmin_hz}–${row.fmax_hz} Hz · causal` +
         (row.variant ? ` · ${row.variant}` : "");
       els.geophoneSelector.appendChild(option);
     });
@@ -1093,8 +1096,10 @@
 
   function updateStatus() {
     const status = state.status;
+    const geophoneCount = state.events.filter((event) => event.geophone_comparisons?.length).length;
     els.statusSummary.textContent =
-      `${status.recorded_events} events · ${status.plots_available} DAS plots`;
+      `${status.recorded_events} events · ${status.plots_available} DAS plots · ${geophoneCount} geophone comparisons`;
+    els.geophoneCountText.textContent = `Geophone comparisons: ${geophoneCount} / ${status.recorded_events}`;
 
     const first = status.event_time_start_utc
       ? dateToken(status.event_time_start_utc)
