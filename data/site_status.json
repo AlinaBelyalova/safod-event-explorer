@@ -1,6 +1,6 @@
 {
-  "build_id": "20261028T215931Z",
-  "generated_utc": "2026-10-28T21:59:31.932250Z",
+  "build_id": "20261116T052443Z",
+  "generated_utc": "2026-11-16T05:24:43.097424Z",
   "event_time_start_utc": "2026-03-28T19:44:30.590000Z",
   "event_time_end_utc": "2026-10-09T08:44:42.820000Z",
   "recorded_events": 431,
@@ -9,6 +9,6 @@
   "geophone_comparisons_available": 347,
   "catalog_sha256": "6c02b60f2e2a8aa017e1e2ef1deb0f78414d21c99ab59d18485ffea9f2525b48",
   "catalog_name": "catalog_recorded.csv",
-  "elastic_das_git_commit": "93296ea63e2a596a74ee99095f91139e74d27bf0",
+  "elastic_das_git_commit": "aa8ca5ca6adc5efef1555fce5fd89b9fd252194c",
   "web_product_version": 2
 }
